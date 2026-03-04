@@ -1,0 +1,26 @@
+# Quantum frameworks
+qiskit>=2.3.0
+qiskit-aer>=0.17.0
+qiskit-machine-learning>=0.8.0
+qiskit-ibm-runtime>=0.35.0
+pennylane>=0.44.0
+pennylane-lightning>=0.44.0
+
+# Quantum NLP
+lambeq>=0.5.0
+
+# Classical ML / deep learning
+torch>=2.10.0
+numpy>=1.26.0
+scikit-learn>=1.5.0
+
+# Web framework for microservices
+fastapi>=0.115.0
+uvicorn[standard]>=0.34.0
+httpx>=0.28.0
+
+# Utilities
+matplotlib>=3.9.0
+jupyter>=1.1.0
+python-dotenv>=1.0.0
+pydantic>=2.10.0

@@ -1,5 +1,3 @@
-# Quantum-AI-Project
-<DOCUMENT filename="README.md">
 # Jarvis Quantum
 
 ## Overview
@@ -106,4 +104,3 @@ MIT License. See LICENSE file for details.
 - Author: Yorkie Brown (@yorkie9733 on X)
 - Date: March 2026
 
-</DOCUMENT>
