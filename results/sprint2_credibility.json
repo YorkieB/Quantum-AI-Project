@@ -1,0 +1,78 @@
+{
+  "classical": [
+    {
+      "method": "Linguistic + LogReg",
+      "train_acc": 1.0,
+      "val_acc": 1.0,
+      "test_acc": 1.0,
+      "test_f1": 1.0,
+      "confidence": 0.9939,
+      "time": 0.0047
+    },
+    {
+      "method": "Linguistic + RF",
+      "train_acc": 1.0,
+      "val_acc": 1.0,
+      "test_acc": 1.0,
+      "test_f1": 1.0,
+      "confidence": 0.9958,
+      "time": 0.0756
+    },
+    {
+      "method": "TF-IDF + SVM",
+      "train_acc": 1.0,
+      "val_acc": 1.0,
+      "test_acc": 1.0,
+      "test_f1": 1.0,
+      "confidence": 0.9984,
+      "time": 0.1545
+    },
+    {
+      "method": "TF-IDF + GBM",
+      "train_acc": 1.0,
+      "val_acc": 1.0,
+      "test_acc": 1.0,
+      "test_f1": 1.0,
+      "confidence": 0.995,
+      "time": 0.2318
+    },
+    {
+      "method": "Combined + LogReg",
+      "train_acc": 1.0,
+      "val_acc": 1.0,
+      "test_acc": 1.0,
+      "test_f1": 1.0,
+      "confidence": 0.994,
+      "time": 0.0058
+    },
+    {
+      "method": "Combined + SVM",
+      "train_acc": 1.0,
+      "val_acc": 1.0,
+      "test_acc": 1.0,
+      "test_f1": 1.0,
+      "confidence": 0.9954,
+      "time": 0.0098
+    },
+    {
+      "method": "spaCy + SVM",
+      "train_acc": 1.0,
+      "val_acc": 1.0,
+      "test_acc": 1.0,
+      "test_f1": 1.0,
+      "confidence": 0.9967,
+      "time": 0.0095
+    }
+  ],
+  "quantum": [
+    {
+      "method": "Quantum N=1 (60 train, 8-word)",
+      "train_acc": 1.0,
+      "val_acc": 0.8583,
+      "test_acc": 0.8167,
+      "confidence": 0.8567,
+      "time": 232.5,
+      "n_params": 980
+    }
+  ]
+}

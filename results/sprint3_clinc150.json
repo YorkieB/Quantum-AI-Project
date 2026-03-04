@@ -1,0 +1,98 @@
+{
+  "dataset": "CLINC150",
+  "n_classes_multi": 21,
+  "selected_intents": [
+    "balance",
+    "bill_balance",
+    "bill_due",
+    "pay_bill",
+    "transfer",
+    "transactions",
+    "spending_history",
+    "book_flight",
+    "book_hotel",
+    "car_rental",
+    "travel_suggestion",
+    "travel_alert",
+    "flight_status",
+    "international_visa",
+    "alarm",
+    "reminder",
+    "timer",
+    "todo_list",
+    "calendar",
+    "calendar_update",
+    "meeting_schedule"
+  ],
+  "binary_pair": [
+    "calendar",
+    "calendar_update"
+  ],
+  "classical_multi": [
+    {
+      "method": "TF-IDF + LogReg",
+      "train_acc": 0.989,
+      "val_acc": 0.9452,
+      "test_acc": 0.9333,
+      "test_f1": 0.933,
+      "time": 0.11
+    },
+    {
+      "method": "TF-IDF + SVM-linear",
+      "train_acc": 0.9976,
+      "val_acc": 0.9619,
+      "test_acc": 0.9349,
+      "test_f1": 0.935,
+      "time": 1.984
+    },
+    {
+      "method": "spaCy + LogReg",
+      "train_acc": 0.9214,
+      "val_acc": 0.7833,
+      "test_acc": 0.7429,
+      "test_f1": 0.7404,
+      "time": 0.084
+    },
+    {
+      "method": "spaCy + SVM-rbf",
+      "train_acc": 0.9543,
+      "val_acc": 0.7738,
+      "test_acc": 0.7778,
+      "test_f1": 0.7772,
+      "time": 0.556
+    }
+  ],
+  "quantum_binary": {
+    "method": "Quantum N=1",
+    "train_acc": 1.0,
+    "val_acc": 0.65,
+    "test_acc": 0.6333,
+    "confidence": 0.7283,
+    "time_seconds": 244.4,
+    "n_params": 833,
+    "train_size": 80
+  },
+  "intent_map": {
+    "alarm": 0,
+    "balance": 1,
+    "bill_balance": 2,
+    "bill_due": 3,
+    "book_flight": 4,
+    "book_hotel": 5,
+    "calendar": 6,
+    "calendar_update": 7,
+    "car_rental": 8,
+    "flight_status": 9,
+    "international_visa": 10,
+    "meeting_schedule": 11,
+    "pay_bill": 12,
+    "reminder": 13,
+    "spending_history": 14,
+    "timer": 15,
+    "todo_list": 16,
+    "transactions": 17,
+    "transfer": 18,
+    "travel_alert": 19,
+    "travel_suggestion": 20
+  }
+}

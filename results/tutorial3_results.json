@@ -1,0 +1,11 @@
+{
+  "parser": "StairsReader",
+  "ansatz": "IQPAnsatz(n_layers=2, n_single_qubit_params=3)",
+  "model": "PytorchQuantumModel",
+  "n_symbols": 209,
+  "train_sentences": 16,
+  "test_sentences": 6,
+  "epochs": 50,
+  "train_accuracy": 1.0,
+  "test_accuracy": 1.0
+}

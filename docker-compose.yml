@@ -1,0 +1,66 @@
+# Jarvis Quantum — Docker Compose
+# Orchestrates all quantum modules with shared base image.
+# Switch tiers by changing the env_file.
+
+version: "3.8"
+
+services:
+  # Module 1: Quantum NLU Engine (lambeq + PennyLane)
+  nlu:
+    build:
+      context: .
+      dockerfile: modules/nlu/Dockerfile
+    env_file: config/local.env
+    ports:
+      - "8001:8000"
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+
+  # Module 2: Reasoning Core (QAOA)
+  reasoning:
+    build:
+      context: .
+      dockerfile: modules/reasoning/Dockerfile
+    env_file: config/local.env
+    ports:
+      - "8002:8000"
+
+  # Module 3: Knowledge Retrieval (Grover's)
+  retrieval:
+    build:
+      context: .
+      dockerfile: modules/retrieval/Dockerfile
+    env_file: config/local.env
+    ports:
+      - "8003:8000"
+
+  # Module 4: Credibility Verifier (VQC)
+  credibility:
+    build:
+      context: .
+      dockerfile: modules/credibility/Dockerfile
+    env_file: config/local.env
+    ports:
+      - "8004:8000"
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+
+  # Module 5: Voice Processor (Hybrid QNN)
+  voice:
+    build:
+      context: .
+      dockerfile: modules/voice/Dockerfile
+    env_file: config/local.env
+    ports:
+      - "8005:8000"
+
+  # Module 6: Secure Communications (QKD)
+  secure_comms:
+    build:
+      context: .
+      dockerfile: modules/secure_comms/Dockerfile
+    env_file: config/local.env
+    ports:
+      - "8006:8000"

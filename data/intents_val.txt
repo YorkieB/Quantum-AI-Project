@@ -1,0 +1,90 @@
+1	set a reminder for noon
+1	remind me about renew the insurance at noon
+0	when did the Oscars happen
+1	close YouTube
+0	search for space travel
+0	show me machine learning
+0	when is the next the Olympics
+0	give me information on piano lessons
+1	reply to Tom
+1	brighten the porch lights
+1	pause the music
+1	create an alarm for in two hours
+0	what is the best coffee beans
+1	switch on the attic lights
+1	set an alarm for midnight
+1	switch on the conservatory lights
+1	set a reminder for half an hour
+0	what is the best deep sea creatures
+0	show me video games
+1	turn the heating on
+0	what is the best recipes
+1	set the nursery lights to medium
+0	when was yoga exercises invented
+0	how long does driving test tips take
+0	where is the nearest cinema
+1	schedule a reminder for seven am
+1	alert me at noon
+0	who invented volcano eruptions
+0	give me details about university rankings
+1	send an email to Lisa
+0	who directed the Godfather
+0	give me details about quantum computing
+0	what is coffee beans
+0	what happened with phone cases
+0	what is the best job interviews
+0	find articles about first aid
+0	find the latest on python programming
+1	remind me to submit the report
+1	launch the browser
+0	who wrote Star Wars
+0	show me pictures of bus routes
+0	check if electric cars is open
+0	how long does video games take
+1	text Tom
+0	search for haircut styles
+0	check if healthy meals is open
+1	switch off the nursery lights
+0	what is the difference between iOS and Android
+0	who wrote Pride and Prejudice
+0	find articles about laptop deals
+1	stop the dehumidifier
+1	get directions to the airport
+1	remind me to renew the insurance
+1	play workout music
+1	play my chill playlist
+1	play my party playlist
+1	set the porch lights to medium
+0	when did the Champions League final happen
+1	arm the security system
+0	what does recipes mean
+0	what are the top bitcoin price
+1	message Alex saying happy birthday
+0	google photography tips
+1	take a photo
+1	call Emma
+1	set a reminder for quarter past nine
+0	find me car insurance
+1	ring Lisa
+1	remind me about feed the cat at five minutes
+0	find out about volcano eruptions
+0	what does yoga exercises mean
+0	look up volcano eruptions online
+1	turn off the living room lights
+0	when does barber open
+0	check the time in the Eiffel Tower
+0	I need information on video games
+0	who invented hotel rooms
+0	search the web for ocean currents
+0	when did the election happen
+1	dim the dining room lights
+0	do a search for bitcoin price
+0	where should I go for home renovation
+0	what happened with tax rules
+0	show me podcast suggestions
+0	who is Shakespeare
+1	lights off in the bedroom
+0	what is the best gardening tips
+0	where should I go for salary comparisons
+1	get directions to the hospital
+1	navigate to the gym

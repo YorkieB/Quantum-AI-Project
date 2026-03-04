@@ -1,0 +1,11 @@
+{
+  "pipeline": "Hybrid Classical+Quantum Credibility",
+  "dataset": "LIAR",
+  "threshold": 0.65,
+  "classical_only": 0.6347,
+  "hybrid_switch": 0.616,
+  "hybrid_blend": 0.6222,
+  "classical_on_uncertain": 0.5415,
+  "quantum_on_uncertain": 0.5087,
+  "majority_baseline": 0.5736
+}

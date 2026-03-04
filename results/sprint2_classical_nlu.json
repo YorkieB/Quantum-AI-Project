@@ -1,0 +1,72 @@
+[
+  {
+    "method": "TF-IDF + LogReg",
+    "train_acc": 1.0,
+    "test_acc": 1.0,
+    "hard_test_acc": 0.5,
+    "avg_confidence": 0.5798,
+    "cv_mean": 0.8125,
+    "cv_std": 0.2073,
+    "time_seconds": 0.0068
+  },
+  {
+    "method": "TF-IDF + SVM-linear",
+    "train_acc": 1.0,
+    "test_acc": 1.0,
+    "hard_test_acc": 0.5,
+    "avg_confidence": 0.6543,
+    "cv_mean": 0.8125,
+    "cv_std": 0.2073,
+    "time_seconds": 0.0022
+  },
+  {
+    "method": "TF-IDF + SVM-rbf",
+    "train_acc": 1.0,
+    "test_acc": 1.0,
+    "hard_test_acc": 0.5,
+    "avg_confidence": 0.7153,
+    "cv_mean": 0.875,
+    "cv_std": 0.125,
+    "time_seconds": 0.0008
+  },
+  {
+    "method": "spaCy + LogReg",
+    "train_acc": 1.0,
+    "test_acc": 0.8333,
+    "hard_test_acc": 0.6875,
+    "avg_confidence": 0.7978,
+    "cv_mean": 0.6875,
+    "cv_std": 0.1083,
+    "time_seconds": 0.0031
+  },
+  {
+    "method": "spaCy + SVM-rbf",
+    "train_acc": 0.9375,
+    "test_acc": 1.0,
+    "hard_test_acc": 0.625,
+    "avg_confidence": 0.6966,
+    "cv_mean": 0.75,
+    "cv_std": 0.0,
+    "time_seconds": 0.0017
+  },
+  {
+    "method": "Quantum N=1 (Tutorial 3)",
+    "train_acc": 1.0,
+    "test_acc": 1.0,
+    "hard_test_acc": "N/A",
+    "avg_confidence": 0.887,
+    "cv_mean": "N/A",
+    "cv_std": "N/A",
+    "time_seconds": 12.6
+  },
+  {
+    "method": "Quantum N=3 (best)",
+    "train_acc": 1.0,
+    "test_acc": 1.0,
+    "hard_test_acc": "N/A",
+    "avg_confidence": 0.912,
+    "cv_mean": "N/A",
+    "cv_std": "N/A",
+    "time_seconds": 12.8
+  }
+]

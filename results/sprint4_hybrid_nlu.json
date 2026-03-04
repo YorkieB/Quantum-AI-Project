@@ -1,0 +1,13 @@
+{
+  "dataset": "CLINC150",
+  "n_classes": 21,
+  "confused_pair": [
+    "calendar",
+    "calendar_update"
+  ],
+  "classical_multi": 0.9333,
+  "hybrid_multi": 0.9206,
+  "classical_binary": 0.8667,
+  "quantum_binary": 0.6833,
+  "quantum_time": 256.6
+}

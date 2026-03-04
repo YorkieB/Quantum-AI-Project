@@ -1,0 +1,420 @@
+1	phone Lisa
+1	message Rachel saying happy birthday
+0	I want to know about salary comparisons
+0	when was gym memberships invented
+0	what is electric cars
+1	play my discover weekly playlist
+0	check the weather in Sydney
+0	who directed the Great Gatsby
+1	dial John
+0	check the weather in Paris
+1	start the dishwasher
+1	turn the basement lights on
+0	find articles about visa requirements
+0	how does history of Rome work
+1	lock the back door
+0	when did the world cup happen
+1	turn off the hallway lights
+0	where should I go for laptop deals
+0	check the weather in the nearest train station
+1	send an email to Dad
+0	tell me more about painting techniques
+1	wake me up at midnight
+0	what are dinosaur species
+1	start navigation to the airport
+1	mute the speakers
+1	navigate to Tesco
+1	create an alarm for eight thirty
+1	turn off the garage lights
+0	run a search on football results
+0	what are dogs
+1	brighten the bedroom lights
+0	check the price of quantum computing
+1	start navigation to the office
+1	dim the bathroom lights
+1	create an alarm for tomorrow morning
+0	who won the Super Bowl
+0	where should I go for podcast suggestions
+1	get directions to home
+0	give me information on bitcoin price
+0	where is Sydney
+1	start the robot vacuum
+0	who is Ada Lovelace
+1	alert me at midnight
+0	find the latest on recipes
+0	tell me more about book recommendations
+1	reply to Dad
+0	search the web for mortgage rates
+1	close Netflix
+1	set the volume to fifty
+1	message Sarah saying call me back
+0	find out about first aid
+1	launch Netflix
+0	show me train schedules
+1	lights off in the office
+1	switch on the porch lights
+0	show me pictures of gardening tips
+0	find astronomy facts
+1	set a timer for fifteen minutes
+0	where is the nearest gym
+1	decrease the screen brightness
+1	navigate to the office
+0	find the latest on holiday destinations
+1	remind me about submit the report at midnight
+1	start navigation to home
+1	dim the study lights
+1	text John
+0	find details on space travel
+0	what are wedding venues
+0	when did the concert happen
+1	close the bedroom window
+0	where is Berlin
+1	turn on the television
+0	what is the best piano lessons
+0	find articles about scholarship applications
+1	set a timer for half an hour
+0	check the price of laptop deals
+0	who wrote the Godfather
+1	skip to the next track
+0	search for deep sea creatures
+1	play some country music
+0	how much does tennis scores cost
+0	how to start a business
+0	tell me more about stock market
+0	show me pictures of university rankings
+0	look up volcano eruptions for me
+1	turn the air conditioning off
+0	look up astronomy facts
+0	show me healthy meals
+1	navigate to school
+1	switch on the bathroom lights
+1	launch Spotify
+0	search online for flight tickets
+1	brighten the garage lights
+0	who invented car insurance
+1	send an email to Sarah
+0	search for football results
+0	what are the top hotel rooms
+0	where did the grand prix happen
+0	find articles about winter jackets
+0	find articles about volcano eruptions
+0	I need information on holiday destinations
+0	who is Lionel Messi
+0	I need information on salary comparisons
+1	unlock the back door
+1	send an email to Rachel
+1	open the curtains
+1	get directions to school
+0	search online for yoga exercises
+1	phone Mum
+1	turn the garden lights off
+1	turn the dining room lights off
+1	navigate to the train station
+1	remind me about pick up the kids at in two hours
+0	tell me about python programming
+0	what is the best stock market
+0	check the time in the nearest train station
+0	how does train schedules work
+0	find stock market
+1	get directions to the office
+0	when did the Olympics happen
+0	when did the festival happen
+1	set the volume to seventy
+1	switch off the conservatory lights
+0	look up dogs for me
+1	create an alarm for noon
+0	find out about video games
+0	check the score of the election
+0	search online for healthy meals
+0	when is the Champions League final
+0	run a search on laptop deals
+0	where is the nearest barber
+1	reply to Mike
+0	how long does photography tips take
+0	find tax rules
+1	take a screenshot
+1	set the thermostat to nineteen degrees
+1	remind me about call mum at half an hour
+0	how long does car insurance take
+0	find details on scholarship applications
+1	launch Settings
+1	ring Emma
+1	play the Beatles
+1	set a reminder for midnight
+1	check my texts
+1	set the thermostat to eighteen degrees
+1	play some blues music
+1	turn the air conditioning on
+0	give me information on parking spots
+1	how do I get to home
+0	who wrote the Mona Lisa
+1	shuffle my playlist
+0	check the price of holiday destinations
+1	send a message to David
+1	set a reminder for in two hours
+1	wake me up at six in the morning
+0	who wrote Bohemian Rhapsody
+0	find the latest on climate change
+0	show me car insurance
+1	dim the hallway lights
+0	run a search on volcano eruptions
+1	play my favourite playlist
+0	search online for painting techniques
+1	start navigation to the hospital
+1	read my latest email
+1	turn the attic lights off
+1	call Rachel
+0	look up scholarship applications for me
+0	look up quantum computing
+1	call David
+1	switch on the garden lights
+0	tell me about painting techniques
+1	disarm the alarm
+0	run a search on passport renewal
+0	where can I find gardening tips
+0	how does passport renewal work
+1	dial Emma
+1	play today's top hits
+0	where should I go for bitcoin price
+1	play my study playlist
+0	what is the best holiday destinations
+1	close the garage
+0	I need information on movie reviews
+1	switch off the bedroom lights
+1	turn the living room lights off
+0	show me hotel rooms
+0	tell me more about photography tips
+0	when was hotel rooms invented
+1	open the bedroom window
+1	unlock the front door
+1	dial Sarah
+0	search online for driving test tips
+1	get directions to Tesco
+0	find out about football results
+0	where is the Grand Canyon
+0	who wrote Harry Potter
+1	lights off in the study
+1	switch off the kitchen lights
+0	find articles about the solar system
+1	send an email to James
+0	I want to know about gardening tips
+0	what happened with deep sea creatures
+1	lights on in the basement
+1	message John saying thank you
+0	what is the best ocean currents
+1	stop the music
+0	where should I go for job interviews
+1	wake me up at noon
+1	turn on the coffee machine
+0	search online for home renovation
+1	turn off the microwave
+0	how much does first aid cost
+0	find cats
+0	how do you change a tyre
+0	look up gardening tips for me
+1	remind me about order groceries at three pm
+1	take me to Tesco
+0	do a search for salary comparisons
+0	when is the next the Super Bowl
+0	check the price of haircut styles
+0	how do you meditate properly
+0	check the price of movie reviews
+0	find the latest on deep sea creatures
+0	look up book recommendations
+1	set an alarm for in two hours
+1	set a reminder to order groceries at seven am
+1	turn the kitchen lights on
+0	give me details about photography tips
+0	check the weather in Berlin
+0	who discovered restaurant menus
+1	send an email to Mike
+0	tell me more about home renovation
+1	turn off wifi
+0	what are job interviews
+0	where is the nearest park
+1	set the thermostat to twenty five degrees
+1	close WhatsApp
+1	how do I get to school
+0	find ocean currents
+0	find the latest on parking spots
+0	who won the election
+0	where did the concert happen
+0	who is Elon Musk
+1	turn off the air purifier
+0	check my calendar
+0	how does guitar chords work
+0	give me information on football results
+1	create an alarm for seven am
+0	where can I find home renovation
+0	who is Nikola Tesla
+1	create an alarm for three pm
+0	what does train schedules mean
+0	what is the best book recommendations
+1	remind me about buy milk at seven am
+0	who won the grand prix
+0	search for job interviews
+1	ring Mike
+1	ring Rachel
+0	when was bitcoin price invented
+1	set a timer for ten minutes
+1	turn off the attic lights
+0	I need information on laptop deals
+1	close the blinds
+1	start navigation to the train station
+1	play some electronic music
+1	turn on bluetooth
+0	I want to know about rainforest animals
+0	what is the difference between electric and hybrid cars
+0	when does park open
+0	show me pictures of football results
+1	turn on the kitchen lights
+1	how do I get to the train station
+0	how much does passport renewal cost
+1	enable do not disturb
+1	switch off the dining room lights
+1	set the dining room lights to full
+0	what does astronomy facts mean
+1	close the front door
+0	where should I go for volcano eruptions
+0	find mortgage rates
+0	what is the difference between cats and dogs
+1	play some folk music
+0	find details on job interviews
+1	open the kitchen window
+0	give me information on coffee beans
+0	when is the next the world cup
+1	how do I get to the gym
+1	remind me about attend the meeting at five minutes
+1	turn off the fan
+1	set a reminder for five minutes
+0	who is the president
+0	what is haircut styles
+1	play some jazz music
+1	open the blinds
+1	switch off the garden lights
+1	switch off the office lights
+0	what is the difference between Netflix and Disney Plus
+0	find details on painting techniques
+0	show me first aid
+0	how many running shoes are there
+1	alert me at half an hour
+0	show me pictures of quantum computing
+0	who won the marathon
+0	what are the top the solar system
+1	restart the computer
+1	send a message to Tom
+0	when is the next the marathon
+1	play the latest podcast
+1	open the calculator
+1	take me to home
+1	get directions to the nearest petrol station
+0	when does bank open
+0	when did the marathon happen
+1	dim the conservatory lights
+0	check the score of the concert
+1	message James saying happy birthday
+1	brighten the hallway lights
+0	look up wedding venues
+1	switch on the garage lights
+0	who invented football results
+1	turn the volume up
+1	turn on the washing machine
+1	turn the conservatory lights on
+1	lock the garage door
+1	stop the dishwasher
+1	turn the hallway lights on
+1	turn on the nursery lights
+1	shut down the laptop
+0	what is phone cases
+0	when is the next the concert
+1	create an alarm for quarter past nine
+1	go back to the previous song
+1	how do I get to the office
+1	set a timer for forty five minutes
+0	what are gym memberships
+0	how much does restaurant menus cost
+1	turn the nursery lights off
+1	dim the garage lights
+0	search online for car insurance
+1	start the television
+0	check the score of the marathon
+1	dial Dad
+0	I need information on home renovation
+0	find me running shoes
+0	find out about machine learning
+1	dim the living room lights
+1	schedule a reminder for in two hours
+1	take me to work
+1	send a message to Emma
+1	launch YouTube
+1	play lo-fi beats
+0	look up coffee beans online
+1	play the latest news briefing
+0	what does guitar chords mean
+0	check the news about podcast suggestions
+1	call Lisa
+1	dim the nursery lights
+0	check the price of painting techniques
+0	find me machine learning
+0	when did the Super Bowl happen
+0	how does driving test tips work
+1	take me to school
+1	remind me to buy milk
+0	find me passport renewal
+1	set a reminder for six in the morning
+0	find me university rankings
+0	do a search for bus routes
+1	wake me up at half an hour
+1	increase the screen brightness
+1	create an alarm for half an hour
+0	check the price of dinosaur species
+0	what is laptop deals
+1	ring Mum
+0	check if running shoes is open
+0	when did the grand prix happen
+0	find information about dogs
+0	how far is Mount Everest
+1	turn on the conservatory lights
+1	set a reminder to book the dentist at quarter past nine
+1	wake me up at seven am
+0	where is the nearest library
+0	what are the top gardening tips
+0	give me information on first aid
+1	alert me at ten o clock
+0	check if first aid is open
+1	how do I get to the hospital
+1	turn on the heater
+0	how far is Tokyo
+1	start the washing machine
+0	who directed Star Wars
+1	take me to the airport
+1	set an alarm for six in the morning
+0	I need information on car insurance
+0	find details on haircut styles
+1	navigate to the hospital
+0	check the score of the Oscars
+1	play some classical music
+0	check the news about climate change
+1	brighten the kitchen lights
+0	where should I go for video games
+1	remind me about take the bins out at ten o clock
+0	find out about quantum computing
+0	find information about python programming
+1	send a message to Rachel
+1	reply to Sarah
+1	start navigation to work
+0	find me volcano eruptions
+0	when is the Oscars
+0	how to solve a Rubik cube
+0	find articles about skincare products
+0	look up stock market for me
+1	remind me about buy milk at eight thirty
+1	resume playback
+1	schedule a reminder for half an hour
+1	alert me at three pm
+0	where is New York
+0	where can I find visa requirements
+0	how much does healthy meals cost
+1	send a message to Mike
+0	find articles about guitar chords
+0	when is the Super Bowl

@@ -1,0 +1,23 @@
+{
+  "classical": [],
+  "quantum": [],
+  "metadata": {
+    "dataset": "sprint2_task3_dataset.json",
+    "n_labels": 6,
+    "labels": [
+      "Alice",
+      "Bob",
+      "Charlie",
+      "Diana",
+      "Eve",
+      "Frank"
+    ],
+    "chance": 0.1667,
+    "quantum_config": {
+      "train_n": 80,
+      "epochs": 80,
+      "lr": 0.05,
+      "batch_size": 30
+    }
+  }
+}

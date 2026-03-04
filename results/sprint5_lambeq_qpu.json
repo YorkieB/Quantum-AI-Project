@@ -1,0 +1,153 @@
+{
+  "task": "Sprint 5.1 - NLU on QPU",
+  "backend": "ibm_fez",
+  "n_qubits": 4,
+  "n_layers": 2,
+  "n_params": 24,
+  "train_sentences": 16,
+  "test_sentences": 8,
+  "simulator_accuracy": 0.625,
+  "qpu_accuracy": 0.75,
+  "sim_qpu_agreement": 0.625,
+  "noise_impact": -0.125,
+  "total_qpu_time_s": 916.6,
+  "sim_predictions": [
+    {
+      "sentence": "search for restaurants nearby",
+      "true_label": 0,
+      "predicted": 1,
+      "p_action": 0.5127,
+      "correct": false
+    },
+    {
+      "sentence": "what is the weather today",
+      "true_label": 0,
+      "predicted": 0,
+      "p_action": 0.459,
+      "correct": true
+    },
+    {
+      "sentence": "find me a good hotel",
+      "true_label": 0,
+      "predicted": 0,
+      "p_action": 0.4805,
+      "correct": true
+    },
+    {
+      "sentence": "who won the game last night",
+      "true_label": 0,
+      "predicted": 0,
+      "p_action": 0.4824,
+      "correct": true
+    },
+    {
+      "sentence": "turn on the lights",
+      "true_label": 1,
+      "predicted": 0,
+      "p_action": 0.4648,
+      "correct": false
+    },
+    {
+      "sentence": "set an alarm for seven",
+      "true_label": 1,
+      "predicted": 0,
+      "p_action": 0.4814,
+      "correct": false
+    },
+    {
+      "sentence": "play some jazz music",
+      "true_label": 1,
+      "predicted": 1,
+      "p_action": 0.502,
+      "correct": true
+    },
+    {
+      "sentence": "send a message to mum",
+      "true_label": 1,
+      "predicted": 1,
+      "p_action": 0.5498,
+      "correct": true
+    }
+  ],
+  "qpu_predictions": [
+    {
+      "sentence": "search for restaurants nearby",
+      "true_label": 0,
+      "predicted": 0,
+      "p_action": 0.4707,
+      "correct": true,
+      "qpu_time": 590.3,
+      "transpiled_depth": 15
+    },
+    {
+      "sentence": "what is the weather today",
+      "true_label": 0,
+      "predicted": 0,
+      "p_action": 0.498,
+      "correct": true,
+      "qpu_time": 46.1,
+      "transpiled_depth": 15
+    },
+    {
+      "sentence": "find me a good hotel",
+      "true_label": 0,
+      "predicted": 0,
+      "p_action": 0.4805,
+      "correct": true,
+      "qpu_time": 8.1,
+      "transpiled_depth": 15
+    },
+    {
+      "sentence": "who won the game last night",
+      "true_label": 0,
+      "predicted": 0,
+      "p_action": 0.4609,
+      "correct": true,
+      "qpu_time": 12.8,
+      "transpiled_depth": 15
+    },
+    {
+      "sentence": "turn on the lights",
+      "true_label": 1,
+      "predicted": 1,
+      "p_action": 0.5176,
+      "correct": true,
+      "qpu_time": 10.0,
+      "transpiled_depth": 15
+    },
+    {
+      "sentence": "set an alarm for seven",
+      "true_label": 1,
+      "predicted": 0,
+      "p_action": 0.4902,
+      "correct": false,
+      "qpu_time": 9.5,
+      "transpiled_depth": 15
+    },
+    {
+      "sentence": "play some jazz music",
+      "true_label": 1,
+      "predicted": 0,
+      "p_action": 0.4844,
+      "correct": false,
+      "qpu_time": 212.7,
+      "transpiled_depth": 15
+    },
+    {
+      "sentence": "send a message to mum",
+      "true_label": 1,
+      "predicted": 1,
+      "p_action": 0.5234,
+      "correct": true,
+      "qpu_time": 27.2,
+      "transpiled_depth": 15
+    }
+  ],
+  "qpu_budget": {
+    "previous_usage_s": 160,
+    "this_run_s": 916.6,
+    "total_estimated_s": 1076.6,
+    "monthly_budget_s": 600,
+    "remaining_s": -476.6
+  }
+}

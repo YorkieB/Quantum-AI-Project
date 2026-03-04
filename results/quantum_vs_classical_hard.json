@@ -1,0 +1,61 @@
+{
+  "quantum": [
+    {
+      "method": "Quantum N=1",
+      "noun_qubits": 1,
+      "n_params": 368,
+      "train_acc": 1.0,
+      "easy_test_acc": 1.0,
+      "hard_test_acc": 0.6875,
+      "hard_confidence": 0.7437,
+      "time_seconds": 12.2
+    },
+    {
+      "method": "Quantum N=2",
+      "noun_qubits": 2,
+      "n_params": 368,
+      "train_acc": 1.0,
+      "easy_test_acc": 0.6667,
+      "hard_test_acc": 0.5625,
+      "hard_confidence": 0.8308,
+      "time_seconds": 12.6
+    },
+    {
+      "method": "Quantum N=3",
+      "noun_qubits": 3,
+      "n_params": 368,
+      "train_acc": 1.0,
+      "easy_test_acc": 0.6667,
+      "hard_test_acc": 0.5,
+      "hard_confidence": 0.8032,
+      "time_seconds": 12.6
+    }
+  ],
+  "classical": [
+    {
+      "method": "TF-IDF + LogReg",
+      "hard_test_acc": 0.5,
+      "hard_confidence": 0.58
+    },
+    {
+      "method": "TF-IDF + SVM-linear",
+      "hard_test_acc": 0.5,
+      "hard_confidence": 0.654
+    },
+    {
+      "method": "TF-IDF + SVM-rbf",
+      "hard_test_acc": 0.5,
+      "hard_confidence": 0.715
+    },
+    {
+      "method": "spaCy + LogReg",
+      "hard_test_acc": 0.69,
+      "hard_confidence": 0.798
+    },
+    {
+      "method": "spaCy + SVM-rbf",
+      "hard_test_acc": 0.63,
+      "hard_confidence": 0.697
+    }
+  ]
+}

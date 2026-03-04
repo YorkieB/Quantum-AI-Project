@@ -1,0 +1,80 @@
+{
+  "dataset": "LIAR",
+  "task": "Binary: CREDIBLE (true+mostly-true) vs NOT CREDIBLE (false+pants-fire)",
+  "classical": [
+    {
+      "method": "TF-IDF + LogReg",
+      "train_acc": 0.8041,
+      "val_acc": 0.6733,
+      "test_acc": 0.6347,
+      "test_f1": 0.6259,
+      "time": 0.029
+    },
+    {
+      "method": "TF-IDF + SVM",
+      "train_acc": 0.8343,
+      "val_acc": 0.6746,
+      "test_acc": 0.6397,
+      "test_f1": 0.6343,
+      "time": 19.158
+    },
+    {
+      "method": "Linguistic + LogReg",
+      "train_acc": 0.6126,
+      "val_acc": 0.6133,
+      "test_acc": 0.591,
+      "test_f1": 0.5842,
+      "time": 0.006
+    },
+    {
+      "method": "Linguistic + RF",
+      "train_acc": 0.9901,
+      "val_acc": 0.5807,
+      "test_acc": 0.5661,
+      "test_f1": 0.5585,
+      "time": 0.815
+    },
+    {
+      "method": "Combined + LogReg",
+      "train_acc": 0.7927,
+      "val_acc": 0.6733,
+      "test_acc": 0.6434,
+      "test_f1": 0.6377,
+      "time": 0.06
+    },
+    {
+      "method": "Combined + GBM",
+      "train_acc": 0.771,
+      "val_acc": 0.6546,
+      "test_acc": 0.6347,
+      "test_f1": 0.6227,
+      "time": 4.789
+    },
+    {
+      "method": "spaCy + LogReg",
+      "train_acc": 0.6366,
+      "val_acc": 0.6308,
+      "test_acc": 0.6646,
+      "test_f1": 0.6525,
+      "time": 0.019
+    },
+    {
+      "method": "spaCy + SVM",
+      "train_acc": 0.7254,
+      "val_acc": 0.6208,
+      "test_acc": 0.6496,
+      "test_f1": 0.6328,
+      "time": 5.956
+    }
+  ],
+  "quantum": {
+    "train_acc": 1.0,
+    "val_acc": 0.48,
+    "test_acc": 0.62,
+    "confidence": 0.7413,
+    "time": 466.3,
+    "n_params": 3830,
+    "train_size": 80
+  },
+  "majority_baseline": 0.5736
+}

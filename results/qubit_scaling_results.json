@@ -1,0 +1,57 @@
+[
+  {
+    "config": "A",
+    "noun_qubits": 1,
+    "sentence_qubits": 1,
+    "layers": 2,
+    "n_params": 209,
+    "train_acc": 1.0,
+    "test_acc": 1.0,
+    "avg_confidence": 0.8875,
+    "time_seconds": 12.6
+  },
+  {
+    "config": "B",
+    "noun_qubits": 2,
+    "sentence_qubits": 1,
+    "layers": 2,
+    "n_params": 209,
+    "train_acc": 1.0,
+    "test_acc": 1.0,
+    "avg_confidence": 0.9039,
+    "time_seconds": 12.6
+  },
+  {
+    "config": "C",
+    "noun_qubits": 3,
+    "sentence_qubits": 1,
+    "layers": 2,
+    "n_params": 209,
+    "train_acc": 1.0,
+    "test_acc": 1.0,
+    "avg_confidence": 0.912,
+    "time_seconds": 12.8
+  },
+  {
+    "config": "D",
+    "noun_qubits": 4,
+    "sentence_qubits": 1,
+    "layers": 3,
+    "n_params": 210,
+    "train_acc": 0.875,
+    "test_acc": 0.8333333134651184,
+    "avg_confidence": 0.7923,
+    "time_seconds": 15.6
+  },
+  {
+    "config": "E",
+    "noun_qubits": 6,
+    "sentence_qubits": 1,
+    "layers": 3,
+    "n_params": 210,
+    "train_acc": 1.0,
+    "test_acc": 1.0,
+    "avg_confidence": 0.7134,
+    "time_seconds": 15.6
+  }
+]

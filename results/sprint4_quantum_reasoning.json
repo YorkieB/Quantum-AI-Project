@@ -1,0 +1,86 @@
+{
+  "module": "Quantum Reasoning",
+  "entailment_detection": {
+    "accuracy": 0.3333333333333333,
+    "correct": 810,
+    "total": 9,
+    "results": [
+      {
+        "premise": "The economy grew by 3 percent last year",
+        "hypothesis": "Economic growth was positive",
+        "expected": "ENTAILMENT",
+        "predicted": "ENTAILMENT",
+        "correct": true,
+        "confidence": 0.9
+      },
+      {
+        "premise": "Unemployment dropped to 4 percent",
+        "hypothesis": "The job market improved",
+        "expected": "ENTAILMENT",
+        "predicted": "CONTRADICTION",
+        "correct": false,
+        "confidence": 0.99
+      },
+      {
+        "premise": "The company reported record profits of 5 billion",
+        "hypothesis": "Corporate earnings increased significantly",
+        "expected": "ENTAILMENT",
+        "predicted": "NEUTRAL",
+        "correct": false,
+        "confidence": 0.5768
+      },
+      {
+        "premise": "The stock market rose sharply today",
+        "hypothesis": "Markets experienced a significant decline",
+        "expected": "CONTRADICTION",
+        "predicted": "CONTRADICTION",
+        "correct": true,
+        "confidence": 0.9
+      },
+      {
+        "premise": "Inflation increased to 8 percent",
+        "hypothesis": "Prices did not rise this year",
+        "expected": "CONTRADICTION",
+        "predicted": "CONTRADICTION",
+        "correct": true,
+        "confidence": 0.8
+      },
+      {
+        "premise": "The vaccine is proven safe and effective",
+        "hypothesis": "The vaccine has never been tested and is dangerous",
+        "expected": "CONTRADICTION",
+        "predicted": "NEUTRAL",
+        "correct": false,
+        "confidence": 0.6043
+      },
+      {
+        "premise": "The weather will be sunny tomorrow",
+        "hypothesis": "The football team won their match",
+        "expected": "NEUTRAL",
+        "predicted": "ENTAILMENT",
+        "correct": false,
+        "confidence": 0.9
+      },
+      {
+        "premise": "Python is a programming language",
+        "hypothesis": "The population of Tokyo is 14 million",
+        "expected": "NEUTRAL",
+        "predicted": "ENTAILMENT",
+        "correct": false,
+        "confidence": 0.9
+      },
+      {
+        "premise": "The cat sat on the mat",
+        "hypothesis": "Interest rates may change next quarter",
+        "expected": "NEUTRAL",
+        "predicted": "ENTAILMENT",
+        "correct": false,
+        "confidence": 0.9
+      }
+    ]
+  },
+  "inference_demos": [
+    "medical",
+    "financial"
+  ]
+}

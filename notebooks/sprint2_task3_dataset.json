@@ -1,0 +1,2071 @@
+{
+  "train": [
+    {
+      "text": "Eve was helped by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Charlie was called by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Alice was chased by Charlie near the station",
+      "label": "Charlie"
+    },
+    {
+      "text": "Bob was chased by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Charlie who was tired called Frank",
+      "label": "Charlie"
+    },
+    {
+      "text": "Bob surprised Charlie",
+      "label": "Bob"
+    },
+    {
+      "text": "Charlie helped Eve",
+      "label": "Charlie"
+    },
+    {
+      "text": "Alice who was smiling thanked Diana",
+      "label": "Alice"
+    },
+    {
+      "text": "Eve was called by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Bob who was running thanked Eve",
+      "label": "Bob"
+    },
+    {
+      "text": "Charlie was surprised by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Diana followed Eve",
+      "label": "Diana"
+    },
+    {
+      "text": "Alice chased Diana",
+      "label": "Alice"
+    },
+    {
+      "text": "Eve was helped by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Alice was chased by Diana at the market",
+      "label": "Diana"
+    },
+    {
+      "text": "Frank called Alice",
+      "label": "Frank"
+    },
+    {
+      "text": "Eve called Charlie at the market",
+      "label": "Eve"
+    },
+    {
+      "text": "Alice who was standing was chased by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Charlie was chased by Alice at the office",
+      "label": "Alice"
+    },
+    {
+      "text": "Eve called Bob",
+      "label": "Eve"
+    },
+    {
+      "text": "Diana who was tired followed Frank",
+      "label": "Diana"
+    },
+    {
+      "text": "Charlie was surprised by Frank in the park",
+      "label": "Frank"
+    },
+    {
+      "text": "Charlie thanked Alice",
+      "label": "Charlie"
+    },
+    {
+      "text": "Alice who was running was surprised by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Eve was thanked by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Alice thanked Frank",
+      "label": "Alice"
+    },
+    {
+      "text": "Alice was called by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Frank surprised Charlie who was waiting",
+      "label": "Frank"
+    },
+    {
+      "text": "Charlie helped Bob",
+      "label": "Charlie"
+    },
+    {
+      "text": "Frank thanked Charlie",
+      "label": "Frank"
+    },
+    {
+      "text": "Diana followed Alice",
+      "label": "Diana"
+    },
+    {
+      "text": "Eve thanked Diana",
+      "label": "Eve"
+    },
+    {
+      "text": "Bob was called by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Alice surprised Charlie",
+      "label": "Alice"
+    },
+    {
+      "text": "Eve was called by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Charlie helped Alice",
+      "label": "Charlie"
+    },
+    {
+      "text": "Charlie followed Bob",
+      "label": "Charlie"
+    },
+    {
+      "text": "Eve chased Bob",
+      "label": "Eve"
+    },
+    {
+      "text": "Frank was helped by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Eve was surprised by Bob in the park",
+      "label": "Bob"
+    },
+    {
+      "text": "Frank thanked Diana",
+      "label": "Frank"
+    },
+    {
+      "text": "Eve was surprised by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Charlie thanked Diana",
+      "label": "Charlie"
+    },
+    {
+      "text": "Bob thanked Charlie",
+      "label": "Bob"
+    },
+    {
+      "text": "Charlie called Frank",
+      "label": "Charlie"
+    },
+    {
+      "text": "Frank called Bob",
+      "label": "Frank"
+    },
+    {
+      "text": "Charlie thanked Bob",
+      "label": "Charlie"
+    },
+    {
+      "text": "Alice chased Bob who was standing",
+      "label": "Alice"
+    },
+    {
+      "text": "Alice followed Diana who was tired",
+      "label": "Alice"
+    },
+    {
+      "text": "Eve chased Charlie",
+      "label": "Eve"
+    },
+    {
+      "text": "Alice called Bob",
+      "label": "Alice"
+    },
+    {
+      "text": "Eve thanked Bob",
+      "label": "Eve"
+    },
+    {
+      "text": "Charlie helped Diana",
+      "label": "Charlie"
+    },
+    {
+      "text": "Diana surprised Alice",
+      "label": "Diana"
+    },
+    {
+      "text": "Eve helped Frank",
+      "label": "Eve"
+    },
+    {
+      "text": "Frank was followed by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Charlie who was running was surprised by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Frank thanked Eve near the station",
+      "label": "Frank"
+    },
+    {
+      "text": "Charlie was chased by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Eve was thanked by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Diana helped Eve",
+      "label": "Diana"
+    },
+    {
+      "text": "Diana thanked Charlie",
+      "label": "Diana"
+    },
+    {
+      "text": "Diana was followed by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Alice was chased by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Charlie was chased by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Bob surprised Eve",
+      "label": "Bob"
+    },
+    {
+      "text": "Eve followed Alice",
+      "label": "Eve"
+    },
+    {
+      "text": "Eve chased Alice",
+      "label": "Eve"
+    },
+    {
+      "text": "Diana thanked Eve near the station",
+      "label": "Diana"
+    },
+    {
+      "text": "Alice was thanked by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Alice was helped by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Bob helped Eve who was happy",
+      "label": "Bob"
+    },
+    {
+      "text": "Diana helped Frank",
+      "label": "Diana"
+    },
+    {
+      "text": "Charlie was surprised by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Frank followed Charlie",
+      "label": "Frank"
+    },
+    {
+      "text": "Diana was chased by Frank at the office",
+      "label": "Frank"
+    },
+    {
+      "text": "Eve surprised Frank at the market",
+      "label": "Eve"
+    },
+    {
+      "text": "Eve was followed by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Charlie was chased by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Diana was chased by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Eve was surprised by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Alice surprised Diana at the market",
+      "label": "Alice"
+    },
+    {
+      "text": "Frank was followed by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Bob chased Diana who was happy",
+      "label": "Bob"
+    },
+    {
+      "text": "Charlie helped Frank",
+      "label": "Charlie"
+    },
+    {
+      "text": "Alice followed Charlie who was tired",
+      "label": "Alice"
+    },
+    {
+      "text": "Frank was helped by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Diana who was waiting chased Alice",
+      "label": "Diana"
+    },
+    {
+      "text": "Eve was followed by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Eve called Diana",
+      "label": "Eve"
+    },
+    {
+      "text": "Frank called Diana",
+      "label": "Frank"
+    },
+    {
+      "text": "Bob followed Diana",
+      "label": "Bob"
+    },
+    {
+      "text": "Eve called Frank",
+      "label": "Eve"
+    },
+    {
+      "text": "Alice thanked Eve at the market",
+      "label": "Alice"
+    },
+    {
+      "text": "Frank who was tired was chased by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Eve who was standing thanked Bob",
+      "label": "Eve"
+    },
+    {
+      "text": "Charlie was followed by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Charlie was surprised by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Eve chased Frank",
+      "label": "Eve"
+    },
+    {
+      "text": "Alice called Diana",
+      "label": "Alice"
+    },
+    {
+      "text": "Alice was helped by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Bob was chased by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Diana surprised Eve",
+      "label": "Diana"
+    },
+    {
+      "text": "Diana chased Eve",
+      "label": "Diana"
+    },
+    {
+      "text": "Charlie who was standing helped Eve",
+      "label": "Charlie"
+    },
+    {
+      "text": "Alice was chased by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Diana chased Frank",
+      "label": "Diana"
+    },
+    {
+      "text": "Diana called Charlie",
+      "label": "Diana"
+    },
+    {
+      "text": "Alice thanked Eve",
+      "label": "Alice"
+    },
+    {
+      "text": "Diana was surprised by Bob near the station",
+      "label": "Bob"
+    },
+    {
+      "text": "Eve was surprised by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Frank was surprised by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Alice was surprised by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Diana was surprised by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Frank who was standing surprised Diana",
+      "label": "Frank"
+    },
+    {
+      "text": "Alice was thanked by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Frank followed Alice",
+      "label": "Frank"
+    },
+    {
+      "text": "Bob surprised Charlie in the park",
+      "label": "Bob"
+    },
+    {
+      "text": "Bob was helped by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Frank was thanked by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Charlie was surprised by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Alice was followed by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Frank was chased by Eve at the office",
+      "label": "Eve"
+    },
+    {
+      "text": "Alice was called by Frank at the office",
+      "label": "Frank"
+    },
+    {
+      "text": "Eve was surprised by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Frank was chased by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Diana who was tired surprised Bob",
+      "label": "Diana"
+    },
+    {
+      "text": "Frank called Charlie by the river",
+      "label": "Frank"
+    },
+    {
+      "text": "Charlie followed Alice",
+      "label": "Charlie"
+    },
+    {
+      "text": "Bob thanked Alice",
+      "label": "Bob"
+    },
+    {
+      "text": "Frank chased Diana",
+      "label": "Frank"
+    },
+    {
+      "text": "Frank was called by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Alice followed Charlie",
+      "label": "Alice"
+    },
+    {
+      "text": "Charlie chased Alice at the office",
+      "label": "Charlie"
+    },
+    {
+      "text": "Diana was followed by Charlie on the bridge",
+      "label": "Charlie"
+    },
+    {
+      "text": "Bob was followed by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Diana chased Frank near the station",
+      "label": "Diana"
+    },
+    {
+      "text": "Eve who was tired was helped by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Alice was thanked by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Eve surprised Charlie",
+      "label": "Eve"
+    },
+    {
+      "text": "Frank was chased by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Diana called Bob",
+      "label": "Diana"
+    },
+    {
+      "text": "Frank followed Diana",
+      "label": "Frank"
+    },
+    {
+      "text": "Bob chased Alice by the river",
+      "label": "Bob"
+    },
+    {
+      "text": "Charlie followed Diana",
+      "label": "Charlie"
+    },
+    {
+      "text": "Eve surprised Charlie who was happy",
+      "label": "Eve"
+    },
+    {
+      "text": "Frank helped Alice at the market",
+      "label": "Frank"
+    },
+    {
+      "text": "Bob was surprised by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Eve called Bob who was smiling",
+      "label": "Eve"
+    },
+    {
+      "text": "Charlie was chased by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Diana was surprised by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Eve thanked Frank",
+      "label": "Eve"
+    },
+    {
+      "text": "Charlie called Bob",
+      "label": "Charlie"
+    },
+    {
+      "text": "Alice was surprised by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Frank was helped by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Diana chased Charlie",
+      "label": "Diana"
+    },
+    {
+      "text": "Diana was surprised by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Frank followed Eve",
+      "label": "Frank"
+    },
+    {
+      "text": "Eve was followed by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Eve chased Diana",
+      "label": "Eve"
+    },
+    {
+      "text": "Alice helped Bob",
+      "label": "Alice"
+    },
+    {
+      "text": "Alice was thanked by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Bob thanked Frank who was smiling",
+      "label": "Bob"
+    },
+    {
+      "text": "Eve was thanked by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Eve was called by Frank at the office",
+      "label": "Frank"
+    },
+    {
+      "text": "Eve was thanked by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Alice helped Eve",
+      "label": "Alice"
+    },
+    {
+      "text": "Bob was called by Eve at the office",
+      "label": "Eve"
+    },
+    {
+      "text": "Bob was surprised by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Bob was thanked by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Frank was followed by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Eve followed Alice who was tired",
+      "label": "Eve"
+    },
+    {
+      "text": "Bob was surprised by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Alice was followed by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Bob was helped by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Frank surprised Diana",
+      "label": "Frank"
+    },
+    {
+      "text": "Eve helped Bob",
+      "label": "Eve"
+    },
+    {
+      "text": "Charlie thanked Diana at the market",
+      "label": "Charlie"
+    },
+    {
+      "text": "Alice was helped by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Diana thanked Eve",
+      "label": "Diana"
+    },
+    {
+      "text": "Alice was called by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Eve called Alice",
+      "label": "Eve"
+    },
+    {
+      "text": "Eve surprised Diana",
+      "label": "Eve"
+    },
+    {
+      "text": "Alice was chased by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Charlie chased Bob who was happy",
+      "label": "Charlie"
+    },
+    {
+      "text": "Bob helped Alice",
+      "label": "Bob"
+    },
+    {
+      "text": "Diana was thanked by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Frank who was happy followed Bob",
+      "label": "Frank"
+    },
+    {
+      "text": "Charlie who was running called Bob",
+      "label": "Charlie"
+    },
+    {
+      "text": "Alice was followed by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Alice was chased by Bob on the bridge",
+      "label": "Bob"
+    },
+    {
+      "text": "Charlie was surprised by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Charlie thanked Frank at the market",
+      "label": "Charlie"
+    },
+    {
+      "text": "Frank was thanked by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Charlie who was standing called Diana",
+      "label": "Charlie"
+    },
+    {
+      "text": "Charlie chased Eve",
+      "label": "Charlie"
+    },
+    {
+      "text": "Bob surprised Alice",
+      "label": "Bob"
+    },
+    {
+      "text": "Eve was called by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Diana thanked Alice",
+      "label": "Diana"
+    },
+    {
+      "text": "Diana was surprised by Alice on the bridge",
+      "label": "Alice"
+    },
+    {
+      "text": "Bob was followed by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Frank was chased by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Alice who was happy called Eve",
+      "label": "Alice"
+    },
+    {
+      "text": "Alice surprised Frank",
+      "label": "Alice"
+    },
+    {
+      "text": "Eve who was waiting was thanked by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Bob who was standing was followed by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Bob was followed by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Eve who was happy was followed by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Charlie chased Frank",
+      "label": "Charlie"
+    },
+    {
+      "text": "Frank was called by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Charlie was helped by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Charlie surprised Frank",
+      "label": "Charlie"
+    },
+    {
+      "text": "Charlie was called by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Frank followed Eve who was waiting",
+      "label": "Frank"
+    },
+    {
+      "text": "Eve was chased by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Alice who was smiling was called by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Bob chased Alice who was standing",
+      "label": "Bob"
+    },
+    {
+      "text": "Charlie thanked Frank",
+      "label": "Charlie"
+    },
+    {
+      "text": "Alice was followed by Eve at the office",
+      "label": "Eve"
+    },
+    {
+      "text": "Diana surprised Charlie",
+      "label": "Diana"
+    },
+    {
+      "text": "Diana helped Alice",
+      "label": "Diana"
+    },
+    {
+      "text": "Alice thanked Bob",
+      "label": "Alice"
+    },
+    {
+      "text": "Charlie helped Eve at the office",
+      "label": "Charlie"
+    },
+    {
+      "text": "Eve followed Diana",
+      "label": "Eve"
+    },
+    {
+      "text": "Eve thanked Charlie",
+      "label": "Eve"
+    },
+    {
+      "text": "Alice was surprised by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Alice surprised Diana",
+      "label": "Alice"
+    },
+    {
+      "text": "Frank thanked Bob by the river",
+      "label": "Frank"
+    },
+    {
+      "text": "Charlie was called by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Bob thanked Frank by the river",
+      "label": "Bob"
+    },
+    {
+      "text": "Eve was chased by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Charlie was thanked by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Eve who was running was surprised by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Eve followed Frank who was happy",
+      "label": "Eve"
+    },
+    {
+      "text": "Frank surprised Bob",
+      "label": "Frank"
+    },
+    {
+      "text": "Bob was helped by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Diana was called by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Bob thanked Eve",
+      "label": "Bob"
+    },
+    {
+      "text": "Eve who was standing followed Charlie",
+      "label": "Eve"
+    },
+    {
+      "text": "Diana who was waiting was chased by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Alice thanked Bob at the office",
+      "label": "Alice"
+    },
+    {
+      "text": "Frank followed Bob",
+      "label": "Frank"
+    },
+    {
+      "text": "Bob was surprised by Alice in the park",
+      "label": "Alice"
+    },
+    {
+      "text": "Alice helped Charlie",
+      "label": "Alice"
+    },
+    {
+      "text": "Bob chased Charlie",
+      "label": "Bob"
+    },
+    {
+      "text": "Charlie surprised Eve",
+      "label": "Charlie"
+    },
+    {
+      "text": "Frank was followed by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Frank was chased by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Frank who was tired chased Charlie",
+      "label": "Frank"
+    },
+    {
+      "text": "Bob chased Eve",
+      "label": "Bob"
+    },
+    {
+      "text": "Bob was called by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Eve was called by Alice near the station",
+      "label": "Alice"
+    },
+    {
+      "text": "Eve was called by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Diana followed Charlie",
+      "label": "Diana"
+    },
+    {
+      "text": "Charlie followed Frank",
+      "label": "Charlie"
+    },
+    {
+      "text": "Bob was thanked by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Frank surprised Alice",
+      "label": "Frank"
+    },
+    {
+      "text": "Frank was followed by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Charlie was helped by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Bob surprised Frank",
+      "label": "Bob"
+    },
+    {
+      "text": "Charlie was followed by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Frank was helped by Alice near the station",
+      "label": "Alice"
+    },
+    {
+      "text": "Charlie who was happy was followed by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Eve was called by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Eve was chased by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Alice was helped by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Bob helped Diana by the river",
+      "label": "Bob"
+    },
+    {
+      "text": "Alice helped Diana",
+      "label": "Alice"
+    },
+    {
+      "text": "Diana was chased by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Diana who was waiting was chased by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Bob was surprised by Charlie by the river",
+      "label": "Charlie"
+    },
+    {
+      "text": "Frank who was standing was thanked by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Alice called Charlie",
+      "label": "Alice"
+    },
+    {
+      "text": "Alice followed Bob",
+      "label": "Alice"
+    },
+    {
+      "text": "Bob helped Charlie",
+      "label": "Bob"
+    },
+    {
+      "text": "Frank surprised Diana near the station",
+      "label": "Frank"
+    },
+    {
+      "text": "Eve followed Bob on the bridge",
+      "label": "Eve"
+    },
+    {
+      "text": "Bob who was standing helped Charlie",
+      "label": "Bob"
+    },
+    {
+      "text": "Bob called Frank",
+      "label": "Bob"
+    },
+    {
+      "text": "Charlie chased Bob",
+      "label": "Charlie"
+    },
+    {
+      "text": "Diana was helped by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Alice chased Charlie",
+      "label": "Alice"
+    },
+    {
+      "text": "Frank was helped by Diana at the office",
+      "label": "Diana"
+    },
+    {
+      "text": "Frank was surprised by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Frank surprised Bob who was smiling",
+      "label": "Frank"
+    },
+    {
+      "text": "Bob was chased by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Diana helped Charlie",
+      "label": "Diana"
+    },
+    {
+      "text": "Frank chased Bob",
+      "label": "Frank"
+    },
+    {
+      "text": "Charlie was called by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Diana called Frank",
+      "label": "Diana"
+    },
+    {
+      "text": "Diana was surprised by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Alice was helped by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Bob was surprised by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Alice was chased by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Diana helped Bob in the park",
+      "label": "Diana"
+    },
+    {
+      "text": "Eve surprised Bob",
+      "label": "Eve"
+    },
+    {
+      "text": "Alice called Frank in the park",
+      "label": "Alice"
+    },
+    {
+      "text": "Alice who was happy was followed by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Bob called Alice",
+      "label": "Bob"
+    },
+    {
+      "text": "Alice was called by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Charlie was thanked by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Diana surprised Frank",
+      "label": "Diana"
+    },
+    {
+      "text": "Frank who was happy thanked Eve",
+      "label": "Frank"
+    },
+    {
+      "text": "Charlie was followed by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Bob chased Alice",
+      "label": "Bob"
+    },
+    {
+      "text": "Eve helped Alice",
+      "label": "Eve"
+    },
+    {
+      "text": "Alice was called by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Eve was surprised by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Charlie who was waiting was helped by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Diana was helped by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Charlie called Eve",
+      "label": "Charlie"
+    },
+    {
+      "text": "Diana was followed by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Eve was chased by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Bob called Eve",
+      "label": "Bob"
+    },
+    {
+      "text": "Diana who was happy was followed by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Alice who was smiling was called by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Bob was called by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Frank who was tired was called by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Alice thanked Diana",
+      "label": "Alice"
+    },
+    {
+      "text": "Diana was thanked by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Frank helped Alice who was tired",
+      "label": "Frank"
+    },
+    {
+      "text": "Alice was followed by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Eve helped Charlie",
+      "label": "Eve"
+    },
+    {
+      "text": "Frank surprised Eve",
+      "label": "Frank"
+    },
+    {
+      "text": "Alice chased Charlie in the park",
+      "label": "Alice"
+    },
+    {
+      "text": "Eve was followed by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Bob thanked Diana",
+      "label": "Bob"
+    },
+    {
+      "text": "Frank was surprised by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Charlie was followed by Diana in the park",
+      "label": "Diana"
+    },
+    {
+      "text": "Bob was chased by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Bob was helped by Diana by the river",
+      "label": "Diana"
+    },
+    {
+      "text": "Eve who was smiling called Diana",
+      "label": "Eve"
+    },
+    {
+      "text": "Diana was followed by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Diana followed Frank",
+      "label": "Diana"
+    },
+    {
+      "text": "Diana thanked Bob",
+      "label": "Diana"
+    },
+    {
+      "text": "Eve was helped by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Eve chased Diana near the station",
+      "label": "Eve"
+    },
+    {
+      "text": "Charlie chased Alice",
+      "label": "Charlie"
+    },
+    {
+      "text": "Alice who was standing surprised Charlie",
+      "label": "Alice"
+    },
+    {
+      "text": "Bob was called by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Frank thanked Eve",
+      "label": "Frank"
+    },
+    {
+      "text": "Frank thanked Bob",
+      "label": "Frank"
+    },
+    {
+      "text": "Eve followed Frank",
+      "label": "Eve"
+    },
+    {
+      "text": "Diana followed Charlie at the office",
+      "label": "Diana"
+    },
+    {
+      "text": "Frank was surprised by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Diana was helped by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Charlie who was waiting was followed by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Diana surprised Eve who was smiling",
+      "label": "Diana"
+    },
+    {
+      "text": "Alice followed Diana",
+      "label": "Alice"
+    },
+    {
+      "text": "Charlie called Alice",
+      "label": "Charlie"
+    },
+    {
+      "text": "Frank surprised Diana who was tired",
+      "label": "Frank"
+    },
+    {
+      "text": "Charlie who was running was surprised by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Charlie surprised Bob",
+      "label": "Charlie"
+    },
+    {
+      "text": "Bob followed Eve",
+      "label": "Bob"
+    },
+    {
+      "text": "Diana was helped by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Eve followed Charlie",
+      "label": "Eve"
+    },
+    {
+      "text": "Eve called Alice in the park",
+      "label": "Eve"
+    },
+    {
+      "text": "Bob was followed by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Alice was chased by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Bob followed Alice",
+      "label": "Bob"
+    },
+    {
+      "text": "Bob surprised Diana",
+      "label": "Bob"
+    },
+    {
+      "text": "Eve was chased by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Eve was thanked by Diana on the bridge",
+      "label": "Diana"
+    },
+    {
+      "text": "Eve was thanked by Charlie on the bridge",
+      "label": "Charlie"
+    },
+    {
+      "text": "Charlie thanked Eve",
+      "label": "Charlie"
+    },
+    {
+      "text": "Alice chased Bob",
+      "label": "Alice"
+    }
+  ],
+  "val": [
+    {
+      "text": "Diana who was happy was helped by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Frank was surprised by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Charlie was thanked by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Charlie was followed by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Frank chased Eve",
+      "label": "Frank"
+    },
+    {
+      "text": "Eve who was happy chased Alice",
+      "label": "Eve"
+    },
+    {
+      "text": "Eve called Charlie",
+      "label": "Eve"
+    },
+    {
+      "text": "Frank surprised Charlie",
+      "label": "Frank"
+    },
+    {
+      "text": "Charlie was followed by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Alice helped Frank",
+      "label": "Alice"
+    },
+    {
+      "text": "Alice was followed by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Diana was called by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Diana was chased by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Bob was thanked by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Charlie surprised Diana",
+      "label": "Charlie"
+    },
+    {
+      "text": "Eve was followed by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Charlie was surprised by Eve near the station",
+      "label": "Eve"
+    },
+    {
+      "text": "Frank was called by Charlie on the bridge",
+      "label": "Charlie"
+    },
+    {
+      "text": "Frank was called by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Frank who was happy was surprised by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Alice who was happy helped Frank",
+      "label": "Alice"
+    },
+    {
+      "text": "Diana thanked Frank",
+      "label": "Diana"
+    },
+    {
+      "text": "Frank helped Charlie",
+      "label": "Frank"
+    },
+    {
+      "text": "Diana was thanked by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Diana called Alice who was smiling",
+      "label": "Diana"
+    },
+    {
+      "text": "Alice surprised Eve",
+      "label": "Alice"
+    },
+    {
+      "text": "Bob was helped by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Bob who was standing was helped by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Diana was followed by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Bob was helped by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Eve who was waiting was followed by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Bob chased Diana",
+      "label": "Bob"
+    },
+    {
+      "text": "Charlie surprised Alice",
+      "label": "Charlie"
+    },
+    {
+      "text": "Bob was thanked by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Alice was thanked by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Eve was helped by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Diana was called by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Charlie was called by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Alice was called by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Eve who was happy followed Frank",
+      "label": "Eve"
+    },
+    {
+      "text": "Bob followed Frank",
+      "label": "Bob"
+    },
+    {
+      "text": "Diana who was running surprised Eve",
+      "label": "Diana"
+    },
+    {
+      "text": "Diana was thanked by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Bob thanked Frank",
+      "label": "Bob"
+    },
+    {
+      "text": "Alice called Frank",
+      "label": "Alice"
+    },
+    {
+      "text": "Diana helped Bob",
+      "label": "Diana"
+    },
+    {
+      "text": "Diana was surprised by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Charlie was chased by Bob at the market",
+      "label": "Bob"
+    },
+    {
+      "text": "Bob helped Diana",
+      "label": "Bob"
+    },
+    {
+      "text": "Bob was surprised by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Charlie helped Bob at the office",
+      "label": "Charlie"
+    },
+    {
+      "text": "Diana was helped by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Frank was helped by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Diana was called by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Alice followed Eve",
+      "label": "Alice"
+    },
+    {
+      "text": "Frank who was tired chased Alice",
+      "label": "Frank"
+    },
+    {
+      "text": "Frank was called by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Diana who was happy was thanked by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Bob who was running followed Alice",
+      "label": "Bob"
+    },
+    {
+      "text": "Diana was followed by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Diana called Alice",
+      "label": "Diana"
+    },
+    {
+      "text": "Bob called Diana",
+      "label": "Bob"
+    },
+    {
+      "text": "Frank called Eve",
+      "label": "Frank"
+    },
+    {
+      "text": "Alice was surprised by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Charlie was helped by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Diana was chased by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Bob who was waiting was followed by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Diana was chased by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Diana was called by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Frank who was tired was chased by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Alice thanked Frank who was running",
+      "label": "Alice"
+    },
+    {
+      "text": "Diana called Eve",
+      "label": "Diana"
+    }
+  ],
+  "test": [
+    {
+      "text": "Bob surprised Eve at the market",
+      "label": "Bob"
+    },
+    {
+      "text": "Bob was called by Frank at the office",
+      "label": "Frank"
+    },
+    {
+      "text": "Alice called Eve",
+      "label": "Alice"
+    },
+    {
+      "text": "Bob helped Frank",
+      "label": "Bob"
+    },
+    {
+      "text": "Diana followed Bob",
+      "label": "Diana"
+    },
+    {
+      "text": "Alice was surprised by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Diana chased Alice",
+      "label": "Diana"
+    },
+    {
+      "text": "Alice surprised Bob",
+      "label": "Alice"
+    },
+    {
+      "text": "Frank chased Charlie",
+      "label": "Frank"
+    },
+    {
+      "text": "Eve surprised Alice",
+      "label": "Eve"
+    },
+    {
+      "text": "Frank called Charlie",
+      "label": "Frank"
+    },
+    {
+      "text": "Eve helped Diana",
+      "label": "Eve"
+    },
+    {
+      "text": "Charlie was helped by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Eve was helped by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Bob followed Charlie who was running",
+      "label": "Bob"
+    },
+    {
+      "text": "Frank was called by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Bob followed Charlie",
+      "label": "Bob"
+    },
+    {
+      "text": "Bob who was standing followed Frank",
+      "label": "Bob"
+    },
+    {
+      "text": "Alice followed Frank",
+      "label": "Alice"
+    },
+    {
+      "text": "Frank was thanked by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Bob was chased by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Eve called Diana who was tired",
+      "label": "Eve"
+    },
+    {
+      "text": "Frank was chased by Charlie",
+      "label": "Charlie"
+    },
+    {
+      "text": "Diana was thanked by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Eve was thanked by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Charlie followed Eve",
+      "label": "Charlie"
+    },
+    {
+      "text": "Frank thanked Alice",
+      "label": "Frank"
+    },
+    {
+      "text": "Charlie called Diana who was happy",
+      "label": "Charlie"
+    },
+    {
+      "text": "Charlie called Diana",
+      "label": "Charlie"
+    },
+    {
+      "text": "Diana chased Bob",
+      "label": "Diana"
+    },
+    {
+      "text": "Alice who was tired surprised Bob",
+      "label": "Alice"
+    },
+    {
+      "text": "Diana surprised Bob",
+      "label": "Diana"
+    },
+    {
+      "text": "Charlie was helped by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Alice chased Eve",
+      "label": "Alice"
+    },
+    {
+      "text": "Diana who was waiting thanked Charlie",
+      "label": "Diana"
+    },
+    {
+      "text": "Alice called Eve who was smiling",
+      "label": "Alice"
+    },
+    {
+      "text": "Diana chased Charlie who was standing",
+      "label": "Diana"
+    },
+    {
+      "text": "Charlie was chased by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Diana surprised Bob who was smiling",
+      "label": "Diana"
+    },
+    {
+      "text": "Eve thanked Alice",
+      "label": "Eve"
+    },
+    {
+      "text": "Charlie followed Alice who was happy",
+      "label": "Charlie"
+    },
+    {
+      "text": "Frank helped Bob",
+      "label": "Frank"
+    },
+    {
+      "text": "Bob called Charlie",
+      "label": "Bob"
+    },
+    {
+      "text": "Bob was thanked by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Frank was called by Bob near the station",
+      "label": "Bob"
+    },
+    {
+      "text": "Charlie was thanked by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Diana helped Alice on the bridge",
+      "label": "Diana"
+    },
+    {
+      "text": "Bob who was running was thanked by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Charlie who was standing surprised Alice",
+      "label": "Charlie"
+    },
+    {
+      "text": "Diana was chased by Eve on the bridge",
+      "label": "Eve"
+    },
+    {
+      "text": "Charlie chased Diana",
+      "label": "Charlie"
+    },
+    {
+      "text": "Bob was followed by Eve",
+      "label": "Eve"
+    },
+    {
+      "text": "Bob helped Eve",
+      "label": "Bob"
+    },
+    {
+      "text": "Alice chased Frank",
+      "label": "Alice"
+    },
+    {
+      "text": "Alice thanked Charlie",
+      "label": "Alice"
+    },
+    {
+      "text": "Frank helped Alice",
+      "label": "Frank"
+    },
+    {
+      "text": "Charlie followed Eve who was waiting",
+      "label": "Charlie"
+    },
+    {
+      "text": "Bob who was happy was helped by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Frank was thanked by Diana",
+      "label": "Diana"
+    },
+    {
+      "text": "Bob who was running thanked Diana",
+      "label": "Bob"
+    },
+    {
+      "text": "Eve surprised Frank",
+      "label": "Eve"
+    },
+    {
+      "text": "Frank helped Diana",
+      "label": "Frank"
+    },
+    {
+      "text": "Eve followed Bob",
+      "label": "Eve"
+    },
+    {
+      "text": "Bob chased Frank",
+      "label": "Bob"
+    },
+    {
+      "text": "Bob was called by Frank",
+      "label": "Frank"
+    },
+    {
+      "text": "Frank was thanked by Alice",
+      "label": "Alice"
+    },
+    {
+      "text": "Frank was helped by Bob",
+      "label": "Bob"
+    },
+    {
+      "text": "Frank helped Eve",
+      "label": "Frank"
+    },
+    {
+      "text": "Frank chased Alice",
+      "label": "Frank"
+    },
+    {
+      "text": "Diana followed Frank who was running",
+      "label": "Diana"
+    },
+    {
+      "text": "Charlie chased Frank who was tired",
+      "label": "Charlie"
+    },
+    {
+      "text": "Charlie was thanked by Eve",
+      "label": "Eve"
+    }
+  ],
+  "metadata": {
+    "task": "agent_identification",
+    "description": "Identify WHO performed the action (the agent). Same vocabulary across all classes \u2014 only syntactic structure distinguishes labels. TF-IDF/BoW should score ~chance.",
+    "labels": [
+      "Alice",
+      "Bob",
+      "Charlie",
+      "Diana",
+      "Eve",
+      "Frank"
+    ],
+    "n_labels": 6,
+    "patterns": [
+      "passive_simple",
+      "active_relclause_obj",
+      "active_simple",
+      "passive_relclause",
+      "active_relclause_subj",
+      "passive_prep",
+      "active_prep"
+    ],
+    "design": "All subject-object pairs share identical word pools. Active vs passive voice flips the agent while keeping the same words. Relative clauses and PPs add structural noise."
+  }
+}

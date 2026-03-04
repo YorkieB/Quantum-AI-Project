@@ -1,0 +1,31 @@
+# Jarvis Quantum — Python Dependencies
+# Quantum Frameworks
+qiskit>=2.3.0
+qiskit-aer>=0.17.0
+qiskit-machine-learning>=0.9.0
+pennylane>=0.44.0
+pennylane-lightning>=0.44.0
+lambeq>=0.5.0
+
+# Machine Learning
+torch>=2.10.0
+scikit-learn>=1.8.0
+transformers>=5.0.0
+
+# Scientific Computing
+numpy>=2.0.0
+scipy>=1.17.0
+matplotlib>=3.10.0
+
+# NLP (classical baselines)
+spacy>=3.8.0
+
+# Utilities
+jupyter>=1.1.0
+tqdm>=4.67.0
+pyyaml>=6.0.0
+python-dotenv>=1.1.0
+
+# API (Phase 3)
+# fastapi>=0.115.0
+# uvicorn>=0.34.0

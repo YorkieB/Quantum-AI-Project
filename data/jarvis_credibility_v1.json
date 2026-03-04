@@ -1,0 +1,3213 @@
+{
+  "description": "Jarvis Credibility Dataset v1 - Real vs Fake claims",
+  "classes": {
+    "0": "REAL",
+    "1": "FAKE"
+  },
+  "train": [
+    {
+      "sentence": "SECRET documents reveal interest rates has been unbelievable all along!",
+      "label": 1
+    },
+    {
+      "sentence": "The Environmental Protection Agency reported that vaccine efficacy remained stable during the past five years.",
+      "label": 0
+    },
+    {
+      "sentence": "Experts at Imperial College London observed that electric vehicle sales fluctuated as predicted.",
+      "label": 0
+    },
+    {
+      "sentence": "The Environmental Protection Agency reported that renewable energy adoption evolved during the past year.",
+      "label": 0
+    },
+    {
+      "sentence": "BREAKING: renewable energy adoption will destroy more than anyone predicted and nobody is talking about it!",
+      "label": 1
+    },
+    {
+      "sentence": "The annual European Commission survey found education funding shifted by 4.2 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "MUST READ: average wages skyrocket and it changes everything!",
+      "label": 1
+    },
+    {
+      "sentence": "The National Health Service reported that population growth evolved during the last decade.",
+      "label": 0
+    },
+    {
+      "sentence": "SHOCKING: internet adoption could explode everything we know about reality!",
+      "label": 1
+    },
+    {
+      "sentence": "The World Bank reported that renewable energy adoption evolved during the last quarter.",
+      "label": 0
+    },
+    {
+      "sentence": "Quarterly earnings reports show food prices declined by 5.1 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: the establishment exposed for covering up interest rates!",
+      "label": 1
+    },
+    {
+      "sentence": "INSANE: literacy rates just collapse and nobody can explain why!!!",
+      "label": 1
+    },
+    {
+      "sentence": "The annual Environmental Protection Agency survey found renewable capacity evolved by 4.2 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "Quarterly earnings reports show housing prices fluctuated by 0.8 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "SECRET documents reveal average wages has been unbelievable all along!",
+      "label": 1
+    },
+    {
+      "sentence": "A meta analysis of moderately studies concluded education funding shows moderate results.",
+      "label": 0
+    },
+    {
+      "sentence": "education funding exposed: the biggest swindle in history!",
+      "label": 1
+    },
+    {
+      "sentence": "A report by International Monetary Fund found 15 percent of mainstream media experienced food prices.",
+      "label": 0
+    },
+    {
+      "sentence": "trade volumes exposed: the biggest scam in history!",
+      "label": 1
+    },
+    {
+      "sentence": "They don't want you to know that housing prices is horrifying more than anyone predicted!",
+      "label": 1
+    },
+    {
+      "sentence": "A meta analysis of moderately studies concluded renewable energy adoption shows gradual results.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: the establishment exposed for covering up internet adoption!",
+      "label": 1
+    },
+    {
+      "sentence": "This ONE fact about crime rates destroys everything the experts believe!",
+      "label": 1
+    },
+    {
+      "sentence": "SHOCKING: unemployment could destroy everything we know about public health!",
+      "label": 1
+    },
+    {
+      "sentence": "The real reason carbon emissions is catastrophic will shock you!",
+      "label": 1
+    },
+    {
+      "sentence": "The United Nations reported that GDP growth changed during the first half of the year.",
+      "label": 0
+    },
+    {
+      "sentence": "Experts at Oxford University observed that life expectancy declined as predicted.",
+      "label": 0
+    },
+    {
+      "sentence": "BREAKING: renewable capacity will obliterate more than anyone predicted and nobody is talking about it!",
+      "label": 1
+    },
+    {
+      "sentence": "Quarterly earnings reports show GDP growth improved by 15 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "The annual Federal Reserve survey found electric vehicle sales increased by 15 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "ALERT: food prices is about to revolutionise and the media is silent!",
+      "label": 1
+    },
+    {
+      "sentence": "You won't BELIEVE what healthcare spending really means for the elites!",
+      "label": 1
+    },
+    {
+      "sentence": "WARNING: electric vehicle sales is earth shattering and getting worse every day!",
+      "label": 1
+    },
+    {
+      "sentence": "food prices exposed: the biggest fraud in history!",
+      "label": 1
+    },
+    {
+      "sentence": "A meta analysis of substantially studies concluded renewable capacity shows consistent results.",
+      "label": 0
+    },
+    {
+      "sentence": "A study published in the Journal of Finance found that average wages increased significantly.",
+      "label": 0
+    },
+    {
+      "sentence": "INSANE: productivity levels just skyrocket and nobody can explain why!!!",
+      "label": 1
+    },
+    {
+      "sentence": "MUST READ: electric vehicle sales transform and it changes everything!",
+      "label": 1
+    },
+    {
+      "sentence": "Experts at ETH Zurich observed that carbon emissions decreased as predicted.",
+      "label": 0
+    },
+    {
+      "sentence": "This ONE fact about GDP growth destroys everything the authorities believe!",
+      "label": 1
+    },
+    {
+      "sentence": "INSANE: food prices just destroy and nobody can explain why!!!",
+      "label": 1
+    },
+    {
+      "sentence": "GDP growth exposed: the biggest scheme in history!",
+      "label": 1
+    },
+    {
+      "sentence": "A report by National Health Service found 15 percent of politicians experienced interest rates.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: the government exposed for covering up manufacturing output!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: crime rates is a complete scam designed to fool the authorities!",
+      "label": 1
+    },
+    {
+      "sentence": "A meta analysis of moderately studies concluded electric vehicle sales shows gradual results.",
+      "label": 0
+    },
+    {
+      "sentence": "Published data confirms productivity levels changed within normal parameters.",
+      "label": 0
+    },
+    {
+      "sentence": "WAKE UP: trade volumes proves everything the establishment told you is a LIE!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: life expectancy is a complete fraud designed to fool the authorities!",
+      "label": 1
+    },
+    {
+      "sentence": "Dr Kim from MIT stated that life expectancy remains gradual.",
+      "label": 0
+    },
+    {
+      "sentence": "They don't want you to know that internet adoption is unbelievable at an alarming rate!",
+      "label": 1
+    },
+    {
+      "sentence": "Officials at National Health Service confirmed that electric vehicle sales remained stable as expected.",
+      "label": 0
+    },
+    {
+      "sentence": "Government statistics show internet adoption evolved gradually over the past year.",
+      "label": 0
+    },
+    {
+      "sentence": "INSANE: population growth just skyrocket and nobody can explain why!!!",
+      "label": 1
+    },
+    {
+      "sentence": "The Federal Reserve analysis revealed a gradual trend in literacy rates.",
+      "label": 0
+    },
+    {
+      "sentence": "Independent auditors verified that life expectancy developed according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "A study published in The Lancet found that unemployment stabilised measurably.",
+      "label": 0
+    },
+    {
+      "sentence": "URGENT: interest rates devastate overnight and experts are STUNNED!",
+      "label": 1
+    },
+    {
+      "sentence": "A report by United Nations found 12 percent of the experts experienced carbon emissions.",
+      "label": 0
+    },
+    {
+      "sentence": "Clinical trials published in the New England Journal of Medicine demonstrated consumer spending fell substantially.",
+      "label": 0
+    },
+    {
+      "sentence": "WARNING: food prices is devastating and getting worse every day!",
+      "label": 1
+    },
+    {
+      "sentence": "SECRET documents reveal renewable capacity has been horrifying all along!",
+      "label": 1
+    },
+    {
+      "sentence": "Clinical trials published in PNAS demonstrated GDP growth grew substantially.",
+      "label": 0
+    },
+    {
+      "sentence": "According to Bloomberg, unemployment rose by 1.6 percent in the past year.",
+      "label": 0
+    },
+    {
+      "sentence": "Data from the World Health Organisation shows interest rates has decreased by substantially since 2025.",
+      "label": 0
+    },
+    {
+      "sentence": "A report by International Monetary Fund found 15 percent of the experts experienced average wages.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: the catastrophic truth about population growth finally revealed!",
+      "label": 1
+    },
+    {
+      "sentence": "Research conducted by Stanford suggests crime rates may improved over the first half of the year.",
+      "label": 0
+    },
+    {
+      "sentence": "ALERT: population growth is about to crash and the media is silent!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: interest rates is a complete swindle designed to fool politicians!",
+      "label": 1
+    },
+    {
+      "sentence": "A meta analysis of moderately studies concluded housing prices shows measured results.",
+      "label": 0
+    },
+    {
+      "sentence": "You won't BELIEVE what research funding really means for the experts!",
+      "label": 1
+    },
+    {
+      "sentence": "Research conducted by Harvard Medical School suggests productivity levels may fluctuated over the first half of the year.",
+      "label": 0
+    },
+    {
+      "sentence": "SECRET documents reveal life expectancy has been insane all along!",
+      "label": 1
+    },
+    {
+      "sentence": "literacy rates exposed: the biggest fraud in history!",
+      "label": 1
+    },
+    {
+      "sentence": "A meta analysis of noticeably studies concluded food prices shows gradual results.",
+      "label": 0
+    },
+    {
+      "sentence": "URGENT: consumer spending skyrocket overnight and experts are STUNNED!",
+      "label": 1
+    },
+    {
+      "sentence": "INSANE: research funding just collapse and nobody can explain why!!!",
+      "label": 1
+    },
+    {
+      "sentence": "Published data confirms renewable capacity progressed within normal parameters.",
+      "label": 0
+    },
+    {
+      "sentence": "The Environmental Protection Agency analysis revealed a steady trend in renewable energy adoption.",
+      "label": 0
+    },
+    {
+      "sentence": "The real reason GDP growth is horrifying will shock you!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: the unprecedented truth about GDP growth finally revealed!",
+      "label": 1
+    },
+    {
+      "sentence": "Scientists BAFFLED as healthcare spending devastate beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: the catastrophic truth about food prices finally revealed!",
+      "label": 1
+    },
+    {
+      "sentence": "MUST READ: electric vehicle sales skyrocket and it changes everything!",
+      "label": 1
+    },
+    {
+      "sentence": "The Centers for Disease Control reported that average wages developed during the past five years.",
+      "label": 0
+    },
+    {
+      "sentence": "Quarterly earnings reports show productivity levels fluctuated by 2.3 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "The latest figures from Bloomberg indicate crime rates fluctuated marginally this the past year.",
+      "label": 0
+    },
+    {
+      "sentence": "The Environmental Protection Agency analysis revealed a moderate trend in vaccine efficacy.",
+      "label": 0
+    },
+    {
+      "sentence": "They don't want you to know that productivity levels is mind blowing faster than ever before!",
+      "label": 1
+    },
+    {
+      "sentence": "The Environmental Protection Agency reported that healthcare spending evolved during the past year.",
+      "label": 0
+    },
+    {
+      "sentence": "Government statistics show average wages decreased gradually over the last decade.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: the insane truth about electric vehicle sales finally revealed!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: education funding is a complete conspiracy designed to fool the government!",
+      "label": 1
+    },
+    {
+      "sentence": "SHOCKING: interest rates could crash everything we know about the environment!",
+      "label": 1
+    },
+    {
+      "sentence": "Research conducted by Stanford suggests research funding may improved over the last quarter.",
+      "label": 0
+    },
+    {
+      "sentence": "Independent auditors verified that consumer spending evolved according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "URGENT: carbon emissions skyrocket overnight and experts are STUNNED!",
+      "label": 1
+    },
+    {
+      "sentence": "They don't want you to know that research funding is earth shattering beyond imagination!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: politicians exposed for covering up manufacturing output!",
+      "label": 1
+    },
+    {
+      "sentence": "Officials at Environmental Protection Agency confirmed that renewable capacity remained stable as expected.",
+      "label": 0
+    },
+    {
+      "sentence": "EXPOSED: The truth about crime rates that the elites are hiding from you!",
+      "label": 1
+    },
+    {
+      "sentence": "SECRET documents reveal productivity levels has been devastating all along!",
+      "label": 1
+    },
+    {
+      "sentence": "INSANE: food prices just devastate and nobody can explain why!!!",
+      "label": 1
+    },
+    {
+      "sentence": "Published data confirms literacy rates progressed within normal parameters.",
+      "label": 0
+    },
+    {
+      "sentence": "Independent auditors verified that carbon emissions adjusted according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "In a peer reviewed study Professor Smith demonstrated that productivity levels rose slightly.",
+      "label": 0
+    },
+    {
+      "sentence": "In a peer reviewed study Dr Chen demonstrated that trade volumes declined moderately.",
+      "label": 0
+    },
+    {
+      "sentence": "renewable capacity exposed: the biggest hoax in history!",
+      "label": 1
+    },
+    {
+      "sentence": "Census data indicates interest rates decreased steadily in recent the past five years.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: vaccine efficacy is a complete swindle designed to fool mainstream media!",
+      "label": 1
+    },
+    {
+      "sentence": "WAKE UP: consumer spending proves everything politicians told you is a LIE!",
+      "label": 1
+    },
+    {
+      "sentence": "The National Health Service analysis revealed a consistent trend in productivity levels.",
+      "label": 0
+    },
+    {
+      "sentence": "Government statistics show inflation changed gradually over the past five years.",
+      "label": 0
+    },
+    {
+      "sentence": "URGENT: crime rates devastate overnight and experts are STUNNED!",
+      "label": 1
+    },
+    {
+      "sentence": "The United Nations reported that population growth progressed during the last decade.",
+      "label": 0
+    },
+    {
+      "sentence": "Government statistics show average wages changed gradually over recent months.",
+      "label": 0
+    },
+    {
+      "sentence": "The annual International Monetary Fund survey found internet adoption changed by 8.9 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "Dr Kim from ETH Zurich stated that internet adoption remains measured.",
+      "label": 0
+    },
+    {
+      "sentence": "MUST READ: electric vehicle sales devastate and it changes everything!",
+      "label": 1
+    },
+    {
+      "sentence": "The annual Environmental Protection Agency survey found vaccine efficacy increased by 12 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "The real reason food prices is mind blowing will shock you!",
+      "label": 1
+    },
+    {
+      "sentence": "According to the World Health Organisation, food prices declined by 8.9 percent in the past year.",
+      "label": 0
+    },
+    {
+      "sentence": "Experts at Harvard Medical School observed that carbon emissions grew as predicted.",
+      "label": 0
+    },
+    {
+      "sentence": "Published data confirms food prices developed within normal parameters.",
+      "label": 0
+    },
+    {
+      "sentence": "SHOCKING: healthcare spending could transform everything we know about society!",
+      "label": 1
+    },
+    {
+      "sentence": "The annual National Health Service survey found housing prices evolved by 7.4 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "Independent auditors verified that research funding performed according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "Professor Williams from MIT stated that research funding remains stable.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: electric vehicle sales is a complete lie designed to fool big corporations!",
+      "label": 1
+    },
+    {
+      "sentence": "The annual Centers for Disease Control survey found GDP growth shifted by 2.3 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "Clinical trials published in the British Medical Journal demonstrated average wages stabilised marginally.",
+      "label": 0
+    },
+    {
+      "sentence": "Dr Nguyen from Harvard Medical School stated that population growth remains measured.",
+      "label": 0
+    },
+    {
+      "sentence": "Scientists BAFFLED as research funding obliterate beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "Quarterly earnings reports show literacy rates fluctuated by 2.3 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: the government exposed for covering up housing prices!",
+      "label": 1
+    },
+    {
+      "sentence": "Experts at Imperial College London observed that trade volumes grew as predicted.",
+      "label": 0
+    },
+    {
+      "sentence": "Research conducted by Stanford suggests manufacturing output may declined over the last decade.",
+      "label": 0
+    },
+    {
+      "sentence": "Independent auditors verified that carbon emissions developed according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "The latest figures from the Federal Reserve indicate life expectancy grew substantially this the last quarter.",
+      "label": 0
+    },
+    {
+      "sentence": "This ONE fact about electric vehicle sales destroys everything the authorities believe!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: the elites exposed for covering up housing prices!",
+      "label": 1
+    },
+    {
+      "sentence": "A report by Environmental Protection Agency found 5.1 percent of the elites experienced research funding.",
+      "label": 0
+    },
+    {
+      "sentence": "BREAKING: population growth will skyrocket beyond imagination and nobody is talking about it!",
+      "label": 1
+    },
+    {
+      "sentence": "Professor Garcia from Harvard Medical School stated that manufacturing output remains gradual.",
+      "label": 0
+    },
+    {
+      "sentence": "Government statistics show housing prices shifted gradually over the past year.",
+      "label": 0
+    },
+    {
+      "sentence": "WARNING: research funding is mind blowing and getting worse every day!",
+      "label": 1
+    },
+    {
+      "sentence": "Clinical trials published in the Journal of Finance demonstrated average wages fluctuated moderately.",
+      "label": 0
+    },
+    {
+      "sentence": "BREAKING: carbon emissions will obliterate at an alarming rate and nobody is talking about it!",
+      "label": 1
+    },
+    {
+      "sentence": "SHOCKING: productivity levels could devastate everything we know about public health!",
+      "label": 1
+    },
+    {
+      "sentence": "The annual European Commission survey found consumer spending shifted by 12 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "ALERT: food prices is about to skyrocket and the media is silent!",
+      "label": 1
+    },
+    {
+      "sentence": "The National Health Service analysis revealed a moderate trend in inflation.",
+      "label": 0
+    },
+    {
+      "sentence": "Independent auditors verified that inflation developed according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "Professor Jones from Cambridge University stated that GDP growth remains gradual.",
+      "label": 0
+    },
+    {
+      "sentence": "They don't want you to know that life expectancy is catastrophic faster than ever before!",
+      "label": 1
+    },
+    {
+      "sentence": "Research conducted by Cambridge University suggests literacy rates may improved over recent months.",
+      "label": 0
+    },
+    {
+      "sentence": "Experts at Stanford observed that healthcare spending increased as predicted.",
+      "label": 0
+    },
+    {
+      "sentence": "Published data confirms vaccine efficacy shifted within normal parameters.",
+      "label": 0
+    },
+    {
+      "sentence": "SHOCKING: trade volumes could collapse everything we know about the economy!",
+      "label": 1
+    },
+    {
+      "sentence": "They don't want you to know that renewable capacity is terrifying beyond imagination!",
+      "label": 1
+    },
+    {
+      "sentence": "Scientists BAFFLED as vaccine efficacy transform beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "The real reason interest rates is earth shattering will shock you!",
+      "label": 1
+    },
+    {
+      "sentence": "Research conducted by Harvard Medical School suggests unemployment may declined over the past five years.",
+      "label": 0
+    },
+    {
+      "sentence": "WARNING: carbon emissions is horrifying and getting worse every day!",
+      "label": 1
+    },
+    {
+      "sentence": "Dr Kim from ETH Zurich stated that crime rates remains stable.",
+      "label": 0
+    },
+    {
+      "sentence": "SHOCKING: renewable capacity could shatter everything we know about the economy!",
+      "label": 1
+    },
+    {
+      "sentence": "The annual International Monetary Fund survey found vaccine efficacy evolved by 15 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "MUST READ: electric vehicle sales obliterate and it changes everything!",
+      "label": 1
+    },
+    {
+      "sentence": "Scientists BAFFLED as education funding destroy beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "Independent auditors verified that renewable energy adoption adjusted according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "The real reason education funding is catastrophic will shock you!",
+      "label": 1
+    },
+    {
+      "sentence": "ALERT: renewable energy adoption is about to collapse and the media is silent!",
+      "label": 1
+    },
+    {
+      "sentence": "Clinical trials published in the British Medical Journal demonstrated research funding fell substantially.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: every single thing about internet adoption is catastrophic!",
+      "label": 1
+    },
+    {
+      "sentence": "Data from the Bureau of Labor Statistics shows population growth has evolved by slightly since 2025.",
+      "label": 0
+    },
+    {
+      "sentence": "You won't BELIEVE what housing prices really means for the authorities!",
+      "label": 1
+    },
+    {
+      "sentence": "They don't want you to know that average wages is catastrophic at an alarming rate!",
+      "label": 1
+    },
+    {
+      "sentence": "MUST READ: education funding devastate and it changes everything!",
+      "label": 1
+    },
+    {
+      "sentence": "According to the Department of Health, consumer spending declined by 5.1 percent in the last decade.",
+      "label": 0
+    },
+    {
+      "sentence": "In a peer reviewed study Dr Patel demonstrated that electric vehicle sales decreased marginally.",
+      "label": 0
+    },
+    {
+      "sentence": "Professor Garcia from Cambridge University stated that housing prices remains gradual.",
+      "label": 0
+    },
+    {
+      "sentence": "Officials at Federal Reserve confirmed that average wages evolved as expected.",
+      "label": 0
+    },
+    {
+      "sentence": "This ONE fact about GDP growth destroys everything the establishment believe!",
+      "label": 1
+    },
+    {
+      "sentence": "Government statistics show average wages changed gradually over the first half of the year.",
+      "label": 0
+    },
+    {
+      "sentence": "Dr Nguyen from Harvard Medical School stated that interest rates remains measured.",
+      "label": 0
+    },
+    {
+      "sentence": "The European Commission reported that GDP growth evolved during the past five years.",
+      "label": 0
+    },
+    {
+      "sentence": "Published data confirms healthcare spending developed within normal parameters.",
+      "label": 0
+    },
+    {
+      "sentence": "Clinical trials published in Cell demonstrated food prices stabilised marginally.",
+      "label": 0
+    },
+    {
+      "sentence": "Independent auditors verified that renewable energy adoption progressed according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: the earth shattering truth about food prices finally revealed!",
+      "label": 1
+    },
+    {
+      "sentence": "Independent auditors verified that trade volumes developed according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "The National Health Service reported that internet adoption progressed during the last quarter.",
+      "label": 0
+    },
+    {
+      "sentence": "The National Health Service reported that interest rates shifted during the last quarter.",
+      "label": 0
+    },
+    {
+      "sentence": "The International Monetary Fund analysis revealed a modest trend in trade volumes.",
+      "label": 0
+    },
+    {
+      "sentence": "A study published in the Journal of Finance found that vaccine efficacy decreased measurably.",
+      "label": 0
+    },
+    {
+      "sentence": "A study published in PNAS found that education funding grew substantially.",
+      "label": 0
+    },
+    {
+      "sentence": "In a peer reviewed study Professor Smith demonstrated that renewable capacity fell slightly.",
+      "label": 0
+    },
+    {
+      "sentence": "The United Nations reported that manufacturing output changed during the first half of the year.",
+      "label": 0
+    },
+    {
+      "sentence": "URGENT: trade volumes crash overnight and experts are STUNNED!",
+      "label": 1
+    },
+    {
+      "sentence": "ALERT: education funding is about to shatter and the media is silent!",
+      "label": 1
+    },
+    {
+      "sentence": "EXPOSED: The truth about education funding that the elites are hiding from you!",
+      "label": 1
+    },
+    {
+      "sentence": "Government statistics show manufacturing output changed gradually over recent months.",
+      "label": 0
+    },
+    {
+      "sentence": "housing prices exposed: the biggest scheme in history!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: mainstream media exposed for covering up manufacturing output!",
+      "label": 1
+    },
+    {
+      "sentence": "This ONE fact about literacy rates destroys everything politicians believe!",
+      "label": 1
+    },
+    {
+      "sentence": "They don't want you to know that electric vehicle sales is devastating faster than ever before!",
+      "label": 1
+    },
+    {
+      "sentence": "In a peer reviewed study Dr Kim demonstrated that renewable energy adoption declined noticeably.",
+      "label": 0
+    },
+    {
+      "sentence": "URGENT: manufacturing output devastate overnight and experts are STUNNED!",
+      "label": 1
+    },
+    {
+      "sentence": "This ONE fact about life expectancy destroys everything politicians believe!",
+      "label": 1
+    },
+    {
+      "sentence": "The Centers for Disease Control reported that crime rates shifted during the first half of the year.",
+      "label": 0
+    },
+    {
+      "sentence": "Data from the Census Bureau shows housing prices has increased by measurably since 2023.",
+      "label": 0
+    },
+    {
+      "sentence": "The Federal Reserve analysis revealed a gradual trend in carbon emissions.",
+      "label": 0
+    },
+    {
+      "sentence": "WAKE UP: renewable energy adoption proves everything politicians told you is a LIE!",
+      "label": 1
+    },
+    {
+      "sentence": "The real reason literacy rates is unbelievable will shock you!",
+      "label": 1
+    },
+    {
+      "sentence": "Scientists BAFFLED as internet adoption obliterate beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "They don't want you to know that consumer spending is insane faster than ever before!",
+      "label": 1
+    },
+    {
+      "sentence": "WAKE UP: consumer spending proves everything mainstream media told you is a LIE!",
+      "label": 1
+    },
+    {
+      "sentence": "manufacturing output exposed: the biggest lie in history!",
+      "label": 1
+    },
+    {
+      "sentence": "Census data indicates population growth decreased steadily in recent the first half of the year.",
+      "label": 0
+    },
+    {
+      "sentence": "Experts at Imperial College London observed that education funding grew as predicted.",
+      "label": 0
+    },
+    {
+      "sentence": "This ONE fact about productivity levels destroys everything the elites believe!",
+      "label": 1
+    },
+    {
+      "sentence": "A meta analysis of moderately studies concluded productivity levels shows steady results.",
+      "label": 0
+    },
+    {
+      "sentence": "SHOCKING: interest rates could transform everything we know about the environment!",
+      "label": 1
+    },
+    {
+      "sentence": "URGENT: vaccine efficacy skyrocket overnight and experts are STUNNED!",
+      "label": 1
+    },
+    {
+      "sentence": "A report by Centers for Disease Control found 2.3 percent of the experts experienced inflation.",
+      "label": 0
+    },
+    {
+      "sentence": "Research conducted by Oxford University suggests housing prices may improved over the first half of the year.",
+      "label": 0
+    },
+    {
+      "sentence": "A meta analysis of measurably studies concluded trade volumes shows stable results.",
+      "label": 0
+    },
+    {
+      "sentence": "WARNING: population growth is unprecedented and getting worse every day!",
+      "label": 1
+    },
+    {
+      "sentence": "trade volumes exposed: the biggest fraud in history!",
+      "label": 1
+    },
+    {
+      "sentence": "Research conducted by Stanford suggests inflation may decreased over the first half of the year.",
+      "label": 0
+    },
+    {
+      "sentence": "Census data indicates interest rates decreased steadily in recent the last quarter.",
+      "label": 0
+    },
+    {
+      "sentence": "WARNING: education funding is unbelievable and getting worse every day!",
+      "label": 1
+    },
+    {
+      "sentence": "The annual International Monetary Fund survey found healthcare spending evolved by 3.7 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "WARNING: carbon emissions is outrageous and getting worse every day!",
+      "label": 1
+    },
+    {
+      "sentence": "A study published in Cell found that inflation increased marginally.",
+      "label": 0
+    },
+    {
+      "sentence": "WAKE UP: consumer spending proves everything the government told you is a LIE!",
+      "label": 1
+    },
+    {
+      "sentence": "According to the World Health Organisation, unemployment decreased by 8.9 percent in the last decade.",
+      "label": 0
+    },
+    {
+      "sentence": "The latest figures from the National Science Foundation indicate literacy rates fluctuated moderately this the last quarter.",
+      "label": 0
+    },
+    {
+      "sentence": "BREAKING: average wages will devastate beyond imagination and nobody is talking about it!",
+      "label": 1
+    },
+    {
+      "sentence": "A meta analysis of slightly studies concluded productivity levels shows measured results.",
+      "label": 0
+    },
+    {
+      "sentence": "unemployment exposed: the biggest lie in history!",
+      "label": 1
+    },
+    {
+      "sentence": "SHOCKING: electric vehicle sales could transform everything we know about the environment!",
+      "label": 1
+    },
+    {
+      "sentence": "A meta analysis of moderately studies concluded average wages shows consistent results.",
+      "label": 0
+    },
+    {
+      "sentence": "Dr Nguyen from Imperial College London stated that vaccine efficacy remains stable.",
+      "label": 0
+    },
+    {
+      "sentence": "MUST READ: healthcare spending revolutionise and it changes everything!",
+      "label": 1
+    },
+    {
+      "sentence": "Experts at ETH Zurich observed that GDP growth stabilised as predicted.",
+      "label": 0
+    },
+    {
+      "sentence": "Quarterly earnings reports show renewable energy adoption decreased by 4.2 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "Government statistics show trade volumes decreased gradually over the past year.",
+      "label": 0
+    },
+    {
+      "sentence": "According to the Office for National Statistics, life expectancy grew by 15 percent in the past five years.",
+      "label": 0
+    },
+    {
+      "sentence": "WAKE UP: literacy rates proves everything the experts told you is a LIE!",
+      "label": 1
+    },
+    {
+      "sentence": "You won't BELIEVE what interest rates really means for the government!",
+      "label": 1
+    },
+    {
+      "sentence": "Government statistics show education funding changed gradually over the last decade.",
+      "label": 0
+    },
+    {
+      "sentence": "The United Nations reported that inflation developed during the last decade.",
+      "label": 0
+    },
+    {
+      "sentence": "Clinical trials published in PNAS demonstrated average wages rose substantially.",
+      "label": 0
+    },
+    {
+      "sentence": "The annual National Health Service survey found GDP growth changed by 2.3 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "Experts at Oxford University observed that interest rates fluctuated as predicted.",
+      "label": 0
+    },
+    {
+      "sentence": "URGENT: crime rates transform overnight and experts are STUNNED!",
+      "label": 1
+    },
+    {
+      "sentence": "Government statistics show productivity levels shifted gradually over the past five years.",
+      "label": 0
+    },
+    {
+      "sentence": "EXPOSED: The truth about unemployment that the establishment are hiding from you!",
+      "label": 1
+    },
+    {
+      "sentence": "The real reason housing prices is horrifying will shock you!",
+      "label": 1
+    },
+    {
+      "sentence": "BREAKING: life expectancy will destroy faster than ever before and nobody is talking about it!",
+      "label": 1
+    },
+    {
+      "sentence": "Published data confirms crime rates changed within normal parameters.",
+      "label": 0
+    },
+    {
+      "sentence": "Published data confirms electric vehicle sales evolved within normal parameters.",
+      "label": 0
+    },
+    {
+      "sentence": "Independent auditors verified that renewable energy adoption performed according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "URGENT: trade volumes shatter overnight and experts are STUNNED!",
+      "label": 1
+    },
+    {
+      "sentence": "According to the European Central Bank, productivity levels improved by 5.1 percent in the last quarter.",
+      "label": 0
+    },
+    {
+      "sentence": "They don't want you to know that interest rates is unprecedented faster than ever before!",
+      "label": 1
+    },
+    {
+      "sentence": "This ONE fact about manufacturing output destroys everything the experts believe!",
+      "label": 1
+    },
+    {
+      "sentence": "education funding exposed: the biggest lie in history!",
+      "label": 1
+    },
+    {
+      "sentence": "They don't want you to know that research funding is horrifying more than anyone predicted!",
+      "label": 1
+    },
+    {
+      "sentence": "SECRET documents reveal GDP growth has been unprecedented all along!",
+      "label": 1
+    },
+    {
+      "sentence": "Census data indicates unemployment changed steadily in recent the first half of the year.",
+      "label": 0
+    },
+    {
+      "sentence": "SECRET documents reveal inflation has been unprecedented all along!",
+      "label": 1
+    },
+    {
+      "sentence": "Research conducted by MIT suggests productivity levels may declined over the first half of the year.",
+      "label": 0
+    },
+    {
+      "sentence": "Scientists BAFFLED as life expectancy crash beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "Published data confirms internet adoption evolved within normal parameters.",
+      "label": 0
+    },
+    {
+      "sentence": "BREAKING: healthcare spending will crash faster than ever before and nobody is talking about it!",
+      "label": 1
+    },
+    {
+      "sentence": "The real reason renewable capacity is devastating will shock you!",
+      "label": 1
+    },
+    {
+      "sentence": "According to the Federal Reserve, renewable energy adoption stabilised by 4.2 percent in the past year.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: the authorities exposed for covering up productivity levels!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: the catastrophic truth about housing prices finally revealed!",
+      "label": 1
+    },
+    {
+      "sentence": "They don't want you to know that manufacturing output is earth shattering beyond imagination!",
+      "label": 1
+    },
+    {
+      "sentence": "Independent auditors verified that consumer spending performed according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "Independent auditors verified that population growth shifted according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "This ONE fact about manufacturing output destroys everything mainstream media believe!",
+      "label": 1
+    },
+    {
+      "sentence": "Officials at Environmental Protection Agency confirmed that food prices performed as expected.",
+      "label": 0
+    },
+    {
+      "sentence": "ALERT: trade volumes is about to crash and the media is silent!",
+      "label": 1
+    },
+    {
+      "sentence": "Independent auditors verified that education funding evolved according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: mainstream media exposed for covering up housing prices!",
+      "label": 1
+    },
+    {
+      "sentence": "Scientists BAFFLED as population growth crash beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: the devastating truth about population growth finally revealed!",
+      "label": 1
+    },
+    {
+      "sentence": "The latest figures from the Federal Reserve indicate renewable energy adoption fell marginally this the past five years.",
+      "label": 0
+    },
+    {
+      "sentence": "MUST READ: renewable energy adoption shatter and it changes everything!",
+      "label": 1
+    },
+    {
+      "sentence": "EXPOSED: The truth about food prices that the authorities are hiding from you!",
+      "label": 1
+    },
+    {
+      "sentence": "SHOCKING: inflation could transform everything we know about public health!",
+      "label": 1
+    },
+    {
+      "sentence": "SHOCKING: electric vehicle sales could obliterate everything we know about society!",
+      "label": 1
+    },
+    {
+      "sentence": "Scientists BAFFLED as internet adoption devastate beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "WARNING: average wages is terrifying and getting worse every day!",
+      "label": 1
+    },
+    {
+      "sentence": "In a peer reviewed study Professor Smith demonstrated that carbon emissions increased measurably.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: the authorities exposed for covering up inflation!",
+      "label": 1
+    },
+    {
+      "sentence": "Data from the European Central Bank shows renewable energy adoption has increased by measurably since 2022.",
+      "label": 0
+    },
+    {
+      "sentence": "Research conducted by Imperial College London suggests crime rates may stabilised over the last quarter.",
+      "label": 0
+    },
+    {
+      "sentence": "WARNING: population growth is unbelievable and getting worse every day!",
+      "label": 1
+    },
+    {
+      "sentence": "WAKE UP: education funding proves everything big corporations told you is a LIE!",
+      "label": 1
+    },
+    {
+      "sentence": "This ONE fact about healthcare spending destroys everything the experts believe!",
+      "label": 1
+    },
+    {
+      "sentence": "According to the Federal Reserve, consumer spending rose by 12 percent in the past year.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: the experts exposed for covering up healthcare spending!",
+      "label": 1
+    },
+    {
+      "sentence": "INSANE: trade volumes just shatter and nobody can explain why!!!",
+      "label": 1
+    },
+    {
+      "sentence": "According to the Office for National Statistics, carbon emissions grew by 4.2 percent in recent months.",
+      "label": 0
+    },
+    {
+      "sentence": "Research conducted by Oxford University suggests healthcare spending may increased over the last decade.",
+      "label": 0
+    },
+    {
+      "sentence": "The latest figures from the Federal Reserve indicate electric vehicle sales increased significantly this the last quarter.",
+      "label": 0
+    },
+    {
+      "sentence": "WAKE UP: food prices proves everything the experts told you is a LIE!",
+      "label": 1
+    },
+    {
+      "sentence": "Census data indicates productivity levels increased steadily in recent the past five years.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: education funding is a complete lie designed to fool the authorities!",
+      "label": 1
+    },
+    {
+      "sentence": "Independent auditors verified that research funding changed according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "electric vehicle sales exposed: the biggest deception in history!",
+      "label": 1
+    },
+    {
+      "sentence": "The Centers for Disease Control analysis revealed a incremental trend in renewable capacity.",
+      "label": 0
+    },
+    {
+      "sentence": "URGENT: trade volumes transform overnight and experts are STUNNED!",
+      "label": 1
+    },
+    {
+      "sentence": "inflation exposed: the biggest coverup in history!",
+      "label": 1
+    },
+    {
+      "sentence": "Officials at United Nations confirmed that renewable energy adoption adjusted as expected.",
+      "label": 0
+    },
+    {
+      "sentence": "Research conducted by MIT suggests life expectancy may declined over the first half of the year.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: every single thing about vaccine efficacy is horrifying!",
+      "label": 1
+    },
+    {
+      "sentence": "A study published in Cell found that literacy rates grew marginally.",
+      "label": 0
+    },
+    {
+      "sentence": "Officials at International Monetary Fund confirmed that population growth progressed as expected.",
+      "label": 0
+    },
+    {
+      "sentence": "Data from the Department of Health shows average wages has increased by measurably since 2023.",
+      "label": 0
+    },
+    {
+      "sentence": "Experts at Oxford University observed that population growth improved as predicted.",
+      "label": 0
+    },
+    {
+      "sentence": "The International Monetary Fund analysis revealed a steady trend in healthcare spending.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: the establishment exposed for covering up healthcare spending!",
+      "label": 1
+    },
+    {
+      "sentence": "Census data indicates internet adoption increased steadily in recent the last quarter.",
+      "label": 0
+    },
+    {
+      "sentence": "Research conducted by MIT suggests literacy rates may fluctuated over the last decade.",
+      "label": 0
+    },
+    {
+      "sentence": "Data from the National Science Foundation shows research funding has shifted by slightly since 2024.",
+      "label": 0
+    },
+    {
+      "sentence": "Independent auditors verified that literacy rates changed according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "Clinical trials published in Science demonstrated internet adoption grew moderately.",
+      "label": 0
+    },
+    {
+      "sentence": "They don't want you to know that research funding is unbelievable beyond imagination!",
+      "label": 1
+    },
+    {
+      "sentence": "SECRET documents reveal GDP growth has been terrifying all along!",
+      "label": 1
+    },
+    {
+      "sentence": "BREAKING: trade volumes will devastate beyond imagination and nobody is talking about it!",
+      "label": 1
+    },
+    {
+      "sentence": "You won't BELIEVE what consumer spending really means for the experts!",
+      "label": 1
+    },
+    {
+      "sentence": "This ONE fact about population growth destroys everything the elites believe!",
+      "label": 1
+    },
+    {
+      "sentence": "ALERT: GDP growth is about to devastate and the media is silent!",
+      "label": 1
+    },
+    {
+      "sentence": "WAKE UP: population growth proves everything the elites told you is a LIE!",
+      "label": 1
+    },
+    {
+      "sentence": "Experts at Cambridge University observed that renewable capacity grew as predicted.",
+      "label": 0
+    },
+    {
+      "sentence": "Experts at Imperial College London observed that trade volumes declined as predicted.",
+      "label": 0
+    },
+    {
+      "sentence": "The latest figures from the Department of Health indicate interest rates decreased significantly this the last quarter.",
+      "label": 0
+    },
+    {
+      "sentence": "The annual Environmental Protection Agency survey found internet adoption changed by 1.6 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "Clinical trials published in the British Medical Journal demonstrated research funding increased noticeably.",
+      "label": 0
+    },
+    {
+      "sentence": "Officials at United Nations confirmed that renewable energy adoption developed as expected.",
+      "label": 0
+    },
+    {
+      "sentence": "A study published in Cell found that inflation decreased measurably.",
+      "label": 0
+    },
+    {
+      "sentence": "The real reason inflation is insane will shock you!",
+      "label": 1
+    },
+    {
+      "sentence": "According to the National Science Foundation, interest rates rose by 7.4 percent in the first half of the year.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: the authorities exposed for covering up food prices!",
+      "label": 1
+    },
+    {
+      "sentence": "Scientists BAFFLED as inflation devastate beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "Independent auditors verified that food prices performed according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "The International Monetary Fund analysis revealed a consistent trend in life expectancy.",
+      "label": 0
+    },
+    {
+      "sentence": "Published data confirms research funding developed within normal parameters.",
+      "label": 0
+    },
+    {
+      "sentence": "WAKE UP: productivity levels proves everything big corporations told you is a LIE!",
+      "label": 1
+    },
+    {
+      "sentence": "SECRET documents reveal literacy rates has been insane all along!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: the horrifying truth about research funding finally revealed!",
+      "label": 1
+    },
+    {
+      "sentence": "A study published in Science found that trade volumes fluctuated noticeably.",
+      "label": 0
+    },
+    {
+      "sentence": "SHOCKING: carbon emissions could crash everything we know about the environment!",
+      "label": 1
+    },
+    {
+      "sentence": "A study published in PNAS found that population growth decreased noticeably.",
+      "label": 0
+    },
+    {
+      "sentence": "WARNING: research funding is insane and getting worse every day!",
+      "label": 1
+    },
+    {
+      "sentence": "ALERT: healthcare spending is about to obliterate and the media is silent!",
+      "label": 1
+    },
+    {
+      "sentence": "A meta analysis of substantially studies concluded population growth shows incremental results.",
+      "label": 0
+    },
+    {
+      "sentence": "Scientists BAFFLED as inflation destroy beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "In a peer reviewed study Dr Nguyen demonstrated that education funding rose noticeably.",
+      "label": 0
+    },
+    {
+      "sentence": "SHOCKING: education funding could devastate everything we know about the truth!",
+      "label": 1
+    },
+    {
+      "sentence": "Research conducted by Stanford suggests literacy rates may improved over the first half of the year.",
+      "label": 0
+    },
+    {
+      "sentence": "Data from Bloomberg shows crime rates has changed by measurably since 2021.",
+      "label": 0
+    },
+    {
+      "sentence": "The real reason healthcare spending is devastating will shock you!",
+      "label": 1
+    },
+    {
+      "sentence": "Experts at MIT observed that food prices declined as predicted.",
+      "label": 0
+    },
+    {
+      "sentence": "In a peer reviewed study Professor Williams demonstrated that vaccine efficacy stabilised measurably.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: mainstream media exposed for covering up literacy rates!",
+      "label": 1
+    },
+    {
+      "sentence": "The Federal Reserve reported that housing prices performed during the first half of the year.",
+      "label": 0
+    },
+    {
+      "sentence": "internet adoption exposed: the biggest conspiracy in history!",
+      "label": 1
+    },
+    {
+      "sentence": "According to the World Health Organisation, carbon emissions grew by 1.6 percent in the last decade.",
+      "label": 0
+    },
+    {
+      "sentence": "BREAKING: life expectancy will explode more than anyone predicted and nobody is talking about it!",
+      "label": 1
+    },
+    {
+      "sentence": "ALERT: unemployment is about to revolutionise and the media is silent!",
+      "label": 1
+    },
+    {
+      "sentence": "The National Health Service analysis revealed a incremental trend in electric vehicle sales.",
+      "label": 0
+    },
+    {
+      "sentence": "Clinical trials published in The Lancet demonstrated manufacturing output grew moderately.",
+      "label": 0
+    },
+    {
+      "sentence": "You won't BELIEVE what education funding really means for mainstream media!",
+      "label": 1
+    },
+    {
+      "sentence": "Published data confirms renewable capacity adjusted within normal parameters.",
+      "label": 0
+    },
+    {
+      "sentence": "They don't want you to know that interest rates is unprecedented at an alarming rate!",
+      "label": 1
+    },
+    {
+      "sentence": "The real reason carbon emissions is earth shattering will shock you!",
+      "label": 1
+    },
+    {
+      "sentence": "You won't BELIEVE what productivity levels really means for the elites!",
+      "label": 1
+    },
+    {
+      "sentence": "ALERT: internet adoption is about to shatter and the media is silent!",
+      "label": 1
+    },
+    {
+      "sentence": "Scientists BAFFLED as food prices revolutionise beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "You won't BELIEVE what literacy rates really means for the experts!",
+      "label": 1
+    },
+    {
+      "sentence": "Independent auditors verified that housing prices adjusted according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: the outrageous truth about education funding finally revealed!",
+      "label": 1
+    },
+    {
+      "sentence": "Census data indicates trade volumes changed steadily in recent the past five years.",
+      "label": 0
+    },
+    {
+      "sentence": "WAKE UP: healthcare spending proves everything the elites told you is a LIE!",
+      "label": 1
+    },
+    {
+      "sentence": "Government statistics show internet adoption decreased gradually over the last decade.",
+      "label": 0
+    },
+    {
+      "sentence": "According to the Census Bureau, internet adoption rose by 3.7 percent in the last decade.",
+      "label": 0
+    },
+    {
+      "sentence": "Independent auditors verified that manufacturing output developed according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "SECRET documents reveal food prices has been horrifying all along!",
+      "label": 1
+    },
+    {
+      "sentence": "According to the World Health Organisation, food prices declined by 15 percent in the last decade.",
+      "label": 0
+    },
+    {
+      "sentence": "You won't BELIEVE what renewable energy adoption really means for the government!",
+      "label": 1
+    },
+    {
+      "sentence": "The Environmental Protection Agency reported that unemployment adjusted during recent months.",
+      "label": 0
+    },
+    {
+      "sentence": "BREAKING: renewable energy adoption will transform beyond imagination and nobody is talking about it!",
+      "label": 1
+    },
+    {
+      "sentence": "healthcare spending exposed: the biggest lie in history!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: food prices is a complete scam designed to fool mainstream media!",
+      "label": 1
+    },
+    {
+      "sentence": "According to the Office for National Statistics, vaccine efficacy stabilised by 8.9 percent in the last decade.",
+      "label": 0
+    },
+    {
+      "sentence": "This ONE fact about internet adoption destroys everything the government believe!",
+      "label": 1
+    },
+    {
+      "sentence": "Government statistics show healthcare spending shifted gradually over the last decade.",
+      "label": 0
+    },
+    {
+      "sentence": "A report by World Bank found 7.4 percent of the government experienced productivity levels.",
+      "label": 0
+    },
+    {
+      "sentence": "You won't BELIEVE what renewable capacity really means for the experts!",
+      "label": 1
+    },
+    {
+      "sentence": "Data from the Census Bureau shows renewable capacity has shifted by marginally since 2025.",
+      "label": 0
+    },
+    {
+      "sentence": "Data from the Department of Health shows trade volumes has increased by substantially since 2020.",
+      "label": 0
+    },
+    {
+      "sentence": "ALERT: carbon emissions is about to destroy and the media is silent!",
+      "label": 1
+    },
+    {
+      "sentence": "Quarterly earnings reports show carbon emissions rose by 4.2 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "SECRET documents reveal crime rates has been horrifying all along!",
+      "label": 1
+    },
+    {
+      "sentence": "SHOCKING: food prices could revolutionise everything we know about society!",
+      "label": 1
+    },
+    {
+      "sentence": "Census data indicates renewable energy adoption decreased steadily in recent the first half of the year.",
+      "label": 0
+    },
+    {
+      "sentence": "SECRET documents reveal population growth has been terrifying all along!",
+      "label": 1
+    },
+    {
+      "sentence": "The annual European Commission survey found inflation evolved by 4.2 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "The annual International Monetary Fund survey found renewable capacity shifted by 1.6 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "Data from the World Health Organisation shows renewable energy adoption has decreased by slightly since 2020.",
+      "label": 0
+    },
+    {
+      "sentence": "A meta analysis of measurably studies concluded inflation shows stable results.",
+      "label": 0
+    },
+    {
+      "sentence": "According to Bloomberg, inflation stabilised by 4.2 percent in the last quarter.",
+      "label": 0
+    },
+    {
+      "sentence": "A study published in PNAS found that productivity levels stabilised significantly.",
+      "label": 0
+    },
+    {
+      "sentence": "They don't want you to know that food prices is mind blowing more than anyone predicted!",
+      "label": 1
+    },
+    {
+      "sentence": "Research conducted by ETH Zurich suggests consumer spending may grew over recent months.",
+      "label": 0
+    },
+    {
+      "sentence": "Scientists BAFFLED as average wages shatter beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "The annual International Monetary Fund survey found productivity levels shifted by 0.8 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "SHOCKING: interest rates could skyrocket everything we know about our way of life!",
+      "label": 1
+    },
+    {
+      "sentence": "INSANE: electric vehicle sales just revolutionise and nobody can explain why!!!",
+      "label": 1
+    },
+    {
+      "sentence": "education funding exposed: the biggest scam in history!",
+      "label": 1
+    },
+    {
+      "sentence": "Officials at Centers for Disease Control confirmed that average wages evolved as expected.",
+      "label": 0
+    },
+    {
+      "sentence": "Data from Bloomberg shows unemployment has evolved by noticeably since 2025.",
+      "label": 0
+    },
+    {
+      "sentence": "ALERT: housing prices is about to crash and the media is silent!",
+      "label": 1
+    },
+    {
+      "sentence": "URGENT: renewable energy adoption devastate overnight and experts are STUNNED!",
+      "label": 1
+    },
+    {
+      "sentence": "INSANE: life expectancy just obliterate and nobody can explain why!!!",
+      "label": 1
+    },
+    {
+      "sentence": "WAKE UP: unemployment proves everything the elites told you is a LIE!",
+      "label": 1
+    },
+    {
+      "sentence": "WARNING: healthcare spending is unbelievable and getting worse every day!",
+      "label": 1
+    },
+    {
+      "sentence": "SHOCKING: productivity levels could transform everything we know about society!",
+      "label": 1
+    },
+    {
+      "sentence": "BREAKING: manufacturing output will explode more than anyone predicted and nobody is talking about it!",
+      "label": 1
+    },
+    {
+      "sentence": "A report by Centers for Disease Control found 7.4 percent of the government experienced renewable energy adoption.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: renewable capacity is a complete lie designed to fool the experts!",
+      "label": 1
+    },
+    {
+      "sentence": "The real reason trade volumes is horrifying will shock you!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: crime rates is a complete coverup designed to fool big corporations!",
+      "label": 1
+    },
+    {
+      "sentence": "INSANE: productivity levels just obliterate and nobody can explain why!!!",
+      "label": 1
+    },
+    {
+      "sentence": "A report by International Monetary Fund found 1.6 percent of the elites experienced population growth.",
+      "label": 0
+    },
+    {
+      "sentence": "Clinical trials published in the New England Journal of Medicine demonstrated renewable capacity stabilised moderately.",
+      "label": 0
+    },
+    {
+      "sentence": "The latest figures from the National Science Foundation indicate carbon emissions stabilised substantially this the past five years.",
+      "label": 0
+    },
+    {
+      "sentence": "Quarterly earnings reports show healthcare spending fell by 4.2 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "unemployment exposed: the biggest coverup in history!",
+      "label": 1
+    },
+    {
+      "sentence": "Clinical trials published in Science demonstrated interest rates decreased noticeably.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: average wages is a complete deception designed to fool the establishment!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: the insane truth about life expectancy finally revealed!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: every single thing about unemployment is unprecedented!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: renewable energy adoption is a complete scheme designed to fool big corporations!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: big corporations exposed for covering up research funding!",
+      "label": 1
+    },
+    {
+      "sentence": "Independent auditors verified that productivity levels remained stable according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "Clinical trials published in Nature demonstrated electric vehicle sales rose significantly.",
+      "label": 0
+    },
+    {
+      "sentence": "The International Monetary Fund analysis revealed a incremental trend in inflation.",
+      "label": 0
+    },
+    {
+      "sentence": "INSANE: interest rates just explode and nobody can explain why!!!",
+      "label": 1
+    },
+    {
+      "sentence": "ALERT: average wages is about to destroy and the media is silent!",
+      "label": 1
+    },
+    {
+      "sentence": "Data from the World Health Organisation shows crime rates has decreased by substantially since 2020.",
+      "label": 0
+    },
+    {
+      "sentence": "Dr Kim from Harvard Medical School stated that life expectancy remains stable.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: renewable capacity is a complete scheme designed to fool mainstream media!",
+      "label": 1
+    },
+    {
+      "sentence": "URGENT: life expectancy crash overnight and experts are STUNNED!",
+      "label": 1
+    },
+    {
+      "sentence": "INSANE: average wages just obliterate and nobody can explain why!!!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: the authorities exposed for covering up interest rates!",
+      "label": 1
+    },
+    {
+      "sentence": "Independent auditors verified that productivity levels evolved according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "WARNING: average wages is devastating and getting worse every day!",
+      "label": 1
+    },
+    {
+      "sentence": "A study published in the Journal of Finance found that productivity levels declined significantly.",
+      "label": 0
+    },
+    {
+      "sentence": "Professor Williams from Imperial College London stated that crime rates remains incremental.",
+      "label": 0
+    },
+    {
+      "sentence": "Dr Chen from ETH Zurich stated that literacy rates remains consistent.",
+      "label": 0
+    },
+    {
+      "sentence": "MUST READ: renewable energy adoption destroy and it changes everything!",
+      "label": 1
+    },
+    {
+      "sentence": "WARNING: vaccine efficacy is devastating and getting worse every day!",
+      "label": 1
+    },
+    {
+      "sentence": "SECRET documents reveal education funding has been outrageous all along!",
+      "label": 1
+    },
+    {
+      "sentence": "Published data confirms inflation performed within normal parameters.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: politicians exposed for covering up inflation!",
+      "label": 1
+    },
+    {
+      "sentence": "The real reason renewable capacity is insane will shock you!",
+      "label": 1
+    },
+    {
+      "sentence": "A report by International Monetary Fund found 3.7 percent of the authorities experienced research funding.",
+      "label": 0
+    },
+    {
+      "sentence": "Clinical trials published in Nature demonstrated productivity levels grew significantly.",
+      "label": 0
+    },
+    {
+      "sentence": "population growth exposed: the biggest fraud in history!",
+      "label": 1
+    },
+    {
+      "sentence": "Quarterly earnings reports show literacy rates declined by 2.3 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "A report by Environmental Protection Agency found 7.4 percent of the authorities experienced housing prices.",
+      "label": 0
+    },
+    {
+      "sentence": "Scientists BAFFLED as unemployment skyrocket beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "A meta analysis of moderately studies concluded manufacturing output shows incremental results.",
+      "label": 0
+    },
+    {
+      "sentence": "The annual European Commission survey found unemployment evolved by 15 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "Government statistics show interest rates increased gradually over the past five years.",
+      "label": 0
+    },
+    {
+      "sentence": "electric vehicle sales exposed: the biggest lie in history!",
+      "label": 1
+    },
+    {
+      "sentence": "The European Commission analysis revealed a incremental trend in population growth.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: the government exposed for covering up literacy rates!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: the terrifying truth about crime rates finally revealed!",
+      "label": 1
+    },
+    {
+      "sentence": "A report by Environmental Protection Agency found 3.7 percent of the authorities experienced GDP growth.",
+      "label": 0
+    },
+    {
+      "sentence": "SHOCKING: internet adoption could destroy everything we know about the future!",
+      "label": 1
+    },
+    {
+      "sentence": "URGENT: manufacturing output revolutionise overnight and experts are STUNNED!",
+      "label": 1
+    },
+    {
+      "sentence": "crime rates exposed: the biggest conspiracy in history!",
+      "label": 1
+    },
+    {
+      "sentence": "Independent auditors verified that literacy rates developed according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "A study published in Cell found that average wages declined noticeably.",
+      "label": 0
+    },
+    {
+      "sentence": "Published data confirms research funding remained stable within normal parameters.",
+      "label": 0
+    },
+    {
+      "sentence": "Quarterly earnings reports show electric vehicle sales stabilised by 3.7 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "Professor Williams from Oxford University stated that population growth remains gradual.",
+      "label": 0
+    },
+    {
+      "sentence": "According to the Census Bureau, renewable capacity grew by 12 percent in the last quarter.",
+      "label": 0
+    },
+    {
+      "sentence": "According to the World Health Organisation, internet adoption declined by 5.1 percent in the last quarter.",
+      "label": 0
+    },
+    {
+      "sentence": "A meta analysis of measurably studies concluded manufacturing output shows steady results.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: every single thing about productivity levels is unbelievable!",
+      "label": 1
+    },
+    {
+      "sentence": "According to the European Central Bank, carbon emissions decreased by 0.8 percent in the last quarter.",
+      "label": 0
+    },
+    {
+      "sentence": "EXPOSED: The truth about internet adoption that the experts are hiding from you!",
+      "label": 1
+    },
+    {
+      "sentence": "A report by National Health Service found 5.1 percent of the government experienced crime rates.",
+      "label": 0
+    },
+    {
+      "sentence": "The annual National Health Service survey found healthcare spending changed by 3.7 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "SECRET documents reveal average wages has been mind blowing all along!",
+      "label": 1
+    },
+    {
+      "sentence": "You won't BELIEVE what education funding really means for politicians!",
+      "label": 1
+    },
+    {
+      "sentence": "Quarterly earnings reports show renewable energy adoption grew by 5.1 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "SHOCKING: interest rates could revolutionise everything we know about our way of life!",
+      "label": 1
+    },
+    {
+      "sentence": "A report by European Commission found 5.1 percent of politicians experienced interest rates.",
+      "label": 0
+    },
+    {
+      "sentence": "Professor Jones from Oxford University stated that average wages remains consistent.",
+      "label": 0
+    },
+    {
+      "sentence": "Scientists BAFFLED as renewable capacity destroy beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "WARNING: productivity levels is devastating and getting worse every day!",
+      "label": 1
+    },
+    {
+      "sentence": "Quarterly earnings reports show interest rates increased by 0.8 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: every single thing about interest rates is earth shattering!",
+      "label": 1
+    },
+    {
+      "sentence": "Census data indicates crime rates increased steadily in recent the past five years.",
+      "label": 0
+    },
+    {
+      "sentence": "A report by Environmental Protection Agency found 7.4 percent of the elites experienced productivity levels.",
+      "label": 0
+    },
+    {
+      "sentence": "URGENT: inflation crash overnight and experts are STUNNED!",
+      "label": 1
+    },
+    {
+      "sentence": "INSANE: GDP growth just explode and nobody can explain why!!!",
+      "label": 1
+    },
+    {
+      "sentence": "The annual International Monetary Fund survey found education funding changed by 0.8 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "URGENT: consumer spending collapse overnight and experts are STUNNED!",
+      "label": 1
+    },
+    {
+      "sentence": "Data from the European Central Bank shows electric vehicle sales has changed by moderately since 2020.",
+      "label": 0
+    },
+    {
+      "sentence": "Research conducted by ETH Zurich suggests healthcare spending may rose over the last quarter.",
+      "label": 0
+    },
+    {
+      "sentence": "Scientists BAFFLED as healthcare spending shatter beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "Research conducted by Imperial College London suggests average wages may fell over the first half of the year.",
+      "label": 0
+    },
+    {
+      "sentence": "Clinical trials published in PNAS demonstrated unemployment improved marginally.",
+      "label": 0
+    },
+    {
+      "sentence": "Officials at World Bank confirmed that literacy rates remained stable as expected.",
+      "label": 0
+    },
+    {
+      "sentence": "Officials at Federal Reserve confirmed that trade volumes developed as expected.",
+      "label": 0
+    },
+    {
+      "sentence": "BREAKING: food prices will obliterate beyond imagination and nobody is talking about it!",
+      "label": 1
+    },
+    {
+      "sentence": "In a peer reviewed study Professor Williams demonstrated that housing prices grew substantially.",
+      "label": 0
+    },
+    {
+      "sentence": "SHOCKING: inflation could destroy everything we know about our way of life!",
+      "label": 1
+    },
+    {
+      "sentence": "The latest figures from Reuters indicate productivity levels stabilised marginally this recent months.",
+      "label": 0
+    },
+    {
+      "sentence": "Quarterly earnings reports show housing prices fell by 4.2 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "Scientists BAFFLED as productivity levels destroy beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "Scientists BAFFLED as education funding transform beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "The annual National Health Service survey found manufacturing output increased by 4.2 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "Scientists BAFFLED as GDP growth transform beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "WAKE UP: internet adoption proves everything the experts told you is a LIE!",
+      "label": 1
+    },
+    {
+      "sentence": "MUST READ: housing prices destroy and it changes everything!",
+      "label": 1
+    },
+    {
+      "sentence": "Scientists BAFFLED as consumer spending destroy beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "SHOCKING: literacy rates could skyrocket everything we know about the environment!",
+      "label": 1
+    },
+    {
+      "sentence": "EXPOSED: The truth about consumer spending that the experts are hiding from you!",
+      "label": 1
+    },
+    {
+      "sentence": "They don't want you to know that electric vehicle sales is outrageous beyond imagination!",
+      "label": 1
+    },
+    {
+      "sentence": "MUST READ: average wages transform and it changes everything!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: the unprecedented truth about consumer spending finally revealed!",
+      "label": 1
+    },
+    {
+      "sentence": "BREAKING: population growth will collapse at an alarming rate and nobody is talking about it!",
+      "label": 1
+    },
+    {
+      "sentence": "Independent auditors verified that education funding adjusted according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "ALERT: vaccine efficacy is about to skyrocket and the media is silent!",
+      "label": 1
+    },
+    {
+      "sentence": "INSANE: electric vehicle sales just obliterate and nobody can explain why!!!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: renewable energy adoption is a complete swindle designed to fool the elites!",
+      "label": 1
+    },
+    {
+      "sentence": "Research conducted by MIT suggests renewable capacity may improved over the first half of the year.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: politicians exposed for covering up vaccine efficacy!",
+      "label": 1
+    },
+    {
+      "sentence": "A report by World Bank found 3.7 percent of big corporations experienced inflation.",
+      "label": 0
+    },
+    {
+      "sentence": "Published data confirms life expectancy adjusted within normal parameters.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: the outrageous truth about consumer spending finally revealed!",
+      "label": 1
+    },
+    {
+      "sentence": "MUST READ: renewable capacity explode and it changes everything!",
+      "label": 1
+    },
+    {
+      "sentence": "EXPOSED: The truth about carbon emissions that politicians are hiding from you!",
+      "label": 1
+    },
+    {
+      "sentence": "Data from the Department of Health shows trade volumes has evolved by significantly since 2025.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: the insane truth about carbon emissions finally revealed!",
+      "label": 1
+    }
+  ],
+  "val": [
+    {
+      "sentence": "WARNING: renewable capacity is unprecedented and getting worse every day!",
+      "label": 1
+    },
+    {
+      "sentence": "WAKE UP: unemployment proves everything politicians told you is a LIE!",
+      "label": 1
+    },
+    {
+      "sentence": "They don't want you to know that unemployment is outrageous more than anyone predicted!",
+      "label": 1
+    },
+    {
+      "sentence": "Clinical trials published in Nature demonstrated healthcare spending improved noticeably.",
+      "label": 0
+    },
+    {
+      "sentence": "WARNING: renewable energy adoption is earth shattering and getting worse every day!",
+      "label": 1
+    },
+    {
+      "sentence": "Scientists BAFFLED as GDP growth destroy beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "WAKE UP: research funding proves everything mainstream media told you is a LIE!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: every single thing about unemployment is insane!",
+      "label": 1
+    },
+    {
+      "sentence": "Independent auditors verified that healthcare spending adjusted according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "The European Commission reported that population growth remained stable during the last quarter.",
+      "label": 0
+    },
+    {
+      "sentence": "The annual International Monetary Fund survey found unemployment changed by 15 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "SHOCKING: productivity levels could revolutionise everything we know about our way of life!",
+      "label": 1
+    },
+    {
+      "sentence": "In a peer reviewed study Professor Williams demonstrated that interest rates declined substantially.",
+      "label": 0
+    },
+    {
+      "sentence": "Published data confirms renewable capacity performed within normal parameters.",
+      "label": 0
+    },
+    {
+      "sentence": "The latest figures from the Department of Health indicate renewable capacity decreased significantly this the past five years.",
+      "label": 0
+    },
+    {
+      "sentence": "Government statistics show unemployment evolved gradually over the last decade.",
+      "label": 0
+    },
+    {
+      "sentence": "A report by Federal Reserve found 8.9 percent of the experts experienced vaccine efficacy.",
+      "label": 0
+    },
+    {
+      "sentence": "Scientists BAFFLED as average wages revolutionise beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "WARNING: electric vehicle sales is unprecedented and getting worse every day!",
+      "label": 1
+    },
+    {
+      "sentence": "A study published in PNAS found that life expectancy increased significantly.",
+      "label": 0
+    },
+    {
+      "sentence": "productivity levels exposed: the biggest fraud in history!",
+      "label": 1
+    },
+    {
+      "sentence": "Research conducted by Imperial College London suggests carbon emissions may stabilised over the past year.",
+      "label": 0
+    },
+    {
+      "sentence": "Officials at National Health Service confirmed that electric vehicle sales performed as expected.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: the catastrophic truth about vaccine efficacy finally revealed!",
+      "label": 1
+    },
+    {
+      "sentence": "Census data indicates housing prices evolved steadily in recent the first half of the year.",
+      "label": 0
+    },
+    {
+      "sentence": "Scientists BAFFLED as GDP growth collapse beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "Data from the European Central Bank shows internet adoption has evolved by substantially since 2022.",
+      "label": 0
+    },
+    {
+      "sentence": "A report by International Monetary Fund found 15 percent of the government experienced crime rates.",
+      "label": 0
+    },
+    {
+      "sentence": "EXPOSED: The truth about average wages that the establishment are hiding from you!",
+      "label": 1
+    },
+    {
+      "sentence": "Professor Garcia from Harvard Medical School stated that average wages remains steady.",
+      "label": 0
+    },
+    {
+      "sentence": "This ONE fact about GDP growth destroys everything mainstream media believe!",
+      "label": 1
+    },
+    {
+      "sentence": "A meta analysis of moderately studies concluded population growth shows incremental results.",
+      "label": 0
+    },
+    {
+      "sentence": "A study published in The Lancet found that renewable capacity grew slightly.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: productivity levels is a complete hoax designed to fool big corporations!",
+      "label": 1
+    },
+    {
+      "sentence": "Quarterly earnings reports show renewable capacity decreased by 4.2 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "Data from the Department of Health shows internet adoption has changed by moderately since 2022.",
+      "label": 0
+    },
+    {
+      "sentence": "Quarterly earnings reports show literacy rates rose by 1.6 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "WAKE UP: education funding proves everything mainstream media told you is a LIE!",
+      "label": 1
+    },
+    {
+      "sentence": "Census data indicates productivity levels decreased steadily in recent the last quarter.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: the elites exposed for covering up food prices!",
+      "label": 1
+    },
+    {
+      "sentence": "ALERT: inflation is about to crash and the media is silent!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: crime rates is a complete conspiracy designed to fool the government!",
+      "label": 1
+    },
+    {
+      "sentence": "Clinical trials published in Science demonstrated population growth fluctuated substantially.",
+      "label": 0
+    },
+    {
+      "sentence": "Officials at United Nations confirmed that housing prices performed as expected.",
+      "label": 0
+    },
+    {
+      "sentence": "ALERT: trade volumes is about to explode and the media is silent!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: manufacturing output is a complete conspiracy designed to fool big corporations!",
+      "label": 1
+    },
+    {
+      "sentence": "EXPOSED: The truth about inflation that the elites are hiding from you!",
+      "label": 1
+    },
+    {
+      "sentence": "In a peer reviewed study Professor Smith demonstrated that renewable capacity stabilised noticeably.",
+      "label": 0
+    },
+    {
+      "sentence": "Scientists BAFFLED as vaccine efficacy shatter beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: renewable energy adoption is a complete scam designed to fool big corporations!",
+      "label": 1
+    },
+    {
+      "sentence": "INSANE: manufacturing output just revolutionise and nobody can explain why!!!",
+      "label": 1
+    },
+    {
+      "sentence": "The annual United Nations survey found inflation decreased by 7.4 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: the unprecedented truth about inflation finally revealed!",
+      "label": 1
+    },
+    {
+      "sentence": "They don't want you to know that crime rates is mind blowing faster than ever before!",
+      "label": 1
+    },
+    {
+      "sentence": "A study published in the Journal of Finance found that healthcare spending stabilised substantially.",
+      "label": 0
+    },
+    {
+      "sentence": "BREAKING: GDP growth will shatter beyond imagination and nobody is talking about it!",
+      "label": 1
+    },
+    {
+      "sentence": "The Federal Reserve reported that food prices performed during the first half of the year.",
+      "label": 0
+    },
+    {
+      "sentence": "Clinical trials published in Nature demonstrated vaccine efficacy stabilised noticeably.",
+      "label": 0
+    },
+    {
+      "sentence": "The latest figures from the Federal Reserve indicate housing prices declined measurably this the past year.",
+      "label": 0
+    },
+    {
+      "sentence": "A study published in Cell found that renewable capacity fell slightly.",
+      "label": 0
+    },
+    {
+      "sentence": "Experts at Imperial College London observed that consumer spending decreased as predicted.",
+      "label": 0
+    },
+    {
+      "sentence": "ALERT: internet adoption is about to transform and the media is silent!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: the earth shattering truth about interest rates finally revealed!",
+      "label": 1
+    },
+    {
+      "sentence": "Published data confirms inflation shifted within normal parameters.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: mainstream media exposed for covering up renewable energy adoption!",
+      "label": 1
+    },
+    {
+      "sentence": "Quarterly earnings reports show life expectancy stabilised by 0.8 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "Government statistics show GDP growth decreased gradually over the last decade.",
+      "label": 0
+    },
+    {
+      "sentence": "Data from the Census Bureau shows food prices has changed by marginally since 2023.",
+      "label": 0
+    },
+    {
+      "sentence": "Research conducted by Stanford suggests literacy rates may decreased over the past year.",
+      "label": 0
+    },
+    {
+      "sentence": "A study published in Cell found that renewable energy adoption stabilised slightly.",
+      "label": 0
+    },
+    {
+      "sentence": "Quarterly earnings reports show healthcare spending grew by 4.2 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "They don't want you to know that consumer spending is catastrophic more than anyone predicted!",
+      "label": 1
+    },
+    {
+      "sentence": "Professor Williams from Cambridge University stated that trade volumes remains measured.",
+      "label": 0
+    },
+    {
+      "sentence": "Data from Bloomberg shows average wages has evolved by measurably since 2024.",
+      "label": 0
+    },
+    {
+      "sentence": "Quarterly earnings reports show inflation fluctuated by 5.1 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "A meta analysis of moderately studies concluded housing prices shows modest results.",
+      "label": 0
+    },
+    {
+      "sentence": "SHOCKING: food prices could collapse everything we know about our way of life!",
+      "label": 1
+    },
+    {
+      "sentence": "EXPOSED: The truth about crime rates that the authorities are hiding from you!",
+      "label": 1
+    },
+    {
+      "sentence": "The annual World Bank survey found literacy rates changed by 15 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "inflation exposed: the biggest lie in history!",
+      "label": 1
+    },
+    {
+      "sentence": "A meta analysis of noticeably studies concluded productivity levels shows consistent results.",
+      "label": 0
+    },
+    {
+      "sentence": "Scientists BAFFLED as renewable capacity explode beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "BREAKING: literacy rates will transform at an alarming rate and nobody is talking about it!",
+      "label": 1
+    },
+    {
+      "sentence": "Clinical trials published in Nature demonstrated renewable energy adoption rose noticeably.",
+      "label": 0
+    },
+    {
+      "sentence": "In a peer reviewed study Dr Nguyen demonstrated that GDP growth stabilised substantially.",
+      "label": 0
+    },
+    {
+      "sentence": "According to Bloomberg, unemployment decreased by 15 percent in the last quarter.",
+      "label": 0
+    },
+    {
+      "sentence": "A meta analysis of slightly studies concluded crime rates shows incremental results.",
+      "label": 0
+    },
+    {
+      "sentence": "BREAKING: healthcare spending will collapse faster than ever before and nobody is talking about it!",
+      "label": 1
+    },
+    {
+      "sentence": "A meta analysis of moderately studies concluded research funding shows incremental results.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: the authorities exposed for covering up consumer spending!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: mainstream media exposed for covering up GDP growth!",
+      "label": 1
+    },
+    {
+      "sentence": "The World Bank analysis revealed a modest trend in renewable capacity.",
+      "label": 0
+    },
+    {
+      "sentence": "Quarterly earnings reports show renewable capacity fell by 8.9 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "According to the Department of Health, inflation grew by 0.8 percent in the last quarter.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: big corporations exposed for covering up average wages!",
+      "label": 1
+    },
+    {
+      "sentence": "SHOCKING: consumer spending could skyrocket everything we know about our way of life!",
+      "label": 1
+    },
+    {
+      "sentence": "They don't want you to know that renewable energy adoption is insane beyond imagination!",
+      "label": 1
+    },
+    {
+      "sentence": "You won't BELIEVE what GDP growth really means for the experts!",
+      "label": 1
+    },
+    {
+      "sentence": "WAKE UP: life expectancy proves everything the authorities told you is a LIE!",
+      "label": 1
+    },
+    {
+      "sentence": "Officials at European Commission confirmed that population growth progressed as expected.",
+      "label": 0
+    },
+    {
+      "sentence": "According to the Office for National Statistics, healthcare spending grew by 3.7 percent in the first half of the year.",
+      "label": 0
+    },
+    {
+      "sentence": "This ONE fact about food prices destroys everything the authorities believe!",
+      "label": 1
+    },
+    {
+      "sentence": "Scientists BAFFLED as renewable energy adoption collapse beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "Officials at Federal Reserve confirmed that manufacturing output developed as expected.",
+      "label": 0
+    },
+    {
+      "sentence": "Government statistics show internet adoption decreased gradually over recent months.",
+      "label": 0
+    },
+    {
+      "sentence": "Data from Reuters shows interest rates has evolved by marginally since 2024.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: every single thing about population growth is unprecedented!",
+      "label": 1
+    },
+    {
+      "sentence": "In a peer reviewed study Dr Kim demonstrated that healthcare spending improved marginally.",
+      "label": 0
+    },
+    {
+      "sentence": "MUST READ: healthcare spending obliterate and it changes everything!",
+      "label": 1
+    },
+    {
+      "sentence": "Clinical trials published in Cell demonstrated GDP growth stabilised substantially.",
+      "label": 0
+    },
+    {
+      "sentence": "They don't want you to know that interest rates is unprecedented more than anyone predicted!",
+      "label": 1
+    },
+    {
+      "sentence": "They don't want you to know that manufacturing output is unprecedented at an alarming rate!",
+      "label": 1
+    },
+    {
+      "sentence": "The real reason interest rates is terrifying will shock you!",
+      "label": 1
+    },
+    {
+      "sentence": "Officials at International Monetary Fund confirmed that electric vehicle sales changed as expected.",
+      "label": 0
+    },
+    {
+      "sentence": "The real reason inflation is devastating will shock you!",
+      "label": 1
+    },
+    {
+      "sentence": "Published data confirms manufacturing output shifted within normal parameters.",
+      "label": 0
+    },
+    {
+      "sentence": "MUST READ: productivity levels collapse and it changes everything!",
+      "label": 1
+    },
+    {
+      "sentence": "Officials at International Monetary Fund confirmed that internet adoption remained stable as expected.",
+      "label": 0
+    },
+    {
+      "sentence": "They don't want you to know that trade volumes is terrifying beyond imagination!",
+      "label": 1
+    },
+    {
+      "sentence": "Clinical trials published in Nature demonstrated housing prices fluctuated slightly.",
+      "label": 0
+    }
+  ],
+  "test": [
+    {
+      "sentence": "Exposed: literacy rates is a complete scheme designed to fool the authorities!",
+      "label": 1
+    },
+    {
+      "sentence": "Clinical trials published in Science demonstrated unemployment fluctuated significantly.",
+      "label": 0
+    },
+    {
+      "sentence": "BREAKING: manufacturing output will devastate beyond imagination and nobody is talking about it!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: every single thing about carbon emissions is earth shattering!",
+      "label": 1
+    },
+    {
+      "sentence": "In a peer reviewed study Dr Nguyen demonstrated that unemployment grew noticeably.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: the catastrophic truth about GDP growth finally revealed!",
+      "label": 1
+    },
+    {
+      "sentence": "Published data confirms housing prices remained stable within normal parameters.",
+      "label": 0
+    },
+    {
+      "sentence": "According to Bloomberg, housing prices improved by 4.2 percent in the past year.",
+      "label": 0
+    },
+    {
+      "sentence": "SHOCKING: housing prices could devastate everything we know about our way of life!",
+      "label": 1
+    },
+    {
+      "sentence": "Independent auditors verified that electric vehicle sales developed according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "unemployment exposed: the biggest swindle in history!",
+      "label": 1
+    },
+    {
+      "sentence": "They don't want you to know that average wages is horrifying faster than ever before!",
+      "label": 1
+    },
+    {
+      "sentence": "Independent auditors verified that interest rates progressed according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "They don't want you to know that food prices is devastating at an alarming rate!",
+      "label": 1
+    },
+    {
+      "sentence": "MUST READ: literacy rates shatter and it changes everything!",
+      "label": 1
+    },
+    {
+      "sentence": "Experts at Oxford University observed that renewable energy adoption stabilised as predicted.",
+      "label": 0
+    },
+    {
+      "sentence": "Government statistics show research funding changed gradually over the last quarter.",
+      "label": 0
+    },
+    {
+      "sentence": "This ONE fact about literacy rates destroys everything big corporations believe!",
+      "label": 1
+    },
+    {
+      "sentence": "Experts at MIT observed that GDP growth fell as predicted.",
+      "label": 0
+    },
+    {
+      "sentence": "Independent auditors verified that vaccine efficacy changed according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "The European Commission analysis revealed a steady trend in internet adoption.",
+      "label": 0
+    },
+    {
+      "sentence": "According to Bloomberg, productivity levels rose by 4.2 percent in recent months.",
+      "label": 0
+    },
+    {
+      "sentence": "ALERT: education funding is about to explode and the media is silent!",
+      "label": 1
+    },
+    {
+      "sentence": "MUST READ: unemployment devastate and it changes everything!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: big corporations exposed for covering up trade volumes!",
+      "label": 1
+    },
+    {
+      "sentence": "MUST READ: vaccine efficacy obliterate and it changes everything!",
+      "label": 1
+    },
+    {
+      "sentence": "INSANE: unemployment just revolutionise and nobody can explain why!!!",
+      "label": 1
+    },
+    {
+      "sentence": "Independent auditors verified that life expectancy remained stable according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "Officials at Environmental Protection Agency confirmed that unemployment developed as expected.",
+      "label": 0
+    },
+    {
+      "sentence": "WAKE UP: electric vehicle sales proves everything the government told you is a LIE!",
+      "label": 1
+    },
+    {
+      "sentence": "The annual Federal Reserve survey found education funding shifted by 8.9 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: the catastrophic truth about crime rates finally revealed!",
+      "label": 1
+    },
+    {
+      "sentence": "URGENT: population growth transform overnight and experts are STUNNED!",
+      "label": 1
+    },
+    {
+      "sentence": "In a peer reviewed study Professor Williams demonstrated that renewable energy adoption fluctuated moderately.",
+      "label": 0
+    },
+    {
+      "sentence": "BREAKING: electric vehicle sales will revolutionise beyond imagination and nobody is talking about it!",
+      "label": 1
+    },
+    {
+      "sentence": "INSANE: GDP growth just collapse and nobody can explain why!!!",
+      "label": 1
+    },
+    {
+      "sentence": "SECRET documents reveal electric vehicle sales has been devastating all along!",
+      "label": 1
+    },
+    {
+      "sentence": "Data from the Federal Reserve shows education funding has evolved by slightly since 2020.",
+      "label": 0
+    },
+    {
+      "sentence": "A report by International Monetary Fund found 12 percent of mainstream media experienced manufacturing output.",
+      "label": 0
+    },
+    {
+      "sentence": "BREAKING: manufacturing output will crash more than anyone predicted and nobody is talking about it!",
+      "label": 1
+    },
+    {
+      "sentence": "MUST READ: food prices revolutionise and it changes everything!",
+      "label": 1
+    },
+    {
+      "sentence": "Government statistics show research funding changed gradually over the past five years.",
+      "label": 0
+    },
+    {
+      "sentence": "You won't BELIEVE what internet adoption really means for the government!",
+      "label": 1
+    },
+    {
+      "sentence": "URGENT: manufacturing output collapse overnight and experts are STUNNED!",
+      "label": 1
+    },
+    {
+      "sentence": "URGENT: population growth skyrocket overnight and experts are STUNNED!",
+      "label": 1
+    },
+    {
+      "sentence": "Data from the National Science Foundation shows manufacturing output has increased by significantly since 2022.",
+      "label": 0
+    },
+    {
+      "sentence": "A meta analysis of measurably studies concluded consumer spending shows modest results.",
+      "label": 0
+    },
+    {
+      "sentence": "Scientists BAFFLED as renewable energy adoption crash beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "SHOCKING: life expectancy could revolutionise everything we know about the environment!",
+      "label": 1
+    },
+    {
+      "sentence": "In a peer reviewed study Dr Nguyen demonstrated that GDP growth declined significantly.",
+      "label": 0
+    },
+    {
+      "sentence": "WARNING: productivity levels is horrifying and getting worse every day!",
+      "label": 1
+    },
+    {
+      "sentence": "They don't want you to know that GDP growth is terrifying more than anyone predicted!",
+      "label": 1
+    },
+    {
+      "sentence": "Data from Reuters shows carbon emissions has decreased by measurably since 2023.",
+      "label": 0
+    },
+    {
+      "sentence": "The annual European Commission survey found life expectancy shifted by 3.7 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "Experts at ETH Zurich observed that food prices rose as predicted.",
+      "label": 0
+    },
+    {
+      "sentence": "This ONE fact about unemployment destroys everything mainstream media believe!",
+      "label": 1
+    },
+    {
+      "sentence": "Scientists BAFFLED as GDP growth obliterate beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "Government statistics show renewable capacity increased gradually over the last decade.",
+      "label": 0
+    },
+    {
+      "sentence": "Clinical trials published in Nature demonstrated crime rates rose measurably.",
+      "label": 0
+    },
+    {
+      "sentence": "Quarterly earnings reports show average wages grew by 1.6 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "The real reason GDP growth is mind blowing will shock you!",
+      "label": 1
+    },
+    {
+      "sentence": "trade volumes exposed: the biggest scheme in history!",
+      "label": 1
+    },
+    {
+      "sentence": "Quarterly earnings reports show interest rates fell by 15 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: the unbelievable truth about education funding finally revealed!",
+      "label": 1
+    },
+    {
+      "sentence": "Research conducted by ETH Zurich suggests manufacturing output may declined over recent months.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: every single thing about interest rates is catastrophic!",
+      "label": 1
+    },
+    {
+      "sentence": "Scientists BAFFLED as inflation explode beyond all expectations!!!",
+      "label": 1
+    },
+    {
+      "sentence": "INSANE: interest rates just transform and nobody can explain why!!!",
+      "label": 1
+    },
+    {
+      "sentence": "The annual Federal Reserve survey found vaccine efficacy decreased by 8.9 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "WAKE UP: population growth proves everything the government told you is a LIE!",
+      "label": 1
+    },
+    {
+      "sentence": "You won't BELIEVE what population growth really means for politicians!",
+      "label": 1
+    },
+    {
+      "sentence": "Census data indicates food prices shifted steadily in recent the past year.",
+      "label": 0
+    },
+    {
+      "sentence": "In a peer reviewed study Professor Williams demonstrated that interest rates declined moderately.",
+      "label": 0
+    },
+    {
+      "sentence": "MUST READ: average wages devastate and it changes everything!",
+      "label": 1
+    },
+    {
+      "sentence": "BREAKING: vaccine efficacy will devastate at an alarming rate and nobody is talking about it!",
+      "label": 1
+    },
+    {
+      "sentence": "Quarterly earnings reports show research funding decreased by 1.6 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "This ONE fact about consumer spending destroys everything politicians believe!",
+      "label": 1
+    },
+    {
+      "sentence": "A meta analysis of substantially studies concluded manufacturing output shows gradual results.",
+      "label": 0
+    },
+    {
+      "sentence": "MUST READ: interest rates collapse and it changes everything!",
+      "label": 1
+    },
+    {
+      "sentence": "SECRET documents reveal electric vehicle sales has been unprecedented all along!",
+      "label": 1
+    },
+    {
+      "sentence": "Published data confirms education funding shifted within normal parameters.",
+      "label": 0
+    },
+    {
+      "sentence": "Officials at United Nations confirmed that renewable capacity developed as expected.",
+      "label": 0
+    },
+    {
+      "sentence": "The United Nations reported that electric vehicle sales evolved during the last decade.",
+      "label": 0
+    },
+    {
+      "sentence": "Published data confirms education funding remained stable within normal parameters.",
+      "label": 0
+    },
+    {
+      "sentence": "Dr Patel from Oxford University stated that electric vehicle sales remains gradual.",
+      "label": 0
+    },
+    {
+      "sentence": "The real reason housing prices is mind blowing will shock you!",
+      "label": 1
+    },
+    {
+      "sentence": "The Environmental Protection Agency analysis revealed a steady trend in manufacturing output.",
+      "label": 0
+    },
+    {
+      "sentence": "Research conducted by ETH Zurich suggests renewable capacity may decreased over recent months.",
+      "label": 0
+    },
+    {
+      "sentence": "This ONE fact about carbon emissions destroys everything the elites believe!",
+      "label": 1
+    },
+    {
+      "sentence": "Officials at National Health Service confirmed that unemployment adjusted as expected.",
+      "label": 0
+    },
+    {
+      "sentence": "The annual European Commission survey found research funding decreased by 5.1 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "EXPOSED: The truth about internet adoption that mainstream media are hiding from you!",
+      "label": 1
+    },
+    {
+      "sentence": "A study published in Science found that unemployment stabilised moderately.",
+      "label": 0
+    },
+    {
+      "sentence": "SECRET documents reveal inflation has been insane all along!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: trade volumes is a complete hoax designed to fool the elites!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: the mind blowing truth about renewable energy adoption finally revealed!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: politicians exposed for covering up unemployment!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: every single thing about consumer spending is unbelievable!",
+      "label": 1
+    },
+    {
+      "sentence": "Exposed: every single thing about manufacturing output is outrageous!",
+      "label": 1
+    },
+    {
+      "sentence": "MUST READ: trade volumes crash and it changes everything!",
+      "label": 1
+    },
+    {
+      "sentence": "Data from the Bureau of Labor Statistics shows productivity levels has evolved by measurably since 2025.",
+      "label": 0
+    },
+    {
+      "sentence": "The United Nations reported that literacy rates performed during recent months.",
+      "label": 0
+    },
+    {
+      "sentence": "INSANE: renewable capacity just explode and nobody can explain why!!!",
+      "label": 1
+    },
+    {
+      "sentence": "Research conducted by MIT suggests unemployment may fell over the first half of the year.",
+      "label": 0
+    },
+    {
+      "sentence": "WARNING: consumer spending is horrifying and getting worse every day!",
+      "label": 1
+    },
+    {
+      "sentence": "Quarterly earnings reports show manufacturing output fell by 4.2 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "Data from the Federal Reserve shows life expectancy has decreased by substantially since 2021.",
+      "label": 0
+    },
+    {
+      "sentence": "EXPOSED: The truth about food prices that the establishment are hiding from you!",
+      "label": 1
+    },
+    {
+      "sentence": "According to the World Health Organisation, healthcare spending fluctuated by 7.4 percent in the past year.",
+      "label": 0
+    },
+    {
+      "sentence": "Independent auditors verified that food prices adjusted according to standards.",
+      "label": 0
+    },
+    {
+      "sentence": "SECRET documents reveal life expectancy has been unprecedented all along!",
+      "label": 1
+    },
+    {
+      "sentence": "WARNING: average wages is unbelievable and getting worse every day!",
+      "label": 1
+    },
+    {
+      "sentence": "This ONE fact about research funding destroys everything the government believe!",
+      "label": 1
+    },
+    {
+      "sentence": "Published data confirms vaccine efficacy progressed within normal parameters.",
+      "label": 0
+    },
+    {
+      "sentence": "The annual Centers for Disease Control survey found literacy rates decreased by 4.2 percent.",
+      "label": 0
+    },
+    {
+      "sentence": "Exposed: every single thing about vaccine efficacy is mind blowing!",
+      "label": 1
+    },
+    {
+      "sentence": "You won't BELIEVE what inflation really means for mainstream media!",
+      "label": 1
+    },
+    {
+      "sentence": "In a peer reviewed study Professor Smith demonstrated that GDP growth decreased noticeably.",
+      "label": 0
+    },
+    {
+      "sentence": "MUST READ: food prices explode and it changes everything!",
+      "label": 1
+    },
+    {
+      "sentence": "SHOCKING: productivity levels could devastate everything we know about the future!",
+      "label": 1
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "protocol": "BB84",
+  "scenarios": {
+    "no_eve": {
+      "n_sent": 256,
+      "n_sifted": 133,
+      "n_check": 33,
+      "n_key_bits": 100,
+      "error_rate": 0.0,
+      "errors_in_check": 0,
+      "key_match": true,
+      "key_errors": 0,
+      "eve_detected": 

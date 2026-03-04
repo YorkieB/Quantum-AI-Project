@@ -1,0 +1,36 @@
+# Jarvis Quantum — Base Docker Image
+# Python 3.11 + Qiskit + PennyLane + lambeq + PyTorch
+# Used by all quantum modules for consistent environments across tiers
+
+FROM python:3.11-slim
+
+LABEL maintainer="Yorkie"
+LABEL project="jarvis-quantum"
+LABEL description="Base image for Jarvis Quantum modules"
+
+# System dependencies
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    git \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# Set working directory
+WORKDIR /app
+
+# Copy and install Python dependencies
+COPY requirements.txt .
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt
+
+# Default environment: local CPU simulator
+ENV JARVIS_COMPUTE_TIER=local
+ENV PYTHONUNBUFFERED=1
+ENV PYTHONDONTWRITEBYTECODE=1
+
+# Copy application code
+COPY . .
+
+EXPOSE 8000
+
+CMD ["python", "-m", "jarvis_quantum.orchestrator"]

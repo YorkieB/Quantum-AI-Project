@@ -1,0 +1,90 @@
+1	set the volume to maximum
+1	activate the robot vacuum
+1	ring Sophie
+1	text Sophie
+1	stop the heater
+1	turn off the washing machine
+0	how much does movie reviews cost
+0	show me stock market
+1	lock the side gate
+0	when does cinema open
+0	find details on wedding venues
+1	remind me to take the bins out
+1	read my messages
+1	start navigation to school
+0	check the time in Paris
+1	start navigation to the nearest petrol station
+0	where did the Champions League final happen
+0	what is the difference between renting and buying
+1	remind me about pick up the kids at quarter past nine
+1	turn on the attic lights
+1	start the heater
+1	lights on in the garden
+0	I need information on tennis scores
+1	skip this song
+0	who invented baby names
+1	switch on the dining room lights
+0	how do you solve a Rubik cube
+1	open Settings
+1	remind me to water the plants
+0	where can I find dogs
+0	who is Albert Einstein
+1	switch off the hallway lights
+0	check the news about stock market
+0	where can I find volcano eruptions
+0	find the latest on flight tickets
+1	set an alarm for three pm
+0	when does supermarket open
+1	dim the bedroom lights
+1	turn the volume down
+1	text Emma
+0	where can I find scholarship applications
+1	reply to Emma
+1	turn off the heater
+1	alert me at in two hours
+1	schedule a reminder for midnight
+0	google parking spots
+0	where should I go for car insurance
+0	I want to know about tax rules
+0	how to meditate properly
+1	reply to James
+1	set the porch lights to fifty percent
+1	turn the heating off
+1	open YouTube
+1	launch Notes
+1	turn on the bathroom lights
+1	get directions to the gym
+1	remind me about water the plants at ten o clock
+1	start navigation to the gym
+1	switch on the nursery lights
+0	look up python programming online
+0	who won the Olympics
+1	stop the microwave
+0	when does pharmacy open
+0	who discovered car insurance
+1	disable airplane mode
+1	set the bathroom lights to bright
+0	what is climate change
+0	run a search on piano lessons
+1	unmute the speakers
+0	look up guitar chords online
+0	how to tie a tie
+0	how many vitamin supplements are there
+1	stop the oven
+0	who invented scholarship applications
+1	remind me about pick up the kids at three pm
+1	turn on the bedroom lights
+0	find articles about holiday destinations
+1	remind me to book the dentist
+0	check the time in New York
+1	turn on the hallway lights
+1	set a reminder for seven am
+0	what happened with bus routes
+0	what does car insurance mean
+1	create an alarm for five minutes
+1	remind me to attend the meeting
+1	play my workout playlist
+1	start the oven
+0	how far is the nearest train station
+1	reply to Sophie
+1	navigate to the nearest petrol station

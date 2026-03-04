@@ -1,0 +1,2419 @@
+{
+  "description": "Jarvis Intent Classification Dataset v1",
+  "classes": {
+    "0": "SEARCH",
+    "1": "ACTION"
+  },
+  "stats": {
+    "total": 600,
+    "train": 420,
+    "val": 90,
+    "test": 90
+  },
+  "train": [
+    {
+      "sentence": "phone Lisa",
+      "label": 1
+    },
+    {
+      "sentence": "message Rachel saying happy birthday",
+      "label": 1
+    },
+    {
+      "sentence": "I want to know about salary comparisons",
+      "label": 0
+    },
+    {
+      "sentence": "when was gym memberships invented",
+      "label": 0
+    },
+    {
+      "sentence": "what is electric cars",
+      "label": 0
+    },
+    {
+      "sentence": "play my discover weekly playlist",
+      "label": 1
+    },
+    {
+      "sentence": "check the weather in Sydney",
+      "label": 0
+    },
+    {
+      "sentence": "who directed the Great Gatsby",
+      "label": 0
+    },
+    {
+      "sentence": "dial John",
+      "label": 1
+    },
+    {
+      "sentence": "check the weather in Paris",
+      "label": 0
+    },
+    {
+      "sentence": "start the dishwasher",
+      "label": 1
+    },
+    {
+      "sentence": "turn the basement lights on",
+      "label": 1
+    },
+    {
+      "sentence": "find articles about visa requirements",
+      "label": 0
+    },
+    {
+      "sentence": "how does history of Rome work",
+      "label": 0
+    },
+    {
+      "sentence": "lock the back door",
+      "label": 1
+    },
+    {
+      "sentence": "when did the world cup happen",
+      "label": 0
+    },
+    {
+      "sentence": "turn off the hallway lights",
+      "label": 1
+    },
+    {
+      "sentence": "where should I go for laptop deals",
+      "label": 0
+    },
+    {
+      "sentence": "check the weather in the nearest train station",
+      "label": 0
+    },
+    {
+      "sentence": "send an email to Dad",
+      "label": 1
+    },
+    {
+      "sentence": "tell me more about painting techniques",
+      "label": 0
+    },
+    {
+      "sentence": "wake me up at midnight",
+      "label": 1
+    },
+    {
+      "sentence": "what are dinosaur species",
+      "label": 0
+    },
+    {
+      "sentence": "start navigation to the airport",
+      "label": 1
+    },
+    {
+      "sentence": "mute the speakers",
+      "label": 1
+    },
+    {
+      "sentence": "navigate to Tesco",
+      "label": 1
+    },
+    {
+      "sentence": "create an alarm for eight thirty",
+      "label": 1
+    },
+    {
+      "sentence": "turn off the garage lights",
+      "label": 1
+    },
+    {
+      "sentence": "run a search on football results",
+      "label": 0
+    },
+    {
+      "sentence": "what are dogs",
+      "label": 0
+    },
+    {
+      "sentence": "brighten the bedroom lights",
+      "label": 1
+    },
+    {
+      "sentence": "check the price of quantum computing",
+      "label": 0
+    },
+    {
+      "sentence": "start navigation to the office",
+      "label": 1
+    },
+    {
+      "sentence": "dim the bathroom lights",
+      "label": 1
+    },
+    {
+      "sentence": "create an alarm for tomorrow morning",
+      "label": 1
+    },
+    {
+      "sentence": "who won the Super Bowl",
+      "label": 0
+    },
+    {
+      "sentence": "where should I go for podcast suggestions",
+      "label": 0
+    },
+    {
+      "sentence": "get directions to home",
+      "label": 1
+    },
+    {
+      "sentence": "give me information on bitcoin price",
+      "label": 0
+    },
+    {
+      "sentence": "where is Sydney",
+      "label": 0
+    },
+    {
+      "sentence": "start the robot vacuum",
+      "label": 1
+    },
+    {
+      "sentence": "who is Ada Lovelace",
+      "label": 0
+    },
+    {
+      "sentence": "alert me at midnight",
+      "label": 1
+    },
+    {
+      "sentence": "find the latest on recipes",
+      "label": 0
+    },
+    {
+      "sentence": "tell me more about book recommendations",
+      "label": 0
+    },
+    {
+      "sentence": "reply to Dad",
+      "label": 1
+    },
+    {
+      "sentence": "search the web for mortgage rates",
+      "label": 0
+    },
+    {
+      "sentence": "close Netflix",
+      "label": 1
+    },
+    {
+      "sentence": "set the volume to fifty",
+      "label": 1
+    },
+    {
+      "sentence": "message Sarah saying call me back",
+      "label": 1
+    },
+    {
+      "sentence": "find out about first aid",
+      "label": 0
+    },
+    {
+      "sentence": "launch Netflix",
+      "label": 1
+    },
+    {
+      "sentence": "show me train schedules",
+      "label": 0
+    },
+    {
+      "sentence": "lights off in the office",
+      "label": 1
+    },
+    {
+      "sentence": "switch on the porch lights",
+      "label": 1
+    },
+    {
+      "sentence": "show me pictures of gardening tips",
+      "label": 0
+    },
+    {
+      "sentence": "find astronomy facts",
+      "label": 0
+    },
+    {
+      "sentence": "set a timer for fifteen minutes",
+      "label": 1
+    },
+    {
+      "sentence": "where is the nearest gym",
+      "label": 0
+    },
+    {
+      "sentence": "decrease the screen brightness",
+      "label": 1
+    },
+    {
+      "sentence": "navigate to the office",
+      "label": 1
+    },
+    {
+      "sentence": "find the latest on holiday destinations",
+      "label": 0
+    },
+    {
+      "sentence": "remind me about submit the report at midnight",
+      "label": 1
+    },
+    {
+      "sentence": "start navigation to home",
+      "label": 1
+    },
+    {
+      "sentence": "dim the study lights",
+      "label": 1
+    },
+    {
+      "sentence": "text John",
+      "label": 1
+    },
+    {
+      "sentence": "find details on space travel",
+      "label": 0
+    },
+    {
+      "sentence": "what are wedding venues",
+      "label": 0
+    },
+    {
+      "sentence": "when did the concert happen",
+      "label": 0
+    },
+    {
+      "sentence": "close the bedroom window",
+      "label": 1
+    },
+    {
+      "sentence": "where is Berlin",
+      "label": 0
+    },
+    {
+      "sentence": "turn on the television",
+      "label": 1
+    },
+    {
+      "sentence": "what is the best piano lessons",
+      "label": 0
+    },
+    {
+      "sentence": "find articles about scholarship applications",
+      "label": 0
+    },
+    {
+      "sentence": "set a timer for half an hour",
+      "label": 1
+    },
+    {
+      "sentence": "check the price of laptop deals",
+      "label": 0
+    },
+    {
+      "sentence": "who wrote the Godfather",
+      "label": 0
+    },
+    {
+      "sentence": "skip to the next track",
+      "label": 1
+    },
+    {
+      "sentence": "search for deep sea creatures",
+      "label": 0
+    },
+    {
+      "sentence": "play some country music",
+      "label": 1
+    },
+    {
+      "sentence": "how much does tennis scores cost",
+      "label": 0
+    },
+    {
+      "sentence": "how to start a business",
+      "label": 0
+    },
+    {
+      "sentence": "tell me more about stock market",
+      "label": 0
+    },
+    {
+      "sentence": "show me pictures of university rankings",
+      "label": 0
+    },
+    {
+      "sentence": "look up volcano eruptions for me",
+      "label": 0
+    },
+    {
+      "sentence": "turn the air conditioning off",
+      "label": 1
+    },
+    {
+      "sentence": "look up astronomy facts",
+      "label": 0
+    },
+    {
+      "sentence": "show me healthy meals",
+      "label": 0
+    },
+    {
+      "sentence": "navigate to school",
+      "label": 1
+    },
+    {
+      "sentence": "switch on the bathroom lights",
+      "label": 1
+    },
+    {
+      "sentence": "launch Spotify",
+      "label": 1
+    },
+    {
+      "sentence": "search online for flight tickets",
+      "label": 0
+    },
+    {
+      "sentence": "brighten the garage lights",
+      "label": 1
+    },
+    {
+      "sentence": "who invented car insurance",
+      "label": 0
+    },
+    {
+      "sentence": "send an email to Sarah",
+      "label": 1
+    },
+    {
+      "sentence": "search for football results",
+      "label": 0
+    },
+    {
+      "sentence": "what are the top hotel rooms",
+      "label": 0
+    },
+    {
+      "sentence": "where did the grand prix happen",
+      "label": 0
+    },
+    {
+      "sentence": "find articles about winter jackets",
+      "label": 0
+    },
+    {
+      "sentence": "find articles about volcano eruptions",
+      "label": 0
+    },
+    {
+      "sentence": "I need information on holiday destinations",
+      "label": 0
+    },
+    {
+      "sentence": "who is Lionel Messi",
+      "label": 0
+    },
+    {
+      "sentence": "I need information on salary comparisons",
+      "label": 0
+    },
+    {
+      "sentence": "unlock the back door",
+      "label": 1
+    },
+    {
+      "sentence": "send an email to Rachel",
+      "label": 1
+    },
+    {
+      "sentence": "open the curtains",
+      "label": 1
+    },
+    {
+      "sentence": "get directions to school",
+      "label": 1
+    },
+    {
+      "sentence": "search online for yoga exercises",
+      "label": 0
+    },
+    {
+      "sentence": "phone Mum",
+      "label": 1
+    },
+    {
+      "sentence": "turn the garden lights off",
+      "label": 1
+    },
+    {
+      "sentence": "turn the dining room lights off",
+      "label": 1
+    },
+    {
+      "sentence": "navigate to the train station",
+      "label": 1
+    },
+    {
+      "sentence": "remind me about pick up the kids at in two hours",
+      "label": 1
+    },
+    {
+      "sentence": "tell me about python programming",
+      "label": 0
+    },
+    {
+      "sentence": "what is the best stock market",
+      "label": 0
+    },
+    {
+      "sentence": "check the time in the nearest train station",
+      "label": 0
+    },
+    {
+      "sentence": "how does train schedules work",
+      "label": 0
+    },
+    {
+      "sentence": "find stock market",
+      "label": 0
+    },
+    {
+      "sentence": "get directions to the office",
+      "label": 1
+    },
+    {
+      "sentence": "when did the Olympics happen",
+      "label": 0
+    },
+    {
+      "sentence": "when did the festival happen",
+      "label": 0
+    },
+    {
+      "sentence": "set the volume to seventy",
+      "label": 1
+    },
+    {
+      "sentence": "switch off the conservatory lights",
+      "label": 1
+    },
+    {
+      "sentence": "look up dogs for me",
+      "label": 0
+    },
+    {
+      "sentence": "create an alarm for noon",
+      "label": 1
+    },
+    {
+      "sentence": "find out about video games",
+      "label": 0
+    },
+    {
+      "sentence": "check the score of the election",
+      "label": 0
+    },
+    {
+      "sentence": "search online for healthy meals",
+      "label": 0
+    },
+    {
+      "sentence": "when is the Champions League final",
+      "label": 0
+    },
+    {
+      "sentence": "run a search on laptop deals",
+      "label": 0
+    },
+    {
+      "sentence": "where is the nearest barber",
+      "label": 0
+    },
+    {
+      "sentence": "reply to Mike",
+      "label": 1
+    },
+    {
+      "sentence": "how long does photography tips take",
+      "label": 0
+    },
+    {
+      "sentence": "find tax rules",
+      "label": 0
+    },
+    {
+      "sentence": "take a screenshot",
+      "label": 1
+    },
+    {
+      "sentence": "set the thermostat to nineteen degrees",
+      "label": 1
+    },
+    {
+      "sentence": "remind me about call mum at half an hour",
+      "label": 1
+    },
+    {
+      "sentence": "how long does car insurance take",
+      "label": 0
+    },
+    {
+      "sentence": "find details on scholarship applications",
+      "label": 0
+    },
+    {
+      "sentence": "launch Settings",
+      "label": 1
+    },
+    {
+      "sentence": "ring Emma",
+      "label": 1
+    },
+    {
+      "sentence": "play the Beatles",
+      "label": 1
+    },
+    {
+      "sentence": "set a reminder for midnight",
+      "label": 1
+    },
+    {
+      "sentence": "check my texts",
+      "label": 1
+    },
+    {
+      "sentence": "set the thermostat to eighteen degrees",
+      "label": 1
+    },
+    {
+      "sentence": "play some blues music",
+      "label": 1
+    },
+    {
+      "sentence": "turn the air conditioning on",
+      "label": 1
+    },
+    {
+      "sentence": "give me information on parking spots",
+      "label": 0
+    },
+    {
+      "sentence": "how do I get to home",
+      "label": 1
+    },
+    {
+      "sentence": "who wrote the Mona Lisa",
+      "label": 0
+    },
+    {
+      "sentence": "shuffle my playlist",
+      "label": 1
+    },
+    {
+      "sentence": "check the price of holiday destinations",
+      "label": 0
+    },
+    {
+      "sentence": "send a message to David",
+      "label": 1
+    },
+    {
+      "sentence": "set a reminder for in two hours",
+      "label": 1
+    },
+    {
+      "sentence": "wake me up at six in the morning",
+      "label": 1
+    },
+    {
+      "sentence": "who wrote Bohemian Rhapsody",
+      "label": 0
+    },
+    {
+      "sentence": "find the latest on climate change",
+      "label": 0
+    },
+    {
+      "sentence": "show me car insurance",
+      "label": 0
+    },
+    {
+      "sentence": "dim the hallway lights",
+      "label": 1
+    },
+    {
+      "sentence": "run a search on volcano eruptions",
+      "label": 0
+    },
+    {
+      "sentence": "play my favourite playlist",
+      "label": 1
+    },
+    {
+      "sentence": "search online for painting techniques",
+      "label": 0
+    },
+    {
+      "sentence": "start navigation to the hospital",
+      "label": 1
+    },
+    {
+      "sentence": "read my latest email",
+      "label": 1
+    },
+    {
+      "sentence": "turn the attic lights off",
+      "label": 1
+    },
+    {
+      "sentence": "call Rachel",
+      "label": 1
+    },
+    {
+      "sentence": "look up scholarship applications for me",
+      "label": 0
+    },
+    {
+      "sentence": "look up quantum computing",
+      "label": 0
+    },
+    {
+      "sentence": "call David",
+      "label": 1
+    },
+    {
+      "sentence": "switch on the garden lights",
+      "label": 1
+    },
+    {
+      "sentence": "tell me about painting techniques",
+      "label": 0
+    },
+    {
+      "sentence": "disarm the alarm",
+      "label": 1
+    },
+    {
+      "sentence": "run a search on passport renewal",
+      "label": 0
+    },
+    {
+      "sentence": "where can I find gardening tips",
+      "label": 0
+    },
+    {
+      "sentence": "how does passport renewal work",
+      "label": 0
+    },
+    {
+      "sentence": "dial Emma",
+      "label": 1
+    },
+    {
+      "sentence": "play today's top hits",
+      "label": 1
+    },
+    {
+      "sentence": "where should I go for bitcoin price",
+      "label": 0
+    },
+    {
+      "sentence": "play my study playlist",
+      "label": 1
+    },
+    {
+      "sentence": "what is the best holiday destinations",
+      "label": 0
+    },
+    {
+      "sentence": "close the garage",
+      "label": 1
+    },
+    {
+      "sentence": "I need information on movie reviews",
+      "label": 0
+    },
+    {
+      "sentence": "switch off the bedroom lights",
+      "label": 1
+    },
+    {
+      "sentence": "turn the living room lights off",
+      "label": 1
+    },
+    {
+      "sentence": "show me hotel rooms",
+      "label": 0
+    },
+    {
+      "sentence": "tell me more about photography tips",
+      "label": 0
+    },
+    {
+      "sentence": "when was hotel rooms invented",
+      "label": 0
+    },
+    {
+      "sentence": "open the bedroom window",
+      "label": 1
+    },
+    {
+      "sentence": "unlock the front door",
+      "label": 1
+    },
+    {
+      "sentence": "dial Sarah",
+      "label": 1
+    },
+    {
+      "sentence": "search online for driving test tips",
+      "label": 0
+    },
+    {
+      "sentence": "get directions to Tesco",
+      "label": 1
+    },
+    {
+      "sentence": "find out about football results",
+      "label": 0
+    },
+    {
+      "sentence": "where is the Grand Canyon",
+      "label": 0
+    },
+    {
+      "sentence": "who wrote Harry Potter",
+      "label": 0
+    },
+    {
+      "sentence": "lights off in the study",
+      "label": 1
+    },
+    {
+      "sentence": "switch off the kitchen lights",
+      "label": 1
+    },
+    {
+      "sentence": "find articles about the solar system",
+      "label": 0
+    },
+    {
+      "sentence": "send an email to James",
+      "label": 1
+    },
+    {
+      "sentence": "I want to know about gardening tips",
+      "label": 0
+    },
+    {
+      "sentence": "what happened with deep sea creatures",
+      "label": 0
+    },
+    {
+      "sentence": "lights on in the basement",
+      "label": 1
+    },
+    {
+      "sentence": "message John saying thank you",
+      "label": 1
+    },
+    {
+      "sentence": "what is the best ocean currents",
+      "label": 0
+    },
+    {
+      "sentence": "stop the music",
+      "label": 1
+    },
+    {
+      "sentence": "where should I go for job interviews",
+      "label": 0
+    },
+    {
+      "sentence": "wake me up at noon",
+      "label": 1
+    },
+    {
+      "sentence": "turn on the coffee machine",
+      "label": 1
+    },
+    {
+      "sentence": "search online for home renovation",
+      "label": 0
+    },
+    {
+      "sentence": "turn off the microwave",
+      "label": 1
+    },
+    {
+      "sentence": "how much does first aid cost",
+      "label": 0
+    },
+    {
+      "sentence": "find cats",
+      "label": 0
+    },
+    {
+      "sentence": "how do you change a tyre",
+      "label": 0
+    },
+    {
+      "sentence": "look up gardening tips for me",
+      "label": 0
+    },
+    {
+      "sentence": "remind me about order groceries at three pm",
+      "label": 1
+    },
+    {
+      "sentence": "take me to Tesco",
+      "label": 1
+    },
+    {
+      "sentence": "do a search for salary comparisons",
+      "label": 0
+    },
+    {
+      "sentence": "when is the next the Super Bowl",
+      "label": 0
+    },
+    {
+      "sentence": "check the price of haircut styles",
+      "label": 0
+    },
+    {
+      "sentence": "how do you meditate properly",
+      "label": 0
+    },
+    {
+      "sentence": "check the price of movie reviews",
+      "label": 0
+    },
+    {
+      "sentence": "find the latest on deep sea creatures",
+      "label": 0
+    },
+    {
+      "sentence": "look up book recommendations",
+      "label": 0
+    },
+    {
+      "sentence": "set an alarm for in two hours",
+      "label": 1
+    },
+    {
+      "sentence": "set a reminder to order groceries at seven am",
+      "label": 1
+    },
+    {
+      "sentence": "turn the kitchen lights on",
+      "label": 1
+    },
+    {
+      "sentence": "give me details about photography tips",
+      "label": 0
+    },
+    {
+      "sentence": "check the weather in Berlin",
+      "label": 0
+    },
+    {
+      "sentence": "who discovered restaurant menus",
+      "label": 0
+    },
+    {
+      "sentence": "send an email to Mike",
+      "label": 1
+    },
+    {
+      "sentence": "tell me more about home renovation",
+      "label": 0
+    },
+    {
+      "sentence": "turn off wifi",
+      "label": 1
+    },
+    {
+      "sentence": "what are job interviews",
+      "label": 0
+    },
+    {
+      "sentence": "where is the nearest park",
+      "label": 0
+    },
+    {
+      "sentence": "set the thermostat to twenty five degrees",
+      "label": 1
+    },
+    {
+      "sentence": "close WhatsApp",
+      "label": 1
+    },
+    {
+      "sentence": "how do I get to school",
+      "label": 1
+    },
+    {
+      "sentence": "find ocean currents",
+      "label": 0
+    },
+    {
+      "sentence": "find the latest on parking spots",
+      "label": 0
+    },
+    {
+      "sentence": "who won the election",
+      "label": 0
+    },
+    {
+      "sentence": "where did the concert happen",
+      "label": 0
+    },
+    {
+      "sentence": "who is Elon Musk",
+      "label": 0
+    },
+    {
+      "sentence": "turn off the air purifier",
+      "label": 1
+    },
+    {
+      "sentence": "check my calendar",
+      "label": 0
+    },
+    {
+      "sentence": "how does guitar chords work",
+      "label": 0
+    },
+    {
+      "sentence": "give me information on football results",
+      "label": 0
+    },
+    {
+      "sentence": "create an alarm for seven am",
+      "label": 1
+    },
+    {
+      "sentence": "where can I find home renovation",
+      "label": 0
+    },
+    {
+      "sentence": "who is Nikola Tesla",
+      "label": 0
+    },
+    {
+      "sentence": "create an alarm for three pm",
+      "label": 1
+    },
+    {
+      "sentence": "what does train schedules mean",
+      "label": 0
+    },
+    {
+      "sentence": "what is the best book recommendations",
+      "label": 0
+    },
+    {
+      "sentence": "remind me about buy milk at seven am",
+      "label": 1
+    },
+    {
+      "sentence": "who won the grand prix",
+      "label": 0
+    },
+    {
+      "sentence": "search for job interviews",
+      "label": 0
+    },
+    {
+      "sentence": "ring Mike",
+      "label": 1
+    },
+    {
+      "sentence": "ring Rachel",
+      "label": 1
+    },
+    {
+      "sentence": "when was bitcoin price invented",
+      "label": 0
+    },
+    {
+      "sentence": "set a timer for ten minutes",
+      "label": 1
+    },
+    {
+      "sentence": "turn off the attic lights",
+      "label": 1
+    },
+    {
+      "sentence": "I need information on laptop deals",
+      "label": 0
+    },
+    {
+      "sentence": "close the blinds",
+      "label": 1
+    },
+    {
+      "sentence": "start navigation to the train station",
+      "label": 1
+    },
+    {
+      "sentence": "play some electronic music",
+      "label": 1
+    },
+    {
+      "sentence": "turn on bluetooth",
+      "label": 1
+    },
+    {
+      "sentence": "I want to know about rainforest animals",
+      "label": 0
+    },
+    {
+      "sentence": "what is the difference between electric and hybrid cars",
+      "label": 0
+    },
+    {
+      "sentence": "when does park open",
+      "label": 0
+    },
+    {
+      "sentence": "show me pictures of football results",
+      "label": 0
+    },
+    {
+      "sentence": "turn on the kitchen lights",
+      "label": 1
+    },
+    {
+      "sentence": "how do I get to the train station",
+      "label": 1
+    },
+    {
+      "sentence": "how much does passport renewal cost",
+      "label": 0
+    },
+    {
+      "sentence": "enable do not disturb",
+      "label": 1
+    },
+    {
+      "sentence": "switch off the dining room lights",
+      "label": 1
+    },
+    {
+      "sentence": "set the dining room lights to full",
+      "label": 1
+    },
+    {
+      "sentence": "what does astronomy facts mean",
+      "label": 0
+    },
+    {
+      "sentence": "close the front door",
+      "label": 1
+    },
+    {
+      "sentence": "where should I go for volcano eruptions",
+      "label": 0
+    },
+    {
+      "sentence": "find mortgage rates",
+      "label": 0
+    },
+    {
+      "sentence": "what is the difference between cats and dogs",
+      "label": 0
+    },
+    {
+      "sentence": "play some folk music",
+      "label": 1
+    },
+    {
+      "sentence": "find details on job interviews",
+      "label": 0
+    },
+    {
+      "sentence": "open the kitchen window",
+      "label": 1
+    },
+    {
+      "sentence": "give me information on coffee beans",
+      "label": 0
+    },
+    {
+      "sentence": "when is the next the world cup",
+      "label": 0
+    },
+    {
+      "sentence": "how do I get to the gym",
+      "label": 1
+    },
+    {
+      "sentence": "remind me about attend the meeting at five minutes",
+      "label": 1
+    },
+    {
+      "sentence": "turn off the fan",
+      "label": 1
+    },
+    {
+      "sentence": "set a reminder for five minutes",
+      "label": 1
+    },
+    {
+      "sentence": "who is the president",
+      "label": 0
+    },
+    {
+      "sentence": "what is haircut styles",
+      "label": 0
+    },
+    {
+      "sentence": "play some jazz music",
+      "label": 1
+    },
+    {
+      "sentence": "open the blinds",
+      "label": 1
+    },
+    {
+      "sentence": "switch off the garden lights",
+      "label": 1
+    },
+    {
+      "sentence": "switch off the office lights",
+      "label": 1
+    },
+    {
+      "sentence": "what is the difference between Netflix and Disney Plus",
+      "label": 0
+    },
+    {
+      "sentence": "find details on painting techniques",
+      "label": 0
+    },
+    {
+      "sentence": "show me first aid",
+      "label": 0
+    },
+    {
+      "sentence": "how many running shoes are there",
+      "label": 0
+    },
+    {
+      "sentence": "alert me at half an hour",
+      "label": 1
+    },
+    {
+      "sentence": "show me pictures of quantum computing",
+      "label": 0
+    },
+    {
+      "sentence": "who won the marathon",
+      "label": 0
+    },
+    {
+      "sentence": "what are the top the solar system",
+      "label": 0
+    },
+    {
+      "sentence": "restart the computer",
+      "label": 1
+    },
+    {
+      "sentence": "send a message to Tom",
+      "label": 1
+    },
+    {
+      "sentence": "when is the next the marathon",
+      "label": 0
+    },
+    {
+      "sentence": "play the latest podcast",
+      "label": 1
+    },
+    {
+      "sentence": "open the calculator",
+      "label": 1
+    },
+    {
+      "sentence": "take me to home",
+      "label": 1
+    },
+    {
+      "sentence": "get directions to the nearest petrol station",
+      "label": 1
+    },
+    {
+      "sentence": "when does bank open",
+      "label": 0
+    },
+    {
+      "sentence": "when did the marathon happen",
+      "label": 0
+    },
+    {
+      "sentence": "dim the conservatory lights",
+      "label": 1
+    },
+    {
+      "sentence": "check the score of the concert",
+      "label": 0
+    },
+    {
+      "sentence": "message James saying happy birthday",
+      "label": 1
+    },
+    {
+      "sentence": "brighten the hallway lights",
+      "label": 1
+    },
+    {
+      "sentence": "look up wedding venues",
+      "label": 0
+    },
+    {
+      "sentence": "switch on the garage lights",
+      "label": 1
+    },
+    {
+      "sentence": "who invented football results",
+      "label": 0
+    },
+    {
+      "sentence": "turn the volume up",
+      "label": 1
+    },
+    {
+      "sentence": "turn on the washing machine",
+      "label": 1
+    },
+    {
+      "sentence": "turn the conservatory lights on",
+      "label": 1
+    },
+    {
+      "sentence": "lock the garage door",
+      "label": 1
+    },
+    {
+      "sentence": "stop the dishwasher",
+      "label": 1
+    },
+    {
+      "sentence": "turn the hallway lights on",
+      "label": 1
+    },
+    {
+      "sentence": "turn on the nursery lights",
+      "label": 1
+    },
+    {
+      "sentence": "shut down the laptop",
+      "label": 1
+    },
+    {
+      "sentence": "what is phone cases",
+      "label": 0
+    },
+    {
+      "sentence": "when is the next the concert",
+      "label": 0
+    },
+    {
+      "sentence": "create an alarm for quarter past nine",
+      "label": 1
+    },
+    {
+      "sentence": "go back to the previous song",
+      "label": 1
+    },
+    {
+      "sentence": "how do I get to the office",
+      "label": 1
+    },
+    {
+      "sentence": "set a timer for forty five minutes",
+      "label": 1
+    },
+    {
+      "sentence": "what are gym memberships",
+      "label": 0
+    },
+    {
+      "sentence": "how much does restaurant menus cost",
+      "label": 0
+    },
+    {
+      "sentence": "turn the nursery lights off",
+      "label": 1
+    },
+    {
+      "sentence": "dim the garage lights",
+      "label": 1
+    },
+    {
+      "sentence": "search online for car insurance",
+      "label": 0
+    },
+    {
+      "sentence": "start the television",
+      "label": 1
+    },
+    {
+      "sentence": "check the score of the marathon",
+      "label": 0
+    },
+    {
+      "sentence": "dial Dad",
+      "label": 1
+    },
+    {
+      "sentence": "I need information on home renovation",
+      "label": 0
+    },
+    {
+      "sentence": "find me running shoes",
+      "label": 0
+    },
+    {
+      "sentence": "find out about machine learning",
+      "label": 0
+    },
+    {
+      "sentence": "dim the living room lights",
+      "label": 1
+    },
+    {
+      "sentence": "schedule a reminder for in two hours",
+      "label": 1
+    },
+    {
+      "sentence": "take me to work",
+      "label": 1
+    },
+    {
+      "sentence": "send a message to Emma",
+      "label": 1
+    },
+    {
+      "sentence": "launch YouTube",
+      "label": 1
+    },
+    {
+      "sentence": "play lo-fi beats",
+      "label": 1
+    },
+    {
+      "sentence": "look up coffee beans online",
+      "label": 0
+    },
+    {
+      "sentence": "play the latest news briefing",
+      "label": 1
+    },
+    {
+      "sentence": "what does guitar chords mean",
+      "label": 0
+    },
+    {
+      "sentence": "check the news about podcast suggestions",
+      "label": 0
+    },
+    {
+      "sentence": "call Lisa",
+      "label": 1
+    },
+    {
+      "sentence": "dim the nursery lights",
+      "label": 1
+    },
+    {
+      "sentence": "check the price of painting techniques",
+      "label": 0
+    },
+    {
+      "sentence": "find me machine learning",
+      "label": 0
+    },
+    {
+      "sentence": "when did the Super Bowl happen",
+      "label": 0
+    },
+    {
+      "sentence": "how does driving test tips work",
+      "label": 0
+    },
+    {
+      "sentence": "take me to school",
+      "label": 1
+    },
+    {
+      "sentence": "remind me to buy milk",
+      "label": 1
+    },
+    {
+      "sentence": "find me passport renewal",
+      "label": 0
+    },
+    {
+      "sentence": "set a reminder for six in the morning",
+      "label": 1
+    },
+    {
+      "sentence": "find me university rankings",
+      "label": 0
+    },
+    {
+      "sentence": "do a search for bus routes",
+      "label": 0
+    },
+    {
+      "sentence": "wake me up at half an hour",
+      "label": 1
+    },
+    {
+      "sentence": "increase the screen brightness",
+      "label": 1
+    },
+    {
+      "sentence": "create an alarm for half an hour",
+      "label": 1
+    },
+    {
+      "sentence": "check the price of dinosaur species",
+      "label": 0
+    },
+    {
+      "sentence": "what is laptop deals",
+      "label": 0
+    },
+    {
+      "sentence": "ring Mum",
+      "label": 1
+    },
+    {
+      "sentence": "check if running shoes is open",
+      "label": 0
+    },
+    {
+      "sentence": "when did the grand prix happen",
+      "label": 0
+    },
+    {
+      "sentence": "find information about dogs",
+      "label": 0
+    },
+    {
+      "sentence": "how far is Mount Everest",
+      "label": 0
+    },
+    {
+      "sentence": "turn on the conservatory lights",
+      "label": 1
+    },
+    {
+      "sentence": "set a reminder to book the dentist at quarter past nine",
+      "label": 1
+    },
+    {
+      "sentence": "wake me up at seven am",
+      "label": 1
+    },
+    {
+      "sentence": "where is the nearest library",
+      "label": 0
+    },
+    {
+      "sentence": "what are the top gardening tips",
+      "label": 0
+    },
+    {
+      "sentence": "give me information on first aid",
+      "label": 0
+    },
+    {
+      "sentence": "alert me at ten o clock",
+      "label": 1
+    },
+    {
+      "sentence": "check if first aid is open",
+      "label": 0
+    },
+    {
+      "sentence": "how do I get to the hospital",
+      "label": 1
+    },
+    {
+      "sentence": "turn on the heater",
+      "label": 1
+    },
+    {
+      "sentence": "how far is Tokyo",
+      "label": 0
+    },
+    {
+      "sentence": "start the washing machine",
+      "label": 1
+    },
+    {
+      "sentence": "who directed Star Wars",
+      "label": 0
+    },
+    {
+      "sentence": "take me to the airport",
+      "label": 1
+    },
+    {
+      "sentence": "set an alarm for six in the morning",
+      "label": 1
+    },
+    {
+      "sentence": "I need information on car insurance",
+      "label": 0
+    },
+    {
+      "sentence": "find details on haircut styles",
+      "label": 0
+    },
+    {
+      "sentence": "navigate to the hospital",
+      "label": 1
+    },
+    {
+      "sentence": "check the score of the Oscars",
+      "label": 0
+    },
+    {
+      "sentence": "play some classical music",
+      "label": 1
+    },
+    {
+      "sentence": "check the news about climate change",
+      "label": 0
+    },
+    {
+      "sentence": "brighten the kitchen lights",
+      "label": 1
+    },
+    {
+      "sentence": "where should I go for video games",
+      "label": 0
+    },
+    {
+      "sentence": "remind me about take the bins out at ten o clock",
+      "label": 1
+    },
+    {
+      "sentence": "find out about quantum computing",
+      "label": 0
+    },
+    {
+      "sentence": "find information about python programming",
+      "label": 0
+    },
+    {
+      "sentence": "send a message to Rachel",
+      "label": 1
+    },
+    {
+      "sentence": "reply to Sarah",
+      "label": 1
+    },
+    {
+      "sentence": "start navigation to work",
+      "label": 1
+    },
+    {
+      "sentence": "find me volcano eruptions",
+      "label": 0
+    },
+    {
+      "sentence": "when is the Oscars",
+      "label": 0
+    },
+    {
+      "sentence": "how to solve a Rubik cube",
+      "label": 0
+    },
+    {
+      "sentence": "find articles about skincare products",
+      "label": 0
+    },
+    {
+      "sentence": "look up stock market for me",
+      "label": 0
+    },
+    {
+      "sentence": "remind me about buy milk at eight thirty",
+      "label": 1
+    },
+    {
+      "sentence": "resume playback",
+      "label": 1
+    },
+    {
+      "sentence": "schedule a reminder for half an hour",
+      "label": 1
+    },
+    {
+      "sentence": "alert me at three pm",
+      "label": 1
+    },
+    {
+      "sentence": "where is New York",
+      "label": 0
+    },
+    {
+      "sentence": "where can I find visa requirements",
+      "label": 0
+    },
+    {
+      "sentence": "how much does healthy meals cost",
+      "label": 0
+    },
+    {
+      "sentence": "send a message to Mike",
+      "label": 1
+    },
+    {
+      "sentence": "find articles about guitar chords",
+      "label": 0
+    },
+    {
+      "sentence": "when is the Super Bowl",
+      "label": 0
+    }
+  ],
+  "val": [
+    {
+      "sentence": "set a reminder for noon",
+      "label": 1
+    },
+    {
+      "sentence": "remind me about renew the insurance at noon",
+      "label": 1
+    },
+    {
+      "sentence": "when did the Oscars happen",
+      "label": 0
+    },
+    {
+      "sentence": "close YouTube",
+      "label": 1
+    },
+    {
+      "sentence": "search for space travel",
+      "label": 0
+    },
+    {
+      "sentence": "show me machine learning",
+      "label": 0
+    },
+    {
+      "sentence": "when is the next the Olympics",
+      "label": 0
+    },
+    {
+      "sentence": "give me information on piano lessons",
+      "label": 0
+    },
+    {
+      "sentence": "reply to Tom",
+      "label": 1
+    },
+    {
+      "sentence": "brighten the porch lights",
+      "label": 1
+    },
+    {
+      "sentence": "pause the music",
+      "label": 1
+    },
+    {
+      "sentence": "create an alarm for in two hours",
+      "label": 1
+    },
+    {
+      "sentence": "what is the best coffee beans",
+      "label": 0
+    },
+    {
+      "sentence": "switch on the attic lights",
+      "label": 1
+    },
+    {
+      "sentence": "set an alarm for midnight",
+      "label": 1
+    },
+    {
+      "sentence": "switch on the conservatory lights",
+      "label": 1
+    },
+    {
+      "sentence": "set a reminder for half an hour",
+      "label": 1
+    },
+    {
+      "sentence": "what is the best deep sea creatures",
+      "label": 0
+    },
+    {
+      "sentence": "show me video games",
+      "label": 0
+    },
+    {
+      "sentence": "turn the heating on",
+      "label": 1
+    },
+    {
+      "sentence": "what is the best recipes",
+      "label": 0
+    },
+    {
+      "sentence": "set the nursery lights to medium",
+      "label": 1
+    },
+    {
+      "sentence": "when was yoga exercises invented",
+      "label": 0
+    },
+    {
+      "sentence": "how long does driving test tips take",
+      "label": 0
+    },
+    {
+      "sentence": "where is the nearest cinema",
+      "label": 0
+    },
+    {
+      "sentence": "schedule a reminder for seven am",
+      "label": 1
+    },
+    {
+      "sentence": "alert me at noon",
+      "label": 1
+    },
+    {
+      "sentence": "who invented volcano eruptions",
+      "label": 0
+    },
+    {
+      "sentence": "give me details about university rankings",
+      "label": 0
+    },
+    {
+      "sentence": "send an email to Lisa",
+      "label": 1
+    },
+    {
+      "sentence": "who directed the Godfather",
+      "label": 0
+    },
+    {
+      "sentence": "give me details about quantum computing",
+      "label": 0
+    },
+    {
+      "sentence": "what is coffee beans",
+      "label": 0
+    },
+    {
+      "sentence": "what happened with phone cases",
+      "label": 0
+    },
+    {
+      "sentence": "what is the best job interviews",
+      "label": 0
+    },
+    {
+      "sentence": "find articles about first aid",
+      "label": 0
+    },
+    {
+      "sentence": "find the latest on python programming",
+      "label": 0
+    },
+    {
+      "sentence": "remind me to submit the report",
+      "label": 1
+    },
+    {
+      "sentence": "launch the browser",
+      "label": 1
+    },
+    {
+      "sentence": "who wrote Star Wars",
+      "label": 0
+    },
+    {
+      "sentence": "show me pictures of bus routes",
+      "label": 0
+    },
+    {
+      "sentence": "check if electric cars is open",
+      "label": 0
+    },
+    {
+      "sentence": "how long does video games take",
+      "label": 0
+    },
+    {
+      "sentence": "text Tom",
+      "label": 1
+    },
+    {
+      "sentence": "search for haircut styles",
+      "label": 0
+    },
+    {
+      "sentence": "check if healthy meals is open",
+      "label": 0
+    },
+    {
+      "sentence": "switch off the nursery lights",
+      "label": 1
+    },
+    {
+      "sentence": "what is the difference between iOS and Android",
+      "label": 0
+    },
+    {
+      "sentence": "who wrote Pride and Prejudice",
+      "label": 0
+    },
+    {
+      "sentence": "find articles about laptop deals",
+      "label": 0
+    },
+    {
+      "sentence": "stop the dehumidifier",
+      "label": 1
+    },
+    {
+      "sentence": "get directions to the airport",
+      "label": 1
+    },
+    {
+      "sentence": "remind me to renew the insurance",
+      "label": 1
+    },
+    {
+      "sentence": "play workout music",
+      "label": 1
+    },
+    {
+      "sentence": "play my chill playlist",
+      "label": 1
+    },
+    {
+      "sentence": "play my party playlist",
+      "label": 1
+    },
+    {
+      "sentence": "set the porch lights to medium",
+      "label": 1
+    },
+    {
+      "sentence": "when did the Champions League final happen",
+      "label": 0
+    },
+    {
+      "sentence": "arm the security system",
+      "label": 1
+    },
+    {
+      "sentence": "what does recipes mean",
+      "label": 0
+    },
+    {
+      "sentence": "what are the top bitcoin price",
+      "label": 0
+    },
+    {
+      "sentence": "message Alex saying happy birthday",
+      "label": 1
+    },
+    {
+      "sentence": "google photography tips",
+      "label": 0
+    },
+    {
+      "sentence": "take a photo",
+      "label": 1
+    },
+    {
+      "sentence": "call Emma",
+      "label": 1
+    },
+    {
+      "sentence": "set a reminder for quarter past nine",
+      "label": 1
+    },
+    {
+      "sentence": "find me car insurance",
+      "label": 0
+    },
+    {
+      "sentence": "ring Lisa",
+      "label": 1
+    },
+    {
+      "sentence": "remind me about feed the cat at five minutes",
+      "label": 1
+    },
+    {
+      "sentence": "find out about volcano eruptions",
+      "label": 0
+    },
+    {
+      "sentence": "what does yoga exercises mean",
+      "label": 0
+    },
+    {
+      "sentence": "look up volcano eruptions online",
+      "label": 0
+    },
+    {
+      "sentence": "turn off the living room lights",
+      "label": 1
+    },
+    {
+      "sentence": "when does barber open",
+      "label": 0
+    },
+    {
+      "sentence": "check the time in the Eiffel Tower",
+      "label": 0
+    },
+    {
+      "sentence": "I need information on video games",
+      "label": 0
+    },
+    {
+      "sentence": "who invented hotel rooms",
+      "label": 0
+    },
+    {
+      "sentence": "search the web for ocean currents",
+      "label": 0
+    },
+    {
+      "sentence": "when did the election happen",
+      "label": 0
+    },
+    {
+      "sentence": "dim the dining room lights",
+      "label": 1
+    },
+    {
+      "sentence": "do a search for bitcoin price",
+      "label": 0
+    },
+    {
+      "sentence": "where should I go for home renovation",
+      "label": 0
+    },
+    {
+      "sentence": "what happened with tax rules",
+      "label": 0
+    },
+    {
+      "sentence": "show me podcast suggestions",
+      "label": 0
+    },
+    {
+      "sentence": "who is Shakespeare",
+      "label": 0
+    },
+    {
+      "sentence": "lights off in the bedroom",
+      "label": 1
+    },
+    {
+      "sentence": "what is the best gardening tips",
+      "label": 0
+    },
+    {
+      "sentence": "where should I go for salary comparisons",
+      "label": 0
+    },
+    {
+      "sentence": "get directions to the hospital",
+      "label": 1
+    },
+    {
+      "sentence": "navigate to the gym",
+      "label": 1
+    }
+  ],
+  "test": [
+    {
+      "sentence": "set the volume to maximum",
+      "label": 1
+    },
+    {
+      "sentence": "activate the robot vacuum",
+      "label": 1
+    },
+    {
+      "sentence": "ring Sophie",
+      "label": 1
+    },
+    {
+      "sentence": "text Sophie",
+      "label": 1
+    },
+    {
+      "sentence": "stop the heater",
+      "label": 1
+    },
+    {
+      "sentence": "turn off the washing machine",
+      "label": 1
+    },
+    {
+      "sentence": "how much does movie reviews cost",
+      "label": 0
+    },
+    {
+      "sentence": "show me stock market",
+      "label": 0
+    },
+    {
+      "sentence": "lock the side gate",
+      "label": 1
+    },
+    {
+      "sentence": "when does cinema open",
+      "label": 0
+    },
+    {
+      "sentence": "find details on wedding venues",
+      "label": 0
+    },
+    {
+      "sentence": "remind me to take the bins out",
+      "label": 1
+    },
+    {
+      "sentence": "read my messages",
+      "label": 1
+    },
+    {
+      "sentence": "start navigation to school",
+      "label": 1
+    },
+    {
+      "sentence": "check the time in Paris",
+      "label": 0
+    },
+    {
+      "sentence": "start navigation to the nearest petrol station",
+      "label": 1
+    },
+    {
+      "sentence": "where did the Champions League final happen",
+      "label": 0
+    },
+    {
+      "sentence": "what is the difference between renting and buying",
+      "label": 0
+    },
+    {
+      "sentence": "remind me about pick up the kids at quarter past nine",
+      "label": 1
+    },
+    {
+      "sentence": "turn on the attic lights",
+      "label": 1
+    },
+    {
+      "sentence": "start the heater",
+      "label": 1
+    },
+    {
+      "sentence": "lights on in the garden",
+      "label": 1
+    },
+    {
+      "sentence": "I need information on tennis scores",
+      "label": 0
+    },
+    {
+      "sentence": "skip this song",
+      "label": 1
+    },
+    {
+      "sentence": "who invented baby names",
+      "label": 0
+    },
+    {
+      "sentence": "switch on the dining room lights",
+      "label": 1
+    },
+    {
+      "sentence": "how do you solve a Rubik cube",
+      "label": 0
+    },
+    {
+      "sentence": "open Settings",
+      "label": 1
+    },
+    {
+      "sentence": "remind me to water the plants",
+      "label": 1
+    },
+    {
+      "sentence": "where can I find dogs",
+      "label": 0
+    },
+    {
+      "sentence": "who is Albert Einstein",
+      "label": 0
+    },
+    {
+      "sentence": "switch off the hallway lights",
+      "label": 1
+    },
+    {
+      "sentence": "check the news about stock market",
+      "label": 0
+    },
+    {
+      "sentence": "where can I find volcano eruptions",
+      "label": 0
+    },
+    {
+      "sentence": "find the latest on flight tickets",
+      "label": 0
+    },
+    {
+      "sentence": "set an alarm for three pm",
+      "label": 1
+    },
+    {
+      "sentence": "when does supermarket open",
+      "label": 0
+    },
+    {
+      "sentence": "dim the bedroom lights",
+      "label": 1
+    },
+    {
+      "sentence": "turn the volume down",
+      "label": 1
+    },
+    {
+      "sentence": "text Emma",
+      "label": 1
+    },
+    {
+      "sentence": "where can I find scholarship applications",
+      "label": 0
+    },
+    {
+      "sentence": "reply to Emma",
+      "label": 1
+    },
+    {
+      "sentence": "turn off the heater",
+      "label": 1
+    },
+    {
+      "sentence": "alert me at in two hours",
+      "label": 1
+    },
+    {
+      "sentence": "schedule a reminder for midnight",
+      "label": 1
+    },
+    {
+      "sentence": "google parking spots",
+      "label": 0
+    },
+    {
+      "sentence": "where should I go for car insurance",
+      "label": 0
+    },
+    {
+      "sentence": "I want to know about tax rules",
+      "label": 0
+    },
+    {
+      "sentence": "how to meditate properly",
+      "label": 0
+    },
+    {
+      "sentence": "reply to James",
+      "label": 1
+    },
+    {
+      "sentence": "set the porch lights to fifty percent",
+      "label": 1
+    },
+    {
+      "sentence": "turn the heating off",
+      "label": 1
+    },
+    {
+      "sentence": "open YouTube",
+      "label": 1
+    },
+    {
+      "sentence": "launch Notes",
+      "label": 1
+    },
+    {
+      "sentence": "turn on the bathroom lights",
+      "label": 1
+    },
+    {
+      "sentence": "get directions to the gym",
+      "label": 1
+    },
+    {
+      "sentence": "remind me about water the plants at ten o clock",
+      "label": 1
+    },
+    {
+      "sentence": "start navigation to the gym",
+      "label": 1
+    },
+    {
+      "sentence": "switch on the nursery lights",
+      "label": 1
+    },
+    {
+      "sentence": "look up python programming online",
+      "label": 0
+    },
+    {
+      "sentence": "who won the Olympics",
+      "label": 0
+    },
+    {
+      "sentence": "stop the microwave",
+      "label": 1
+    },
+    {
+      "sentence": "when does pharmacy open",
+      "label": 0
+    },
+    {
+      "sentence": "who discovered car insurance",
+      "label": 0
+    },
+    {
+      "sentence": "disable airplane mode",
+      "label": 1
+    },
+    {
+      "sentence": "set the bathroom lights to bright",
+      "label": 1
+    },
+    {
+      "sentence": "what is climate change",
+      "label": 0
+    },
+    {
+      "sentence": "run a search on piano lessons",
+      "label": 0
+    },
+    {
+      "sentence": "unmute the speakers",
+      "label": 1
+    },
+    {
+      "sentence": "look up guitar chords online",
+      "label": 0
+    },
+    {
+      "sentence": "how to tie a tie",
+      "label": 0
+    },
+    {
+      "sentence": "how many vitamin supplements are there",
+      "label": 0
+    },
+    {
+      "sentence": "stop the oven",
+      "label": 1
+    },
+    {
+      "sentence": "who invented scholarship applications",
+      "label": 0
+    },
+    {
+      "sentence": "remind me about pick up the kids at three pm",
+      "label": 1
+    },
+    {
+      "sentence": "turn on the bedroom lights",
+      "label": 1
+    },
+    {
+      "sentence": "find articles about holiday destinations",
+      "label": 0
+    },
+    {
+      "sentence": "remind me to book the dentist",
+      "label": 1
+    },
+    {
+      "sentence": "check the time in New York",
+      "label": 0
+    },
+    {
+      "sentence": "turn on the hallway lights",
+      "label": 1
+    },
+    {
+      "sentence": "set a reminder for seven am",
+      "label": 1
+    },
+    {
+      "sentence": "what happened with bus routes",
+      "label": 0
+    },
+    {
+      "sentence": "what does car insurance mean",
+      "label": 0
+    },
+    {
+      "sentence": "create an alarm for five minutes",
+      "label": 1
+    },
+    {
+      "sentence": "remind me to attend the meeting",
+      "label": 1
+    },
+    {
+      "sentence": "play my workout playlist",
+      "label": 1
+    },
+    {
+      "sentence": "start the oven",
+      "label": 1
+    },
+    {
+      "sentence": "how far is the nearest train station",
+      "label": 0
+    },
+    {
+      "sentence": "reply to Sophie",
+      "label": 1
+    },
+    {
+      "sentence": "navigate to the nearest petrol station",
+      "label": 1
+    }
+  ]
+}

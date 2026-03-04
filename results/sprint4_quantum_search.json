@@ -1,0 +1,66 @@
+{
+  "algorithm": "Grover's Search",
+  "scaling_tests": [
+    {
+      "n_qubits": 2,
+      "search_space": 4,
+      "target": 2,
+      "iterations": 1,
+      "success_probability": 1.0,
+      "correct": true,
+      "classical_queries": 2.0,
+      "quantum_queries": 1,
+      "speedup": 2.0
+    },
+    {
+      "n_qubits": 3,
+      "search_space": 8,
+      "target": 3,
+      "iterations": 2,
+      "success_probability": 0.9453,
+      "correct": true,
+      "classical_queries": 4.0,
+      "quantum_queries": 2,
+      "speedup": 2.0
+    },
+    {
+      "n_qubits": 4,
+      "search_space": 16,
+      "target": 12,
+      "iterations": 3,
+      "success_probability": 0.9492,
+      "correct": true,
+      "classical_queries": 8.0,
+      "quantum_queries": 3,
+      "speedup": 2.67
+    },
+    {
+      "n_qubits": 5,
+      "search_space": 32,
+      "target": 14,
+      "iterations": 4,
+      "success_probability": 0.998,
+      "correct": true,
+      "classical_queries": 16.0,
+      "quantum_queries": 4,
+      "speedup": 4.0
+    },
+    {
+      "n_qubits": 6,
+      "search_space": 64,
+      "target": 42,
+      "iterations": 6,
+      "success_probability": 0.9922,
+      "correct": true,
+      "classical_queries": 32.0,
+      "quantum_queries": 6,
+      "speedup": 5.33
+    }
+  ],
+  "knowledge_base_demo": {
+    "query": "What are my stocks doing?",
+    "target": 7,
+    "found": true,
+    "iterations": 2
+  }
+}
