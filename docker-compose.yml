@@ -1,0 +1,52 @@
+version: "3.9"
+
+x-common: &common
+  build:
+    context: .
+    dockerfile: Dockerfile.base
+  env_file:
+    - config/local.env
+  restart: unless-stopped
+
+services:
+  gateway:
+    <<: *common
+    command: uvicorn modules.gateway.service:app --host 0.0.0.0 --port 3030
+    ports:
+      - "3030:3030"
+    depends_on:
+      - credibility
+      - qkd
+      - search
+      - reasoning
+      - emotion
+
+  credibility:
+    <<: *common
+    command: uvicorn modules.credibility.service:app --host 0.0.0.0 --port 3031
+    ports:
+      - "3031:3031"
+
+  qkd:
+    <<: *common
+    command: uvicorn modules.qkd.service:app --host 0.0.0.0 --port 3032
+    ports:
+      - "3032:3032"
+
+  search:
+    <<: *common
+    command: uvicorn modules.search.service:app --host 0.0.0.0 --port 3033
+    ports:
+      - "3033:3033"
+
+  reasoning:
+    <<: *common
+    command: uvicorn modules.reasoning.service:app --host 0.0.0.0 --port 3034
+    ports:
+      - "3034:3034"
+
+  emotion:
+    <<: *common
+    command: uvicorn modules.emotion.service:app --host 0.0.0.0 --port 3035
+    ports:
+      - "3035:3035"
